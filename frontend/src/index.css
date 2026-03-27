@@ -1,3 +1,107 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root {
+  --accent: #00D9FF;
+  --safe: #10B981;
+  --warn: #F59E0B;
+  --danger: #EF4444;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  background-color: #080B12;
+  color: #E5E7EB;
+  font-family: 'DM Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 5px; }
+::-webkit-scrollbar-track { background: #0D1117; }
+::-webkit-scrollbar-thumb { background: #374151; border-radius: 4px; }
+::-webkit-scrollbar-thumb:hover { background: #4B5563; }
+
+/* Glass card */
+.glass {
+  background: rgba(17, 24, 39, 0.8);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255,255,255,0.06);
+}
+
+/* Accent glow */
+.glow-accent {
+  box-shadow: 0 0 20px rgba(0, 217, 255, 0.2), 0 0 40px rgba(0, 217, 255, 0.08);
+}
+
+/* Noise texture overlay */
+.noise::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.03'/%3E%3C/svg%3E");
+  pointer-events: none;
+  border-radius: inherit;
+}
+
+/* Trust score ring animation */
+@keyframes dashOffset {
+  from { stroke-dashoffset: 283; }
+  to { stroke-dashoffset: var(--target-offset); }
+}
+
+.score-ring {
+  animation: dashOffset 1.2s cubic-bezier(0.4, 0, 0.2, 1) forwards;
+}
+
+/* Scan pulse */
+@keyframes scanPulse {
+  0%, 100% { opacity: 1; transform: scaleX(1); }
+  50% { opacity: 0.5; transform: scaleX(0.95); }
+}
+
+/* Shimmer loading */
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+.shimmer {
+  background: linear-gradient(90deg, #1F2937 25%, #374151 50%, #1F2937 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+}
+
+/* Hover card lift */
+.card-hover {
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+}
+.card-hover:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 30px rgba(0,0,0,0.4);
+  border-color: rgba(0, 217, 255, 0.2);
+}
+
+/* Input focus glow */
+.input-glow:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px rgba(0, 217, 255, 0.3);
+  border-color: rgba(0, 217, 255, 0.6);
+}
+
+/* Gradient text */
+.gradient-text {
+  background: linear-gradient(135deg, #00D9FF 0%, #0088ff 50%, #7C3AED 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Active nav item */
+.nav-active {
+  background: rgba(0, 217, 255, 0.1);
+  border-left: 2px solid #00D9FF;
+  color: #00D9FF;
+}

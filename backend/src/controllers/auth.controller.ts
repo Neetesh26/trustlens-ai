@@ -7,6 +7,8 @@ export const register = async (req: Request, res: Response, next: NextFunction):
   try {
     const errors = validationResult(req);
     if (!errors.isEmpty()) {
+      console.log(">>>>>>>>",errors);
+      
       sendError(res, 'Validation failed', 422, errors.array());
       return;
     }

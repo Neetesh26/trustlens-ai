@@ -16,17 +16,19 @@ export const createApp = () => {
     app.use(express.json({ limit: '10kb' }));        // Limit body size (DoS protection)
     app.use(express.urlencoded({ extended: true }));
     // app.use(cookieParser());
-    app.use(cors());
     app.use(helmet());
     app.use(express.json());
     app.use(requestLoggerGlobal)
     app.use(morgan("dev"));
 
-    app.use(cors({
-        origin: '*',
-        methods: ['GET', 'POST', 'PUT', 'PATCH', 'DELETE'],
-        allowedHeaders: ['Content-Type', 'Authorization'],
-    }));
+    app.use(
+        cors({
+            origin: "http://localhost:5173", // ✅ exact frontend URL
+            credentials: true,               // ✅ allow cookies/token
+            methods: ["GET", "POST", "PUT", "PATCH", "DELETE"],
+            allowedHeaders: ["Content-Type", "Authorization"],
+        })
+    );
     // app.use(limiter)
 
     app.use('/api', generalLimiter);
