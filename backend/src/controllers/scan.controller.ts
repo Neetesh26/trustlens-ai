@@ -21,6 +21,7 @@ export const analyzeSite = async (
 ): Promise<void> => {
   const session = await mongoose.startSession();
   session.startTransaction();
+console.log("req>>>>controller scan",req);
 
   try {
     // ✅ 1. Validation
