@@ -1,9 +1,9 @@
-import axios from 'axios';
-import * as cheerio from 'cheerio';
-// import { logger } from '../config/logger';
+import axios from "axios";
+import * as cheerio from "cheerio";
 
 export interface RawScanData {
   url: string;
+  finalUrl: string;
   hasSSL: boolean;
   externalScripts: string[];
   suspiciousKeywords: string[];
@@ -15,22 +15,16 @@ export interface RawScanData {
   redirects: number;
 }
 
-// Known tracker domains
-const TRACKER_DOMAINS = [
-  'doubleclick.net', 'google-analytics.com', 'facebook.net',
-  'hotjar.com', 'mixpanel.com', 'segment.io',
-];
+export const scanWebsite = async (inputUrl: string): Promise<RawScanData> => {
+  // ✅ normalize URL
+  const url = inputUrl.startsWith("http")
+    ? inputUrl
+    : `http://${inputUrl}`;
 
-// Suspicious JS keywords
-const SUSPICIOUS_KEYWORDS = [
-  'eval(', 'document.write(', 'unescape(', 'fromCharCode',
-  'atob(', 'crypto.subtle', 'navigator.credentials',
-];
-
-export const scanWebsite = async (url: string): Promise<RawScanData> => {
   const result: RawScanData = {
     url,
-    hasSSL: url.startsWith('https://'),
+    finalUrl: url,
+    hasSSL: false,
     externalScripts: [],
     suspiciousKeywords: [],
     passwordFormsWithoutSSL: false,
@@ -42,57 +36,60 @@ export const scanWebsite = async (url: string): Promise<RawScanData> => {
   };
 
   try {
-    const response = await axios.get(url, {
-      timeout: 10000, // 10 second timeout
+    const res = await axios.get(url, {
+      timeout: 10000,
       maxRedirects: 5,
-      headers: {
-        'User-Agent': 'TrustLens-Scanner/1.0 (security-analysis)',
-      },
-      validateStatus: () => true, // Don't throw on non-2xx
+      validateStatus: () => true,
     });
 
-    result.redirects = response.request?.res?.responseUrl !== url ? 1 : 0;
+    // ✅ detect final URL after redirect
+    const finalUrl =
+      res.request?.res?.responseUrl || url;
 
-    const $ = cheerio.load(response.data as string);
+    result.finalUrl = finalUrl;
 
-    // Analyze external scripts
-    $('script[src]').each((_, el) => {
-      const src = $(el).attr('src') || '';
-      if (src.startsWith('http') || src.startsWith('//')) {
-        result.externalScripts.push(src);
-        TRACKER_DOMAINS.forEach((tracker) => {
-          if (src.includes(tracker)) result.trackers.push(tracker);
-        });
-      }
+    // ✅ REAL SSL CHECK
+    result.hasSSL = finalUrl.startsWith("https://");
+
+    // ✅ redirect count
+    result.redirects = finalUrl !== url ? 1 : 0;
+
+    const html = typeof res.data === "string" ? res.data : "";
+    const $ = cheerio.load(html);
+
+    // external scripts
+    $("script[src]").each((_, el) => {
+      const src = $(el).attr("src") || "";
+      result.externalScripts.push(src);
     });
 
-    // Check inline scripts for suspicious patterns
-    $('script:not([src])').each((_, el) => {
-      const code = $(el).html() || '';
-      SUSPICIOUS_KEYWORDS.forEach((kw) => {
-        if (code.includes(kw)) result.suspiciousKeywords.push(kw);
+    // suspicious JS
+    const keywords = ["eval(", "document.write(", "atob("];
+    $("script").each((_, el) => {
+      const code = $(el).html() || "";
+      keywords.forEach((k) => {
+        if (code.includes(k)) result.suspiciousKeywords.push(k);
       });
     });
 
-    // Detect password forms without SSL
-    const hasPasswordField = $('input[type="password"]').length > 0;
-    result.passwordFormsWithoutSSL = hasPasswordField && !result.hasSSL;
+    // password form check
+    const hasPassword = $('input[type="password"]').length > 0;
+    result.passwordFormsWithoutSSL = hasPassword && !result.hasSSL;
 
-    // Count iframes (often used for clickjacking)
-    result.iframeCount = $('iframe').length;
+    // iframe
+    result.iframeCount = $("iframe").length;
 
-    // Hidden elements (potential phishing trick)
-    result.hiddenElements = $('[style*="display:none"], [style*="visibility:hidden"]').length;
+    // hidden elements
+    result.hiddenElements = $(
+      '[style*="display:none"], [style*="visibility:hidden"]'
+    ).length;
 
-    // Cookie count from headers
-    const setCookieHeader = response.headers['set-cookie'];
-    result.cookieCount = Array.isArray(setCookieHeader) ? setCookieHeader.length : 0;
+    // cookies
+    const cookies = res.headers["set-cookie"];
+    result.cookieCount = Array.isArray(cookies) ? cookies.length : 0;
 
-  } catch (error) {
-    // logger.warn(`Scan failed for ${url}:`, error);
-    console.log("scan failed");
-    
-    // Return partial data, don't throw — AI will assess with what we have
+  } catch (err: any) {
+    console.log("Scan failed:", err.message);
   }
 
   return result;

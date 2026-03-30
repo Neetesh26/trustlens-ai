@@ -18,14 +18,17 @@ export interface RiskBreakdown {
   phishing: number;     // 0-20
 }
 
-export interface ScanResult {
-  url: string;
-  trustScore: number;         // 0-100
+export interface ScoreResult {
+  trustScore: number;
   riskLevel: 'safe' | 'suspicious' | 'dangerous';
-  breakdown: RiskBreakdown;
-  aiSummary: string;
+  breakdown: {
+    ssl: number;
+    scripts: number;
+    forms: number;
+    cookies: number;
+    phishing: number;
+  };
   detectedThreats: string[];
-  scannedAt: Date;
 }
 
 export type UserRole = 'free' | 'pro' | 'admin';
