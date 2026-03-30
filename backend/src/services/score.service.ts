@@ -1,74 +1,76 @@
 import { RawScanData } from './scan.service';
-import { RiskBreakdown } from '../types';
-
-export interface ScoreResult {
-  trustScore: number;
-  riskLevel: 'safe' | 'suspicious' | 'dangerous';
-  breakdown: RiskBreakdown;
-  detectedThreats: string[];
-}
+import { ScoreResult } from '../types';
 
 export const calculateTrustScore = (data: RawScanData): ScoreResult => {
-  let ssl = 20;
-  let scripts = 20;
-  let forms = 20;
-  let cookies = 20;
-  let phishing = 20;
-
+  let score = 100;
   const threats: string[] = [];
 
-  // SSL scoring (0–20)
+  // SSL
   if (!data.hasSSL) {
-    ssl = 0;
-    threats.push('No SSL/TLS encryption detected');
+    score -= 40;
+    threats.push("No SSL encryption");
   }
 
-  // Scripts scoring (0–20)
-  const suspiciousCount = data.suspiciousKeywords.length;
-  if (suspiciousCount > 3) { scripts = 0; threats.push('Multiple suspicious JavaScript patterns found'); }
-  else if (suspiciousCount > 0) { scripts = 10; threats.push('Suspicious JavaScript patterns detected'); }
-
-  if (data.trackers.length > 3) {
-    scripts = Math.min(scripts, 10);
-    threats.push(`${data.trackers.length} tracking scripts detected`);
+  // Suspicious JS
+  if (data.suspiciousKeywords.length > 0) {
+    score -= 20;
+    threats.push("Suspicious JavaScript detected");
   }
 
-  // Forms scoring (0–20)
+  // Password without SSL
   if (data.passwordFormsWithoutSSL) {
-    forms = 0;
-    threats.push('Password field detected on HTTP (non-secure) page');
+    score -= 40;
+    threats.push("Password form on insecure page");
   }
 
-  // Cookies scoring (0–20)
-  if (data.cookieCount > 10) { cookies = 5; threats.push('Excessive cookie usage'); }
-  else if (data.cookieCount > 5) { cookies = 15; }
+  // Trackers
+  if (data.trackers.length > 3) {
+    score -= 15;
+    threats.push("Too many trackers");
+  }
 
-  // Phishing indicators (0–20)
-  if (data.iframeCount > 3) {
-    phishing -= 8;
-    threats.push('Multiple iframes detected (clickjacking risk)');
+  // Phishing indicators
+  if (data.iframeCount > 2) {
+    score -= 15;
+    threats.push("Multiple iframes detected");
   }
-  if (data.hiddenElements > 5) {
-    phishing -= 7;
-    threats.push('Suspicious hidden elements detected');
-  }
-  if (data.redirects > 2) {
-    phishing -= 5;
-    threats.push('Multiple redirects detected');
-  }
-  phishing = Math.max(0, phishing);
 
-  const trustScore = ssl + scripts + forms + cookies + phishing;
+  if (data.hiddenElements > 3) {
+    score -= 15;
+    threats.push("Hidden elements detected");
+  }
+
+  // 🔥 URL phishing detection
+  const url = data.url.toLowerCase();
+  const keywords = ["login", "verify", "secure", "bank", "paypal"];
+
+  const matches = keywords.filter(k => url.includes(k));
+  if (matches.length >= 2) {
+    score -= 40;
+    threats.push("Phishing URL pattern detected");
+  }
+
+  // clamp
+  score = Math.max(score, 0);
 
   const riskLevel =
-    trustScore >= 70 ? 'safe' :
-    trustScore >= 30 ? 'suspicious' :
-    'dangerous';
+    score >= 70 ? "safe" :
+    score >= 30 ? "suspicious" :
+    "dangerous";
+
+  // breakdown
+  const breakdown = {
+    ssl: data.hasSSL ? 20 : 0,
+    scripts: data.suspiciousKeywords.length > 0 ? 10 : 20,
+    forms: data.passwordFormsWithoutSSL ? 0 : 20,
+    cookies: data.cookieCount > 5 ? 10 : 20,
+    phishing: data.iframeCount > 2 ? 10 : 20,
+  };
 
   return {
-    trustScore,
+    trustScore: score,
     riskLevel,
-    breakdown: { ssl, scripts, forms, cookies, phishing },
+    breakdown,
     detectedThreats: threats,
   };
 };
