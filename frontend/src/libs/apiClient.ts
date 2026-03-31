@@ -9,7 +9,7 @@ export const apiClient = axios.create({
 // Attach token automatically
 apiClient.interceptors.request.use((config) => {
   const token = store.getState().auth.token;
-   console.log("TOKEN FROM REDUX:", token);
+  //  console.log("TOKEN FROM REDUX:", token);
 
   if (token) {
     config.headers.Authorization = `Bearer ${token}`;

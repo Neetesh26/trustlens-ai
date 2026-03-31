@@ -7,6 +7,7 @@ import Register from "../pages/RegisterPage";
 import LandingPage from "../pages/LandingPage";
 import ProtectedRoute from "./ProtectedRoute";
 import Layout from "../components/layout/Layout"; // ✅ import layout
+import LinkToQRPage from "../components/LinkToQRPage";
 
 export default function AppRouter() {
   return (
@@ -25,7 +26,7 @@ export default function AppRouter() {
             <Route path="/dashboard" element={<DashboardPage />} />
             <Route path="/scan" element={<ScanPage />} />
             <Route path="/reports" element={<ReportsPage />} />
-
+             <Route path="/link-qr" element={<LinkToQRPage />} />
           </Route>
         </Route>
 
