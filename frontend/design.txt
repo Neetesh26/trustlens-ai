@@ -1,0 +1,65 @@
+trustlens-web/
+│
+├── public/
+│
+├── src/
+│   ├── app/
+│   │   └── store.js
+│
+│   ├── features/
+│   │   ├── auth/
+│   │   │   ├── authSlice.js
+│   │   │   └── authApi.js
+│   │   │
+│   │   ├── scan/
+│   │   │   ├── scanSlice.js
+│   │   │   └── scanApi.js
+│   │   │
+│   │   └── reports/
+│   │       └── reportsApi.js
+│
+│   ├── components/
+│   │   ├── ui/
+│   │   │   ├── Button.jsx
+│   │   │   ├── Input.jsx
+│   │   │   ├── Card.jsx
+│   │   │   └── Loader.jsx
+│   │   │
+│   │   ├── layout/
+│   │   │   ├── Sidebar.jsx
+│   │   │   ├── Navbar.jsx
+│   │   │   └── Layout.jsx
+│   │   │
+│   │   ├── scanner/
+│   │   │   ├── TrustScore.jsx
+│   │   │   └── RiskBreakdown.jsx
+│   │   │
+│   │   └── dashboard/
+│   │       ├── StatsCard.jsx
+│   │       └── RecentScans.jsx
+│
+│   ├── pages/
+│   │   ├── LandingPage.jsx
+│   │   ├── LoginPage.jsx
+│   │   ├── RegisterPage.jsx
+│   │   ├── DashboardPage.jsx
+│   │   ├── ScanPage.jsx
+│   │   └── ReportsPage.jsx
+│
+│   ├── routes/
+│   │   ├── AppRouter.jsx
+│   │   └── ProtectedRoute.jsx
+│
+│   ├── hooks/
+│   │   ├── useAuth.js
+│   │   └── useScan.js
+│
+│   ├── lib/
+│   │   └── apiClient.js
+│
+│   ├── utils/
+│   │   └── helpers.js
+│
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css

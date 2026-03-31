@@ -26,6 +26,9 @@ const Sidebar = () => {
         <NavLink to="/reports" className={getClass}>
           Reports
         </NavLink>
+        <NavLink to="/link-qr" className={getClass}>
+          Link ➡️ QR
+        </NavLink>
       </nav>
     </aside>
   );
