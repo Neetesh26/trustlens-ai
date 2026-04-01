@@ -3,10 +3,12 @@ import { scanWebsite } from "../services/scan.service";
 import { calculateTrustScore } from "../services/score.service";
 import { generateAIRiskReport } from "../services/ai.service";
 import { ScanReport } from "../models/ScanReport.model";
-// import { analyzeThreats } from "../services/threatAggregator.service";
+
+
+
 export const analyzeSite = async (req: any, res: Response) => {
   try {
-    console.log("REQ USER:", req.user);
+    // console.log("REQ USER:", req.user);
 
     const { url } = req.body;
 
@@ -18,20 +20,15 @@ export const analyzeSite = async (req: any, res: Response) => {
       ? url
       : `https://${url}`;
 
-    // 🔍 Scan Website
-    const rawData = await scanWebsite(normalizedUrl);
+     const rawData = await scanWebsite(normalizedUrl);
 
-    // 📊 Calculate Score
     const score = calculateTrustScore(rawData);
 
-    // 🤖 Generate AI Summary
     const aiSummary = await generateAIRiskReport(rawData, score);
 
-    console.log("AI SUMMARY:", aiSummary);
 
-    // 💾 Save to DB (temporary userId fix)
     const report = await ScanReport.create({
-      userId: req.user?.id || "65f1c2abc123456789abcd12", // 🔥 temp fix
+      userId: req.user?.id || "65f1c2abc123456789abcd12", 
       url: normalizedUrl,
       trustScore: score.trustScore,
       riskLevel: score.riskLevel,
