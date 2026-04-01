@@ -1,4 +1,3 @@
-// src/config/qrApi.ts
 import { useMutation, useQuery } from "@tanstack/react-query";
 import { apiClient } from "../libs/apiClient";
 
