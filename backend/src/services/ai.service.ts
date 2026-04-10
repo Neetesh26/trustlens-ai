@@ -1,5 +1,5 @@
 import { GoogleGenerativeAI } from "@google/generative-ai";
-import { RawScanData } from "./scan.service";
+import type { RawScanData } from "../types/scan.types";
 import { ScoreResult } from "../types";
 import { getEnv } from "../config/env";
 

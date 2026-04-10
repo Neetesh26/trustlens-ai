@@ -1,538 +1,130 @@
-2026-03-26 12:05:18 [info] : GET /
-2026-03-26 12:09:11 [info] : GET /home
-2026-03-26 13:05:13 [info] : POST /api/auth/register
-2026-03-26 13:15:30 [info] : POST /api/auth/register
-2026-03-26 13:15:40 [info] : POST /api/auth/login
-2026-03-26 13:18:29 [info] : POST /api/auth/login
-2026-03-26 13:19:01 [info] : POST /api/auth/login
-2026-03-26 13:19:44 [info] : POST /api/auth/login
-2026-03-26 13:22:28 [info] : POST /api/scan
-2026-03-26 14:58:45 [info] : POST /api/scan
-2026-03-26 15:00:57 [info] : POST /api/auth/login
-2026-03-26 15:53:17 [info] : POST /api/auth/login
-2026-03-27 14:55:17 [info] : POST /api/auth/register
-2026-03-27 14:56:26 [info] : POST /api/v1/auth/register
-2026-03-27 14:56:39 [info] : POST /api/v1/auth/register
-2026-03-27 15:36:53 [info] : OPTIONS /api/v1/auth/register
-2026-03-27 15:36:53 [info] : POST /api/v1/auth/register
-2026-03-27 15:37:37 [info] : OPTIONS /api/v1/auth/register
-2026-03-27 15:37:37 [info] : POST /api/v1/auth/register
-2026-03-27 15:38:02 [info] : OPTIONS /api/v1/auth/register
-2026-03-27 15:38:02 [info] : POST /api/v1/auth/register
-2026-03-27 15:39:34 [info] : OPTIONS /api/v1/auth/register
-2026-03-27 15:39:34 [info] : POST /api/v1/auth/register
-2026-03-27 15:39:39 [info] : OPTIONS /api/v1/auth/login
-2026-03-27 15:39:39 [info] : POST /api/v1/auth/login
-2026-03-27 15:40:58 [info] : OPTIONS /api/v1/auth/register
-2026-03-27 15:40:58 [info] : POST /api/v1/auth/register
-2026-03-27 15:41:17 [info] : OPTIONS /api/v1/auth/login
-2026-03-27 15:41:17 [info] : POST /api/v1/auth/login
-2026-03-27 15:44:23 [info] : OPTIONS /api/v1/auth/login
-2026-03-27 15:44:23 [info] : POST /api/v1/auth/login
-2026-03-27 15:45:23 [info] : OPTIONS /api/v1/auth/login
-2026-03-27 15:45:23 [info] : POST /api/v1/auth/login
-2026-03-27 15:45:58 [info] : OPTIONS /api/v1/auth/login
-2026-03-27 15:45:58 [info] : POST /api/v1/auth/login
-2026-03-27 15:46:47 [info] : OPTIONS /api/v1/auth/login
-2026-03-27 15:46:47 [info] : POST /api/v1/auth/login
-2026-03-27 15:46:48 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 15:46:49 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 15:46:51 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 15:46:55 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 15:48:54 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 15:48:55 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 15:48:57 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 15:49:45 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 15:51:03 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 15:51:49 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 15:53:11 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 15:53:28 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 15:53:30 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 15:53:35 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 15:54:37 [info] : OPTIONS /api/v1/auth/login
-2026-03-27 15:54:37 [info] : POST /api/v1/auth/login
-2026-03-27 15:54:37 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 15:54:38 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 15:54:40 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 15:54:44 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 15:56:27 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 15:57:05 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 15:57:07 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 15:57:11 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 15:57:16 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 15:57:17 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 15:57:22 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 15:57:32 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 15:57:37 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 15:57:48 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 15:57:52 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:00:44 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:00:53 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:03:55 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:04:33 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:06:06 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:06:42 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:07:42 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:08:37 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:08:40 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:08:42 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:08:46 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:09:03 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:09:04 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:09:06 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:09:10 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:09:16 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:09:17 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:09:19 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:09:23 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:10:00 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:10:01 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:10:11 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:10:19 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:10:23 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:10:24 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:11:28 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:11:29 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:11:31 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:11:35 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:11:39 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:11:40 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:11:42 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:11:46 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:12:21 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:12:22 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:12:24 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:12:28 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:13:06 [info] : OPTIONS /api/v1/auth/login
-2026-03-27 16:13:06 [info] : POST /api/v1/auth/login
-2026-03-27 16:13:06 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:13:07 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:13:09 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:13:13 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:14:43 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:14:44 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:14:46 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:14:50 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:15:43 [info] : OPTIONS /api/v1/auth/login
-2026-03-27 16:15:43 [info] : POST /api/v1/auth/login
-2026-03-27 16:15:44 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:15:45 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:15:47 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:15:51 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:16:46 [info] : OPTIONS /api/v1/scan/analyze
-2026-03-27 16:17:38 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:17:39 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:17:41 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:17:45 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:33:36 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:34:42 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:36:12 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:36:14 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:36:18 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:37:10 [info] : OPTIONS /api/v1/auth/login
-2026-03-27 16:37:10 [info] : POST /api/v1/auth/login
-2026-03-27 16:37:11 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:37:12 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:37:14 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:37:18 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:37:23 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:37:24 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:37:26 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:37:30 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:37:44 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:37:45 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:37:47 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:37:51 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:38:39 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:38:40 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:38:42 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:38:46 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:49:31 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:49:32 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:49:34 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 16:50:07 [info] : OPTIONS /api/v1/scan/analyze
-2026-03-27 16:53:06 [info] : OPTIONS /api/v1/scan/analyze
-2026-03-27 16:54:53 [info] : OPTIONS /api/v1/scan/analyze
-2026-03-27 16:55:43 [info] : OPTIONS /api/v1/auth/login
-2026-03-27 16:55:43 [info] : POST /api/v1/auth/login
-2026-03-27 16:56:11 [info] : OPTIONS /api/v1/auth/login
-2026-03-27 16:56:11 [info] : POST /api/v1/auth/login
-2026-03-27 16:56:46 [info] : OPTIONS /api/v1/auth/register
-2026-03-27 16:56:46 [info] : POST /api/v1/auth/register
-2026-03-27 16:57:12 [info] : OPTIONS /api/v1/auth/login
-2026-03-27 16:57:12 [info] : POST /api/v1/auth/login
-2026-03-27 16:57:43 [info] : OPTIONS /api/v1/auth/login
-2026-03-27 16:57:43 [info] : POST /api/v1/auth/login
-2026-03-27 16:59:02 [info] : OPTIONS /api/v1/auth/register
-2026-03-27 16:59:02 [info] : POST /api/v1/auth/register
-2026-03-27 16:59:19 [info] : OPTIONS /api/v1/auth/login
-2026-03-27 16:59:19 [info] : POST /api/v1/auth/login
-2026-03-27 17:00:51 [info] : OPTIONS /api/v1/auth/login
-2026-03-27 17:00:51 [info] : POST /api/v1/auth/login
-2026-03-27 17:09:35 [info] : OPTIONS /api/v1/auth/login
-2026-03-27 17:09:35 [info] : POST /api/v1/auth/login
-2026-03-27 17:23:16 [info] : OPTIONS /api/v1/auth/login
-2026-03-27 17:23:16 [info] : POST /api/v1/auth/login
-2026-03-27 17:24:08 [info] : OPTIONS /api/v1/auth/login
-2026-03-27 17:24:08 [info] : POST /api/v1/auth/login
-2026-03-27 17:25:49 [info] : OPTIONS /api/v1/auth/login
-2026-03-27 17:25:49 [info] : POST /api/v1/auth/login
-2026-03-27 17:27:12 [info] : OPTIONS /api/v1/auth/login
-2026-03-27 17:27:12 [info] : POST /api/v1/auth/login
-2026-03-27 17:30:50 [info] : OPTIONS /api/v1/auth/login
-2026-03-27 17:30:50 [info] : POST /api/v1/auth/login
-2026-03-27 17:30:51 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 17:30:52 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 17:30:54 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 17:30:58 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 17:31:38 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 17:31:39 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 17:31:41 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 17:34:46 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 17:34:46 [info] : GET /api/v1/scan/history
-2026-03-27 17:34:53 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 17:34:53 [info] : GET /api/v1/scan/history
-2026-03-27 17:34:54 [info] : GET /api/v1/scan/history
-2026-03-27 17:34:56 [info] : GET /api/v1/scan/history
-2026-03-27 17:35:00 [info] : OPTIONS /api/v1/scan/history
-2026-03-27 17:35:00 [info] : GET /api/v1/scan/history
-2026-03-27 17:35:21 [info] : OPTIONS /api/v1/scan/analyze
-2026-03-27 17:35:21 [info] : POST /api/v1/scan/analyze
-2026-03-27 17:41:27 [info] : OPTIONS /api/v1/scan/analyze
-2026-03-27 17:41:27 [info] : POST /api/v1/scan/analyze
-2026-03-27 17:50:29 [info] : OPTIONS /api/v1/scan/analyze
-2026-03-27 17:50:29 [info] : POST /api/v1/scan/analyze
-2026-03-27 17:53:38 [info] : OPTIONS /api/v1/scan/analyze
-2026-03-27 17:53:38 [info] : POST /api/v1/scan/analyze
-2026-03-27 17:54:14 [info] : OPTIONS /api/v1/scan/analyze
-2026-03-27 17:54:14 [info] : POST /api/v1/scan/analyze
-2026-03-30 13:13:43 [info] : OPTIONS /api/v1/auth/login
-2026-03-30 13:13:43 [info] : POST /api/v1/auth/login
-2026-03-30 13:14:02 [info] : OPTIONS /api/v1/auth/login
-2026-03-30 13:14:02 [info] : POST /api/v1/auth/login
-2026-03-30 13:14:32 [info] : OPTIONS /api/v1/auth/login
-2026-03-30 13:14:32 [info] : POST /api/v1/auth/login
-2026-03-30 13:14:32 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 13:14:32 [info] : GET /api/v1/scan/history
-2026-03-30 13:14:33 [info] : GET /api/v1/scan/history
-2026-03-30 13:14:35 [info] : GET /api/v1/scan/history
-2026-03-30 13:14:40 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 13:14:40 [info] : GET /api/v1/scan/history
-2026-03-30 13:19:08 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 13:19:08 [info] : GET /api/v1/scan/history
-2026-03-30 13:19:09 [info] : GET /api/v1/scan/history
-2026-03-30 13:53:07 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 13:53:07 [info] : GET /api/v1/scan/history
-2026-03-30 13:53:07 [info] : GET /api/v1/scan/history
-2026-03-30 13:53:08 [info] : GET /api/v1/scan/history
-2026-03-30 13:53:25 [info] : OPTIONS /api/v1/scan/analyze
-2026-03-30 13:53:25 [info] : POST /api/v1/scan/analyze
-2026-03-30 13:53:33 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 13:53:33 [info] : GET /api/v1/scan/history
-2026-03-30 13:54:16 [info] : OPTIONS /api/v1/scan/analyze
-2026-03-30 13:54:16 [info] : POST /api/v1/scan/analyze
-2026-03-30 13:55:39 [info] : OPTIONS /api/v1/scan/analyze
-2026-03-30 13:55:39 [info] : POST /api/v1/scan/analyze
-2026-03-30 13:55:56 [info] : OPTIONS /api/v1/scan/analyze
-2026-03-30 13:55:56 [info] : POST /api/v1/scan/analyze
-2026-03-30 13:56:11 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 13:56:11 [info] : GET /api/v1/scan/history
-2026-03-30 13:56:32 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 13:56:32 [info] : GET /api/v1/scan/history
-2026-03-30 13:56:37 [info] : OPTIONS /api/v1/scan/analyze
-2026-03-30 13:56:37 [info] : POST /api/v1/scan/analyze
-2026-03-30 13:57:08 [info] : OPTIONS /api/v1/scan/analyze
-2026-03-30 13:57:08 [info] : POST /api/v1/scan/analyze
-2026-03-30 13:57:25 [info] : OPTIONS /api/v1/scan/analyze
-2026-03-30 13:57:25 [info] : POST /api/v1/scan/analyze
-2026-03-30 13:57:55 [info] : OPTIONS /api/v1/scan/analyze
-2026-03-30 13:57:55 [info] : POST /api/v1/scan/analyze
-2026-03-30 13:59:02 [info] : OPTIONS /api/v1/scan/analyze
-2026-03-30 13:59:02 [info] : POST /api/v1/scan/analyze
-2026-03-30 13:59:17 [info] : OPTIONS /api/v1/scan/analyze
-2026-03-30 13:59:17 [info] : POST /api/v1/scan/analyze
-2026-03-30 14:01:26 [info] : OPTIONS /api/v1/scan/analyze
-2026-03-30 14:01:27 [info] : POST /api/v1/scan/analyze
-2026-03-30 14:01:41 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 14:01:41 [info] : GET /api/v1/scan/history
-2026-03-30 14:02:00 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 14:02:00 [info] : GET /api/v1/scan/history
-2026-03-30 14:02:30 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 14:02:30 [info] : GET /api/v1/scan/history
-2026-03-30 14:02:31 [info] : GET /api/v1/scan/history
-2026-03-30 14:08:05 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 14:08:05 [info] : GET /api/v1/scan/history
-2026-03-30 14:08:08 [info] : GET /api/v1/scan/history
-2026-03-30 14:08:14 [info] : OPTIONS /api/v1/scan/analyze
-2026-03-30 14:08:14 [info] : POST /api/v1/scan/analyze
-2026-03-30 14:08:19 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 14:08:19 [info] : GET /api/v1/scan/history
-2026-03-30 14:08:24 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 14:08:24 [info] : GET /api/v1/scan/history
-2026-03-30 14:08:54 [info] : OPTIONS /api/v1/scan/analyze
-2026-03-30 14:08:54 [info] : POST /api/v1/scan/analyze
-2026-03-30 14:09:15 [info] : OPTIONS /api/v1/scan/analyze
-2026-03-30 14:09:15 [info] : POST /api/v1/scan/analyze
-2026-03-30 14:09:46 [info] : OPTIONS /api/v1/scan/analyze
-2026-03-30 14:09:46 [info] : POST /api/v1/scan/analyze
-2026-03-30 14:09:50 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 14:09:50 [info] : GET /api/v1/scan/history
-2026-03-30 14:10:01 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 14:10:01 [info] : GET /api/v1/scan/history
-2026-03-30 14:10:49 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 14:10:49 [info] : GET /api/v1/scan/history
-2026-03-30 14:12:25 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 14:12:25 [info] : GET /api/v1/scan/history
-2026-03-30 14:12:45 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 14:12:45 [info] : GET /api/v1/scan/history
-2026-03-30 14:16:13 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 14:16:13 [info] : GET /api/v1/scan/history
-2026-03-30 14:16:13 [info] : GET /api/v1/scan/history
-2026-03-30 14:16:19 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 14:16:19 [info] : GET /api/v1/scan/history
-2026-03-30 14:16:21 [info] : GET /api/v1/scan/history
-2026-03-30 14:16:21 [info] : GET /api/v1/scan/history
-2026-03-30 14:16:23 [info] : GET /api/v1/scan/history
-2026-03-30 14:16:35 [info] : OPTIONS /api/v1/scan/analyze
-2026-03-30 14:16:35 [info] : POST /api/v1/scan/analyze
-2026-03-30 14:16:39 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 14:16:39 [info] : GET /api/v1/scan/history
-2026-03-30 14:16:41 [info] : GET /api/v1/scan/history
-2026-03-30 14:17:09 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 14:17:09 [info] : GET /api/v1/scan/history
-2026-03-30 14:17:17 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 14:17:17 [info] : GET /api/v1/scan/history
-2026-03-30 14:18:26 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 14:18:26 [info] : GET /api/v1/scan/history
-2026-03-30 14:20:58 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 14:20:58 [info] : GET /api/v1/scan/history
-2026-03-30 14:20:59 [info] : GET /api/v1/scan/history
-2026-03-30 14:21:09 [info] : OPTIONS /api/v1/scan/analyze
-2026-03-30 14:21:09 [info] : POST /api/v1/scan/analyze
-2026-03-30 14:21:12 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 14:21:12 [info] : GET /api/v1/scan/history
-2026-03-30 14:21:22 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 14:21:22 [info] : GET /api/v1/scan/history
-2026-03-30 14:21:35 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 14:21:35 [info] : GET /api/v1/scan/history
-2026-03-30 15:17:06 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 15:17:06 [info] : GET /api/v1/scan/history
-2026-03-30 15:17:07 [info] : GET /api/v1/scan/history
-2026-03-30 15:17:08 [info] : GET /api/v1/scan/history
-2026-03-30 15:17:11 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 15:17:11 [info] : GET /api/v1/scan/history
-2026-03-30 15:18:09 [info] : OPTIONS /api/v1/auth/login
-2026-03-30 15:18:09 [info] : POST /api/v1/auth/login
-2026-03-30 15:18:09 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 15:18:10 [info] : GET /api/v1/scan/history
-2026-03-30 15:18:27 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 15:18:27 [info] : GET /api/v1/scan/history
-2026-03-30 15:18:40 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 15:18:40 [info] : GET /api/v1/scan/history
-2026-03-30 15:19:03 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 15:19:03 [info] : GET /api/v1/scan/history
-2026-03-30 15:19:07 [info] : OPTIONS /api/v1/auth/login
-2026-03-30 15:19:07 [info] : POST /api/v1/auth/login
-2026-03-30 15:19:08 [info] : GET /api/v1/scan/history
-2026-03-30 15:19:25 [info] : OPTIONS /api/v1/auth/register
-2026-03-30 15:19:25 [info] : POST /api/v1/auth/register
-2026-03-30 15:21:48 [info] : OPTIONS /api/v1/auth/login
-2026-03-30 15:21:48 [info] : POST /api/v1/auth/login
-2026-03-30 15:21:49 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 15:21:49 [info] : GET /api/v1/scan/history
-2026-03-30 15:22:10 [info] : OPTIONS /api/v1/scan/analyze
-2026-03-30 15:22:10 [info] : POST /api/v1/scan/analyze
-2026-03-30 15:22:25 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 15:22:25 [info] : GET /api/v1/scan/history
-2026-03-30 15:40:37 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 15:40:37 [info] : GET /api/v1/scan/history
-2026-03-30 15:41:08 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 15:41:08 [info] : GET /api/v1/scan/history
-2026-03-30 15:42:09 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 15:42:09 [info] : GET /api/v1/scan/history
-2026-03-30 15:43:25 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 15:43:25 [info] : GET /api/v1/scan/history
-2026-03-30 16:04:17 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 16:04:17 [info] : GET /api/v1/scan/history
-2026-03-30 16:05:31 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 16:05:31 [info] : GET /api/v1/scan/history
-2026-03-30 16:05:33 [info] : GET /api/v1/scan/history
-2026-03-30 16:07:16 [info] : OPTIONS /api/v1/scan/analyze
-2026-03-30 16:07:16 [info] : POST /api/v1/scan/analyze
-2026-03-30 16:07:24 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 16:07:24 [info] : GET /api/v1/scan/history
-2026-03-30 16:07:55 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 16:07:55 [info] : GET /api/v1/scan/history
-2026-03-30 16:08:14 [info] : OPTIONS /api/v1/scan/analyze
-2026-03-30 16:08:14 [info] : POST /api/v1/scan/analyze
-2026-03-30 16:08:18 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 16:08:18 [info] : GET /api/v1/scan/history
-2026-03-30 16:09:00 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 16:09:00 [info] : GET /api/v1/scan/history
-2026-03-30 16:12:41 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 16:12:41 [info] : GET /api/v1/scan/history
-2026-03-30 16:12:42 [info] : GET /api/v1/scan/history
-2026-03-30 16:12:51 [info] : OPTIONS /api/v1/scan/analyze
-2026-03-30 16:12:51 [info] : POST /api/v1/scan/analyze
-2026-03-30 16:13:16 [info] : OPTIONS /api/v1/scan/analyze
-2026-03-30 16:13:16 [info] : POST /api/v1/scan/analyze
-2026-03-30 16:32:10 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 16:32:10 [info] : GET /api/v1/scan/history
-2026-03-30 16:33:01 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 16:33:01 [info] : GET /api/v1/scan/history
-2026-03-30 16:33:09 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 16:33:09 [info] : GET /api/v1/scan/history
-2026-03-30 16:35:14 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 16:35:14 [info] : GET /api/v1/scan/history
-2026-03-30 16:35:31 [info] : OPTIONS /api/v1/auth/login
-2026-03-30 16:35:31 [info] : POST /api/v1/auth/login
-2026-03-30 16:35:32 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 16:35:32 [info] : GET /api/v1/scan/history
-2026-03-30 16:35:51 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 16:35:51 [info] : GET /api/v1/scan/history
-2026-03-30 16:36:01 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 16:36:02 [info] : GET /api/v1/scan/history
-2026-03-30 16:37:46 [info] : OPTIONS /api/v1/scan/analyze
-2026-03-30 16:37:46 [info] : POST /api/v1/scan/analyze
-2026-03-30 16:37:54 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 16:37:54 [info] : GET /api/v1/scan/history
-2026-03-30 16:51:31 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 16:51:31 [info] : GET /api/v1/scan/history
-2026-03-30 17:46:48 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 17:46:48 [info] : GET /api/v1/scan/history
-2026-03-30 17:55:12 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 17:55:12 [info] : GET /api/v1/scan/history
-2026-03-30 17:55:36 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 17:55:36 [info] : GET /api/v1/scan/history
-2026-03-30 17:56:01 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 17:56:01 [info] : GET /api/v1/scan/history
-2026-03-30 17:56:04 [info] : GET /api/v1/scan/history
-2026-03-30 17:56:15 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 17:56:15 [info] : GET /api/v1/scan/history
-2026-03-30 18:04:11 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 18:04:11 [info] : GET /api/v1/scan/history
-2026-03-30 18:04:13 [info] : GET /api/v1/scan/history
-2026-03-30 18:07:33 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 18:07:33 [info] : GET /api/v1/scan/history
-2026-03-30 18:08:02 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 18:08:02 [info] : GET /api/v1/scan/history
-2026-03-30 18:08:25 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 18:08:25 [info] : GET /api/v1/scan/history
-2026-03-30 18:08:35 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 18:08:35 [info] : GET /api/v1/scan/history
-2026-03-30 18:09:07 [info] : OPTIONS /api/v1/scan/analyze
-2026-03-30 18:09:07 [info] : POST /api/v1/scan/analyze
-2026-03-30 18:12:21 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 18:12:21 [info] : GET /api/v1/scan/history
-2026-03-30 18:12:55 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 18:12:55 [info] : GET /api/v1/scan/history
-2026-03-30 18:13:09 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 18:13:09 [info] : GET /api/v1/scan/history
-2026-03-30 18:13:18 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 18:13:18 [info] : GET /api/v1/scan/history
-2026-03-30 19:25:56 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 19:25:56 [info] : GET /api/v1/scan/history
-2026-03-30 19:25:59 [info] : GET /api/v1/scan/history
-2026-03-30 19:26:06 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 19:26:06 [info] : GET /api/v1/scan/history
-2026-03-30 19:30:43 [info] : OPTIONS /api/v1/scan/history
-2026-03-30 19:30:43 [info] : GET /api/v1/scan/history
-2026-03-30 19:30:44 [info] : GET /api/v1/scan/history
-2026-03-31 12:49:36 [info] : OPTIONS /api/v1/scan/history
-2026-03-31 12:49:36 [info] : GET /api/v1/scan/history
-2026-03-31 12:49:41 [info] : GET /api/v1/scan/history
-2026-03-31 12:50:58 [info] : OPTIONS /api/v1/scan/history
-2026-03-31 12:50:58 [info] : GET /api/v1/scan/history
-2026-03-31 12:53:21 [info] : OPTIONS /api/v1/scan/history
-2026-03-31 12:53:21 [info] : GET /api/v1/scan/history
-2026-03-31 15:08:48 [info] : OPTIONS /api/v1/scan/history
-2026-03-31 15:08:48 [info] : GET /api/v1/scan/history
-2026-03-31 15:22:44 [info] : OPTIONS /api/v1/scan/history
-2026-03-31 15:22:44 [info] : GET /api/v1/scan/history
-2026-03-31 15:22:47 [info] : GET /api/v1/scan/history
-2026-03-31 15:23:00 [info] : OPTIONS /api/v1/scan/history
-2026-03-31 15:23:00 [info] : GET /api/v1/scan/history
-2026-03-31 15:23:17 [info] : OPTIONS /api/v1/scan/history
-2026-03-31 15:23:17 [info] : GET /api/v1/scan/history
-2026-03-31 15:25:56 [info] : OPTIONS /api/v1/scan/history
-2026-03-31 15:25:56 [info] : GET /api/v1/scan/history
-2026-03-31 15:26:57 [info] : OPTIONS /api/v1/scan/history
-2026-03-31 15:26:58 [info] : GET /api/v1/scan/history
-2026-03-31 15:30:33 [info] : OPTIONS /api/v1/scan/history
-2026-03-31 15:30:34 [info] : GET /api/v1/scan/history
-2026-03-31 15:31:05 [info] : OPTIONS /api/v1/scan/history
-2026-03-31 15:31:05 [info] : GET /api/v1/scan/history
-2026-03-31 15:32:00 [info] : OPTIONS /api/v1/scan/history
-2026-03-31 15:32:00 [info] : GET /api/v1/scan/history
-2026-03-31 15:58:07 [info] : OPTIONS /api/v1/scan/history
-2026-03-31 15:58:07 [info] : GET /api/v1/scan/history
-2026-03-31 16:28:33 [info] : OPTIONS /api/v1/scan/history
-2026-03-31 16:28:33 [info] : GET /api/v1/scan/history
-2026-03-31 16:28:38 [info] : GET /api/v1/scan/history
-2026-03-31 16:34:56 [info] : OPTIONS /api/v1/qr/generate
-2026-03-31 16:34:56 [info] : POST /api/v1/qr/generate
-2026-03-31 16:36:49 [info] : OPTIONS /api/v1/scan/history
-2026-03-31 16:36:49 [info] : GET /api/v1/scan/history
-2026-03-31 16:36:52 [info] : GET /api/v1/scan/history
-2026-03-31 16:44:12 [info] : OPTIONS /api/v1/scan/history
-2026-03-31 16:44:12 [info] : GET /api/v1/scan/history
-2026-03-31 16:44:49 [info] : OPTIONS /api/v1/scan/history
-2026-03-31 16:44:49 [info] : GET /api/v1/scan/history
-2026-03-31 16:45:27 [info] : OPTIONS /api/v1/qr/generate
-2026-03-31 16:45:27 [info] : POST /api/v1/qr/generate
-2026-03-31 16:57:47 [info] : OPTIONS /api/v1/qr/mine
-2026-03-31 16:57:47 [info] : GET /api/v1/qr/mine
-2026-03-31 16:58:15 [info] : OPTIONS /api/v1/qr/mine
-2026-03-31 16:58:15 [info] : GET /api/v1/qr/mine
-2026-03-31 16:58:21 [info] : OPTIONS /api/v1/qr/generate
-2026-03-31 16:58:21 [info] : POST /api/v1/qr/generate
-2026-03-31 16:59:16 [info] : OPTIONS /api/v1/qr/mine
-2026-03-31 16:59:16 [info] : GET /api/v1/qr/mine
-2026-03-31 16:59:40 [info] : OPTIONS /api/v1/qr/mine
-2026-03-31 16:59:40 [info] : GET /api/v1/qr/mine
-2026-03-31 17:01:14 [info] : OPTIONS /api/v1/qr/generate
-2026-03-31 17:01:14 [info] : POST /api/v1/qr/generate
-2026-03-31 17:06:25 [info] : OPTIONS /api/v1/qr/mine
-2026-03-31 17:06:25 [info] : GET /api/v1/qr/mine
-2026-03-31 17:07:22 [info] : OPTIONS /api/v1/qr/generate
-2026-03-31 17:07:22 [info] : POST /api/v1/qr/generate
-2026-03-31 17:08:11 [info] : OPTIONS /api/v1/qr/mine
-2026-03-31 17:08:11 [info] : GET /api/v1/qr/mine
-2026-03-31 17:08:15 [info] : OPTIONS /api/v1/scan/history
-2026-03-31 17:08:15 [info] : GET /api/v1/scan/history
-2026-03-31 17:08:29 [info] : OPTIONS /api/v1/scan/history
-2026-03-31 17:08:29 [info] : GET /api/v1/scan/history
-2026-03-31 17:08:35 [info] : OPTIONS /api/v1/qr/mine
-2026-03-31 17:08:35 [info] : GET /api/v1/qr/mine
-2026-03-31 17:33:17 [info] : OPTIONS /api/v1/qr/mine
-2026-03-31 17:33:17 [info] : GET /api/v1/qr/mine
-2026-03-31 17:33:18 [info] : GET /api/v1/qr/mine
-2026-03-31 17:34:07 [info] : OPTIONS /api/v1/scan/history
-2026-03-31 17:34:07 [info] : GET /api/v1/scan/history
-2026-03-31 17:34:13 [info] : OPTIONS /api/v1/scan/history
-2026-03-31 17:34:13 [info] : GET /api/v1/scan/history
-2026-03-31 17:36:07 [info] : OPTIONS /api/v1/scan/history
-2026-03-31 17:36:07 [info] : GET /api/v1/scan/history
-2026-03-31 17:36:40 [info] : OPTIONS /api/v1/scan/history
-2026-03-31 17:36:40 [info] : GET /api/v1/scan/history
-2026-03-31 17:36:42 [info] : OPTIONS /api/v1/qr/mine
-2026-03-31 17:36:42 [info] : GET /api/v1/qr/mine
-2026-03-31 17:36:49 [info] : OPTIONS /api/v1/qr/generate
-2026-03-31 17:36:49 [info] : POST /api/v1/qr/generate
-2026-03-31 17:38:28 [info] : OPTIONS /api/v1/qr/mine
-2026-03-31 17:38:28 [info] : GET /api/v1/qr/mine
-2026-03-31 17:40:22 [info] : OPTIONS /api/v1/qr/mine
-2026-03-31 17:40:22 [info] : GET /api/v1/qr/mine
-2026-03-31 17:40:26 [info] : OPTIONS /api/v1/qr/generate
-2026-03-31 17:40:26 [info] : POST /api/v1/qr/generate
-2026-03-31 17:42:25 [info] : OPTIONS /api/v1/scan/history
-2026-03-31 17:42:25 [info] : GET /api/v1/scan/history
-2026-03-31 17:42:31 [info] : OPTIONS /api/v1/scan/history
-2026-03-31 17:42:31 [info] : GET /api/v1/scan/history
-2026-03-31 17:43:00 [info] : OPTIONS /api/v1/scan/history
-2026-03-31 17:43:01 [info] : GET /api/v1/scan/history
-2026-03-31 17:43:12 [info] : OPTIONS /api/v1/scan/history
-2026-03-31 17:43:12 [info] : GET /api/v1/scan/history
-2026-03-31 17:43:16 [info] : GET /api/v1/scan/history
-2026-03-31 17:43:36 [info] : OPTIONS /api/v1/qr/mine
-2026-03-31 17:43:36 [info] : GET /api/v1/qr/mine
+
+2026-04-10 10:42:01 [info] : OPTIONS /api/v1/auth/login
+2026-04-10 10:42:01 [info] : POST /api/v1/auth/login
+2026-04-10 10:42:01 [info] : OPTIONS /api/v1/scan/history
+2026-04-10 10:42:01 [info] : GET /api/v1/scan/history
+2026-04-10 10:42:02 [info] : GET /api/v1/scan/history
+2026-04-10 10:42:24 [info] : OPTIONS /api/v1/scan/history
+2026-04-10 10:42:24 [info] : GET /api/v1/scan/history
+2026-04-10 10:42:28 [info] : GET /api/v1/scan/history
+2026-04-10 10:43:15 [info] : OPTIONS /api/v1/scan/analyze
+2026-04-10 10:43:15 [info] : POST /api/v1/scan/analyze
+2026-04-10 10:43:38 [info] : OPTIONS /api/v1/auth/login
+2026-04-10 10:43:38 [info] : POST /api/v1/auth/login
+2026-04-10 10:43:43 [info] : OPTIONS /api/v1/auth/login
+2026-04-10 10:43:43 [info] : POST /api/v1/auth/login
+2026-04-10 10:48:11 [info] : OPTIONS /api/v1/auth/register
+2026-04-10 10:48:11 [info] : POST /api/v1/auth/register
+2026-04-10 10:48:33 [info] : OPTIONS /api/v1/auth/login
+2026-04-10 10:48:33 [info] : POST /api/v1/auth/login
+2026-04-10 10:48:33 [info] : OPTIONS /api/v1/scan/history
+2026-04-10 10:48:33 [info] : GET /api/v1/scan/history
+2026-04-10 10:48:45 [info] : OPTIONS /api/v1/scan/analyze
+2026-04-10 10:48:45 [info] : POST /api/v1/scan/analyze
+2026-04-10 10:48:47 [info] : 🚀 Selenium WebDriver initialized
+2026-04-10 10:48:51 [info] : 🔍 Analyzed https://www.overleaf.com/ - Title: "Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 25, Suspicious Keywords: 0, Password Forms: true, Iframes: 0, Hidden Elements: 0
+2026-04-10 10:48:55 [info] : 🔍 Analyzed https://www.overleaf.com/#main-content - Title: "Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 25, Suspicious Keywords: 0, Password Forms: true, Iframes: 0, Hidden Elements: 0
+2026-04-10 10:48:59 [info] : 🔍 Analyzed https://www.overleaf.com/about/features-overview - Title: "LaTeX editor features & benefits - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 23, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 10:49:03 [info] : 🔍 Analyzed https://www.overleaf.com/about/ai-features - Title: "AI features - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 23, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 10:49:09 [info] : 🔍 Analyzed https://www.overleaf.com/for/enterprises - Title: "LaTeX editor for enterprises - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 23, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 10:49:13 [info] : 🔍 Analyzed https://www.overleaf.com/for/universities - Title: "LaTeX editor for universities & institutions | Overleaf - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 21, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 10:49:18 [info] : 🔍 Analyzed https://www.overleaf.com/for/government - Title: "Overleaf for government - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 23, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 10:49:23 [info] : 🔍 Analyzed https://www.overleaf.com/for/publishers - Title: "Overleaf for Publishers & Journals - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 23, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 10:49:27 [info] : 🔍 Analyzed https://www.overleaf.com/about/customer-stories - Title: "Customer Stories - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 21, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 10:49:34 [info] : 🔍 Analyzed https://www.overleaf.com/latex/templates - Title: "Templates - Journals, CVs, Presentations, Reports and More - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 32, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 10:49:40 [info] : 🔍 Analyzed https://www.overleaf.com/user/subscription/plans - Title: "Plans and Pricing - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 27, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 10:49:46 [info] : 🔍 Analyzed https://www.overleaf.com/learn - Title: "Learn LaTeX - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 23, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 10:49:52 [info] : 🔍 Analyzed https://www.overleaf.com/for/community/resources - Title: "Overleaf and LaTeX Resources - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 23, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 10:49:56 [info] : 🔍 Analyzed https://www.overleaf.com/about/why-latex - Title: "Benefits of using LaTeX editing software | Overleaf - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 21, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 10:50:01 [info] : 🔍 Analyzed https://www.overleaf.com/blog - Title: "Blog - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 25, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 10:50:07 [info] : 🔍 Analyzed https://www.overleaf.com/register - Title: "Register - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 23, Suspicious Keywords: 0, Password Forms: true, Iframes: 0, Hidden Elements: 0
+2026-04-10 10:50:11 [info] : 🔍 Analyzed https://www.overleaf.com/login - Title: "Log in to Overleaf - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 23, Suspicious Keywords: 0, Password Forms: true, Iframes: 0, Hidden Elements: 0
+2026-04-10 10:50:16 [info] : 🔍 Analyzed https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S1209510734%3A1775798412199929&client_id=47304055603.apps.googleusercontent.com&o2v=2&redirect_uri=https%3A%2F%2Fwww.overleaf.com%2Fusers%2Fauth%2Fgoogle_oauth2%2Fcallback&response_type=code&scope=email+profile&service=lso&state=Ne1sQgC3qpDf3NTL3PKU7vyL&flowName=GeneralOAuthFlow&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAO02l8Jayetx2B0GEsfUxzPb_OShRX0BGrJEEDBCpIffcth4jW4vp-PrA6u6OQWYazgHLEA2lxVsFd3iBqcFIiSksvGCEKJFeV6J-6iAXua_66sJDhhHdTYcuRoeHYeIgLbZuaBEUFRghOxeloG1Eunh_1Lrtmi-mWVyG_N4cy7qXzTEb8Eyphsx_pmil0yBSnvKHS8-r9lO7lU-2v92AAaTWv0dPJOlyiNiQ1Kv4VQItMAKuYhA2hgd415nb9HmYDwa9t2NPLl3FoJi_BajLyXMr8SeBNAeLbTz5VYNM9x_7xLsbNy8k90lWJpOd7ci0-4cmpjr0AnJYoHW2UiEICtYDWdUGI-H-UtiOHxb8L1sgp0usuOXU4MytRbS9USb3n7Lh6FE4kDPoJXbGlaKQW636qEt9a6hmiIqvqGU41037DMwaY%26flowName%3DGeneralOAuthFlow%26as%3DS1209510734%253A1775798412199929%26client_id%3D47304055603.apps.googleusercontent.com%26requestPath%3D%252Fsignin%252Foauth%252Fconsent%23&app_domain=https%3A%2F%2Fwww.overleaf.com&rart=ANgoxcd1cbfhyGLcY9dhWV-4NMFl1NuTV-GT0zkYQzu0EC6WNR1E-CE5p9Ml4_IYSIqvYC8llE3eSt78er4WaLPUIipTe2_c6glJ2UEPTkVG11OshnIh5yE - Title: "Sign in - Google Accounts", SSL: true, External Scripts: 1, Suspicious Keywords: 2, Password Forms: true, Iframes: 2, Hidden Elements: 0
+2026-04-10 10:50:23 [info] : 🔍 Analyzed https://orcid.org/signin?response_type=code&redirect_uri=https:%2F%2Fwww.overleaf.com%2Fusers%2Fauth%2Forcid%2Fcallback&scope=%2Fauthenticate&state=9a7TT9PPXHXTdb6nGugcXxYG&client_id=APP-7LF990G7W35DXRZT - Title: "Sign in - ORCID", SSL: true, External Scripts: 11, Suspicious Keywords: 0, Password Forms: true, Iframes: 3, Hidden Elements: 0
+2026-04-10 10:50:27 [info] : 🔍 Analyzed https://www.overleaf.com/legal#Terms - Title: "Privacy and Terms - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 23, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 10:50:31 [info] : 🔍 Analyzed https://www.overleaf.com/legal#Privacy - Title: "Privacy and Terms - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 23, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 10:50:34 [info] : 🔍 Analyzed https://www.overleaf.com/about/customer-story/vialab - Title: "Customer Stories: Vialab | Overleaf - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 21, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 10:50:39 [info] : 🔍 Analyzed https://www.overleaf.com/latex/templates/example-project/qzykddzqhkwk - Title: "Example Project - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 34, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 10:50:46 [info] : 🔍 Analyzed https://www.overleaf.com/latex/templates/tagged/academic-journal - Title: "Templates - Journals, CVs, Presentations, Reports and More - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 32, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 10:50:55 [info] : 🔍 Analyzed https://www.overleaf.com/latex/templates/tagged/report - Title: "Templates - Journals, CVs, Presentations, Reports and More - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 32, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 10:51:02 [info] : ✅ Completed crawl. Visited 25 pages starting from https://www.overleaf.com/
+2026-04-10 10:51:40 [info] : OPTIONS /api/v1/scan/history
+2026-04-10 10:51:40 [info] : GET /api/v1/scan/history
+2026-04-10 10:51:43 [info] : OPTIONS /api/v1/qr/mine
+2026-04-10 10:51:43 [info] : GET /api/v1/qr/mine
+2026-04-10 10:51:49 [info] : OPTIONS /api/v1/qr/generate
+2026-04-10 10:51:49 [info] : POST /api/v1/qr/generate
+2026-04-10 10:51:55 [info] : OPTIONS /api/v1/scan/history
+2026-04-10 10:51:55 [info] : GET /api/v1/scan/history
+2026-04-10 10:57:43 [info] : OPTIONS /api/v1/scan/history
+2026-04-10 10:57:43 [info] : GET /api/v1/scan/history
+2026-04-10 10:58:16 [info] : OPTIONS /api/v1/auth/login
+2026-04-10 10:58:16 [info] : POST /api/v1/auth/login
+2026-04-10 10:58:17 [info] : OPTIONS /api/v1/scan/history
+2026-04-10 10:58:17 [info] : GET /api/v1/scan/history
+2026-04-10 11:00:13 [info] : OPTIONS /api/v1/scan/history
+2026-04-10 11:00:13 [info] : GET /api/v1/scan/history
+2026-04-10 11:00:16 [info] : GET /api/v1/scan/history
+2026-04-10 11:00:20 [info] : OPTIONS /api/v1/scan/history
+2026-04-10 11:00:20 [info] : GET /api/v1/scan/history
+2026-04-10 11:00:22 [info] : GET /api/v1/scan/history
+2026-04-10 11:01:24 [info] : OPTIONS /api/v1/scan/analyze
+2026-04-10 11:01:24 [info] : POST /api/v1/scan/analyze
+2026-04-10 11:01:25 [info] : 🚀 Selenium WebDriver initialized
+2026-04-10 11:01:29 [info] : 🔍 Analyzed https://www.overleaf.com/ - Title: "Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 25, Suspicious Keywords: 0, Password Forms: true, Iframes: 0, Hidden Elements: 0
+2026-04-10 11:01:32 [info] : 🔍 Analyzed https://www.overleaf.com/#main-content - Title: "Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 25, Suspicious Keywords: 0, Password Forms: true, Iframes: 0, Hidden Elements: 0
+2026-04-10 11:01:36 [info] : 🔍 Analyzed https://www.overleaf.com/about/features-overview - Title: "LaTeX editor features & benefits - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 23, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 11:01:41 [info] : 🔍 Analyzed https://www.overleaf.com/about/ai-features - Title: "AI features - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 23, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 11:01:46 [info] : 🔍 Analyzed https://www.overleaf.com/for/enterprises - Title: "LaTeX editor for enterprises - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 23, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 11:01:51 [info] : 🔍 Analyzed https://www.overleaf.com/for/universities - Title: "LaTeX editor for universities & institutions | Overleaf - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 21, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 11:01:55 [info] : 🔍 Analyzed https://www.overleaf.com/for/government - Title: "Overleaf for government - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 23, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 11:02:00 [info] : 🔍 Analyzed https://www.overleaf.com/for/publishers - Title: "Overleaf for Publishers & Journals - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 23, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 11:02:04 [info] : 🔍 Analyzed https://www.overleaf.com/about/customer-stories - Title: "Customer Stories - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 21, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 11:02:10 [info] : 🔍 Analyzed https://www.overleaf.com/latex/templates - Title: "Templates - Journals, CVs, Presentations, Reports and More - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 32, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 11:02:16 [info] : 🔍 Analyzed https://www.overleaf.com/user/subscription/plans - Title: "Plans and Pricing - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 27, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 11:02:22 [info] : 🔍 Analyzed https://www.overleaf.com/learn - Title: "Learn LaTeX - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 23, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 11:02:27 [info] : 🔍 Analyzed https://www.overleaf.com/for/community/resources - Title: "Overleaf and LaTeX Resources - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 23, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 11:02:32 [info] : 🔍 Analyzed https://www.overleaf.com/about/why-latex - Title: "Benefits of using LaTeX editing software | Overleaf - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 21, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 11:02:36 [info] : 🔍 Analyzed https://www.overleaf.com/blog - Title: "Blog - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 25, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 11:02:41 [info] : 🔍 Analyzed https://www.overleaf.com/register - Title: "Register - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 23, Suspicious Keywords: 0, Password Forms: true, Iframes: 0, Hidden Elements: 0
+2026-04-10 11:02:45 [info] : 🔍 Analyzed https://www.overleaf.com/login - Title: "Log in to Overleaf - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 23, Suspicious Keywords: 0, Password Forms: true, Iframes: 0, Hidden Elements: 0
+2026-04-10 11:02:50 [info] : 🔍 Analyzed https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S1796074816%3A1775799166238321&client_id=47304055603.apps.googleusercontent.com&o2v=2&redirect_uri=https%3A%2F%2Fwww.overleaf.com%2Fusers%2Fauth%2Fgoogle_oauth2%2Fcallback&response_type=code&scope=email+profile&service=lso&state=kIAmZidgikd2AQs4b0adqyyP&flowName=GeneralOAuthFlow&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hANNcHi8T_PGUZ6SEKqBqTK-ce2P2OdJMaoc5tRxNEphewtTUnpIUPOK2wZnNmyVf7peg4zAtGA-PbC5YQWDwZoK_4ISBacmdhf8t61rFndMRbD4szGwAr9RWE9cugOHcUBEc4n0Ya1Yq1ENIoEp9P24qGEOrGfOpz9WW4pVulfdA8vkmQC1cxTw6D2C-1Edta7i3G_P3ioH59dXf9FKBwQw5PfbqCcho0lxsId9vFQ9IpG0p56cdK6M-1Bil4ITVwA4VWDVKaBYx8LpnM8J3L0GYpZ41A8bKxV8En80dNvCRqKUjKOz0NXozvfzU3QFtVws1BVv7-BUnaGZv4aJc9t_cenxs4syo9Imgkt5R-hDXnesViLeLItYlrGlcbaHoeQ4rCJHedJVYmqp1w2SFvaNod0X7n3LKFgWwdwGAm1HXLYECss%26flowName%3DGeneralOAuthFlow%26as%3DS1796074816%253A1775799166238321%26client_id%3D47304055603.apps.googleusercontent.com%26requestPath%3D%252Fsignin%252Foauth%252Fconsent%23&app_domain=https%3A%2F%2Fwww.overleaf.com&rart=ANgoxcdyMnb6wieIj1pDMYDN_mWdTzXHjohiGUpqrQEYCfS5Ap1ByQXmADnz7GhSd5zTZsi3Pmp9y63Y2h6OQNXwmmQ6qmVBmdybuzdnrmTfi0v8Nq_xrBk - Title: "Sign in - Google Accounts", SSL: true, External Scripts: 1, Suspicious Keywords: 2, Password Forms: true, Iframes: 2, Hidden Elements: 0
+2026-04-10 11:02:55 [info] : 🔍 Analyzed https://orcid.org/signin?response_type=code&redirect_uri=https:%2F%2Fwww.overleaf.com%2Fusers%2Fauth%2Forcid%2Fcallback&scope=%2Fauthenticate&state=HeBTvAynfCRuQaeA4pZP6JzW&client_id=APP-7LF990G7W35DXRZT - Title: "Sign in - ORCID", SSL: true, External Scripts: 11, Suspicious Keywords: 0, Password Forms: true, Iframes: 3, Hidden Elements: 0
+2026-04-10 11:03:00 [info] : 🔍 Analyzed https://www.overleaf.com/legal#Terms - Title: "Privacy and Terms - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 23, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 11:03:03 [info] : 🔍 Analyzed https://www.overleaf.com/legal#Privacy - Title: "Privacy and Terms - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 23, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 11:03:06 [info] : 🔍 Analyzed https://www.overleaf.com/about/customer-story/vialab - Title: "Customer Stories: Vialab | Overleaf - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 21, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 11:03:11 [info] : 🔍 Analyzed https://www.overleaf.com/latex/templates/example-project/qzykddzqhkwk - Title: "Example Project - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 34, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 11:03:17 [info] : 🔍 Analyzed https://www.overleaf.com/latex/templates/tagged/academic-journal - Title: "Templates - Journals, CVs, Presentations, Reports and More - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 32, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 11:03:25 [info] : 🔍 Analyzed https://www.overleaf.com/latex/templates/tagged/report - Title: "Templates - Journals, CVs, Presentations, Reports and More - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 32, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 11:03:31 [info] : ✅ Completed crawl. Visited 25 pages starting from https://www.overleaf.com/
+2026-04-10 11:09:18 [info] : OPTIONS /api/v1/scan/history
+2026-04-10 11:09:18 [info] : GET /api/v1/scan/history
+2026-04-10 11:10:08 [info] : OPTIONS /api/v1/scan/analyze
+2026-04-10 11:10:08 [info] : POST /api/v1/scan/analyze
+2026-04-10 11:10:11 [info] : 🚀 Selenium WebDriver initialized
+2026-04-10 11:10:14 [info] : 🔍 Analyzed https://www.overleaf.com/ - Title: "Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 25, Suspicious Keywords: 0, Password Forms: true, Iframes: 0, Hidden Elements: 0
+2026-04-10 11:10:18 [info] : 🔍 Analyzed https://www.overleaf.com/#main-content - Title: "Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 25, Suspicious Keywords: 0, Password Forms: true, Iframes: 0, Hidden Elements: 0
+2026-04-10 11:10:22 [info] : 🔍 Analyzed https://www.overleaf.com/about/features-overview - Title: "LaTeX editor features & benefits - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 23, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 11:10:26 [info] : 🔍 Analyzed https://www.overleaf.com/about/ai-features - Title: "AI features - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 23, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 11:10:32 [info] : 🔍 Analyzed https://www.overleaf.com/for/enterprises - Title: "LaTeX editor for enterprises - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 23, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 11:10:36 [info] : 🔍 Analyzed https://www.overleaf.com/for/universities - Title: "LaTeX editor for universities & institutions | Overleaf - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 21, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 11:10:41 [info] : 🔍 Analyzed https://www.overleaf.com/for/government - Title: "Overleaf for government - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 23, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 11:10:46 [info] : 🔍 Analyzed https://www.overleaf.com/for/publishers - Title: "Overleaf for Publishers & Journals - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 23, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 11:10:50 [info] : 🔍 Analyzed https://www.overleaf.com/about/customer-stories - Title: "Customer Stories - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 21, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 11:10:56 [info] : 🔍 Analyzed https://www.overleaf.com/latex/templates - Title: "Templates - Journals, CVs, Presentations, Reports and More - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 32, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 11:11:02 [info] : 🔍 Analyzed https://www.overleaf.com/user/subscription/plans - Title: "Plans and Pricing - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 27, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 11:11:09 [info] : 🔍 Analyzed https://www.overleaf.com/learn - Title: "Learn LaTeX - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 23, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 11:11:15 [info] : 🔍 Analyzed https://www.overleaf.com/for/community/resources - Title: "Overleaf and LaTeX Resources - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 23, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 11:11:19 [info] : 🔍 Analyzed https://www.overleaf.com/about/why-latex - Title: "Benefits of using LaTeX editing software | Overleaf - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 21, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 11:11:24 [info] : 🔍 Analyzed https://www.overleaf.com/blog - Title: "Blog - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 25, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 11:11:29 [info] : 🔍 Analyzed https://www.overleaf.com/register - Title: "Register - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 23, Suspicious Keywords: 0, Password Forms: true, Iframes: 0, Hidden Elements: 0
+2026-04-10 11:11:32 [info] : 🔍 Analyzed https://www.overleaf.com/login - Title: "Log in to Overleaf - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 23, Suspicious Keywords: 0, Password Forms: true, Iframes: 0, Hidden Elements: 0
+2026-04-10 11:11:38 [info] : 🔍 Analyzed https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S539519255%3A1775799693794606&client_id=47304055603.apps.googleusercontent.com&o2v=2&redirect_uri=https%3A%2F%2Fwww.overleaf.com%2Fusers%2Fauth%2Fgoogle_oauth2%2Fcallback&response_type=code&scope=email+profile&service=lso&state=7uP53T5ESKrPDPTuCkKS5lWn&flowName=GeneralOAuthFlow&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hANCNg1FbstohQNqpGQuMGIJ8-TCdHdXIHv_mhxral5I8b5qP2fCBzph8aEClXrlz7jfZjAL8aCh9FsVv2-SWfk38IHZEF86uhLYvBLCMVYQ_p5cxGLZEeDQaYESwc66R0TQXnU5rmncdTyo-mRM6ki8j2fFRLXgSbdzhAsBCB6yxqEIQzzsrrMw7rjee6_4zstaGROQSWL_Pnu9xLU-PRmpBnPCRV2MJBsp7vGiqNePwyFa7G5YbDsRPgAuBma0pO6BcG-j1rZvlLaCVzxe66HEJHeqm4LIl4SzbrqUfvj62ujR7WQHH69TjMmoniW81CUmUgtSUX4pWwu27ZXYWVqCY7fQYiyJvOOqdBLLhSBCLXRbk-Lxp0HABNdm_bxf8TLKiBxN6HAb7TOVUPGyWSAyJtvoLmELqolv_Ck8LHam-W8joDs%26flowName%3DGeneralOAuthFlow%26as%3DS539519255%253A1775799693794606%26client_id%3D47304055603.apps.googleusercontent.com%26requestPath%3D%252Fsignin%252Foauth%252Fconsent%23&app_domain=https%3A%2F%2Fwww.overleaf.com&rart=ANgoxcevu9wuQaTUgvOwlsQ3n_3by6Vp5JESabd6mfuZ_R0TtP-l5RNbIIUi6O4L1HgOi_QSpMMsOmxWtfdYR8fls8IaJh4hK_S1djdo2NWy1OyjnNWLv4I - Title: "Sign in - Google Accounts", SSL: true, External Scripts: 1, Suspicious Keywords: 2, Password Forms: true, Iframes: 2, Hidden Elements: 0
+2026-04-10 11:11:43 [info] : 🔍 Analyzed https://orcid.org/signin?response_type=code&redirect_uri=https:%2F%2Fwww.overleaf.com%2Fusers%2Fauth%2Forcid%2Fcallback&scope=%2Fauthenticate&state=grqXWrlgq8I8kE3FIV179MtQ&client_id=APP-7LF990G7W35DXRZT - Title: "Sign in - ORCID", SSL: true, External Scripts: 11, Suspicious Keywords: 0, Password Forms: true, Iframes: 3, Hidden Elements: 0
+2026-04-10 11:11:48 [info] : 🔍 Analyzed https://www.overleaf.com/legal#Terms - Title: "Privacy and Terms - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 23, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 11:11:51 [info] : 🔍 Analyzed https://www.overleaf.com/legal#Privacy - Title: "Privacy and Terms - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 23, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 11:11:54 [info] : 🔍 Analyzed https://www.overleaf.com/about/customer-story/vialab - Title: "Customer Stories: Vialab | Overleaf - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 21, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 11:12:00 [info] : 🔍 Analyzed https://www.overleaf.com/latex/templates/example-project/qzykddzqhkwk - Title: "Example Project - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 34, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 11:12:05 [info] : 🔍 Analyzed https://www.overleaf.com/latex/templates/tagged/academic-journal - Title: "Templates - Journals, CVs, Presentations, Reports and More - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 32, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 11:12:14 [info] : 🔍 Analyzed https://www.overleaf.com/latex/templates/tagged/report - Title: "Templates - Journals, CVs, Presentations, Reports and More - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 32, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-10 11:12:21 [info] : ✅ Completed crawl. Visited 25 pages starting from https://www.overleaf.com/
