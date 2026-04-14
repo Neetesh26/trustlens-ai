@@ -1,7 +1,26 @@
-export type RawScanData = {
-  scripts: string[];
-  forms: number;
+export interface PageScanData {
+  url: string;
+  title: string;
   hasSSL: boolean;
-} & {
-  [key: string]: unknown; 
-};
+  externalScripts: string[];
+  suspiciousKeywords: string[];
+  hasPasswordForm: boolean;
+  iframeCount: number;
+  hiddenElements: number;
+}
+
+export interface RawScanData {
+  startUrl: string;
+  finalUrl: string;
+  url: string;
+  pages: PageScanData[];
+  hasSSL: boolean;
+  externalScripts: string[];
+  suspiciousKeywords: string[];
+  passwordFormsWithoutSSL: boolean;
+  trackers: string[];
+  iframeCount: number;
+  hiddenElements: number;
+  cookieCount: number;
+  redirects: number;
+}
