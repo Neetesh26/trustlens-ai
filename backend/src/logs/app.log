@@ -229,3 +229,645 @@
 2026-04-13 13:48:36 [info] : 🔍 Analyzed https://www.hackerrank.com/work/pricing - Title: "", SSL: true, External Scripts: 0, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
 2026-04-13 13:48:40 [info] : 🔍 Analyzed https://www.hackerrank.com/access-account - Title: "Access Account", SSL: true, External Scripts: 19, Suspicious Keywords: 1, Password Forms: false, Iframes: 2, Hidden Elements: 0
 2026-04-13 13:48:41 [info] : ✅ Completed crawl. Visited 25 pages starting from https://www.hackerrank.com/
+2026-04-14 13:33:52 [info] : OPTIONS /api/v1/auth/login
+2026-04-14 13:33:52 [info] : POST /api/v1/auth/login
+2026-04-14 13:33:52 [info] : OPTIONS /api/v1/scan/history
+2026-04-14 13:33:52 [info] : GET /api/v1/scan/history
+2026-04-14 13:34:26 [info] : OPTIONS /api/v1/scan/history
+2026-04-14 13:34:26 [info] : GET /api/v1/scan/history
+2026-04-14 13:34:30 [info] : OPTIONS /api/v1/qr/mine
+2026-04-14 13:34:30 [info] : GET /api/v1/qr/mine
+2026-04-14 13:34:36 [info] : OPTIONS /api/v1/scan/history
+2026-04-14 13:34:36 [info] : GET /api/v1/scan/history
+2026-04-14 13:35:31 [info] : OPTIONS /api/v1/scan/history
+2026-04-14 13:35:31 [info] : GET /api/v1/scan/history
+2026-04-14 14:16:27 [info] : OPTIONS /api/v1/scan/history
+2026-04-14 14:16:27 [info] : GET /api/v1/scan/history
+2026-04-14 14:17:05 [info] : OPTIONS /api/v1/scan/history
+2026-04-14 14:17:05 [info] : GET /api/v1/scan/history
+2026-04-14 14:18:48 [info] : OPTIONS /api/v1/scan/history
+2026-04-14 14:18:48 [info] : GET /api/v1/scan/history
+2026-04-14 14:19:41 [info] : OPTIONS /api/v1/scan/history
+2026-04-14 14:19:41 [info] : GET /api/v1/scan/history
+2026-04-14 15:10:27 [info] : OPTIONS /api/v1/scan/history
+2026-04-14 15:10:27 [info] : GET /api/v1/scan/history
+2026-04-14 15:10:28 [info] : GET /api/v1/scan/history
+2026-04-14 16:34:18 [info] : OPTIONS /api/v1/auth/login
+2026-04-14 16:34:18 [info] : POST /api/v1/auth/login
+2026-04-14 16:34:18 [info] : OPTIONS /api/v1/scan/history
+2026-04-14 16:34:18 [info] : GET /api/v1/scan/history
+2026-04-14 16:35:03 [info] : OPTIONS /api/v1/scan/analyze
+2026-04-14 16:35:03 [info] : POST /api/v1/scan/analyze
+2026-04-14 16:35:09 [info] : 🚀 Selenium WebDriver initialized
+2026-04-14 16:35:14 [info] : ✅ Completed crawl. Visited 1 pages starting from https://www.4brainstech.com/
+2026-04-14 16:36:29 [info] : OPTIONS /api/v1/scan/analyze
+2026-04-14 16:36:29 [info] : POST /api/v1/scan/analyze
+2026-04-14 16:36:31 [info] : 🚀 Selenium WebDriver initialized
+2026-04-14 16:36:38 [info] : 🔍 Analyzed https://github.com/ - Title: "GitHub · Change is constant. GitHub keeps you ahead. · GitHub", SSL: true, External Scripts: 57, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-14 16:36:46 [info] : 🔍 Analyzed https://github.com/#start-of-content - Title: "GitHub · Change is constant. GitHub keeps you ahead. · GitHub", SSL: true, External Scripts: 57, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-14 16:36:53 [info] : 🔍 Analyzed https://github.com/login - Title: "Sign in to GitHub · GitHub", SSL: true, External Scripts: 48, Suspicious Keywords: 0, Password Forms: true, Iframes: 0, Hidden Elements: 0
+2026-04-14 16:37:00 [info] : 🔍 Analyzed https://github.com/features/copilot - Title: "GitHub Copilot · Your AI pair programmer · GitHub", SSL: true, External Scripts: 57, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-14 16:37:12 [info] : 🔍 Analyzed https://github.com/features/spark - Title: "GitHub Spark · Dream it. See it. Ship it. · GitHub", SSL: true, External Scripts: 58, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-14 16:37:22 [info] : 🔍 Analyzed https://github.com/features/models - Title: "GitHub Models · Build AI-powered projects with industry-leading · GitHub", SSL: true, External Scripts: 58, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-14 16:37:31 [info] : 🔍 Analyzed https://github.com/mcp - Title: "MCP Registry · GitHub", SSL: true, External Scripts: 53, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-14 16:37:39 [info] : 🔍 Analyzed https://github.com/features/actions - Title: "GitHub Actions · GitHub", SSL: true, External Scripts: 58, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-14 16:37:48 [info] : 🔍 Analyzed https://github.com/features/codespaces - Title: "GitHub Codespaces · GitHub", SSL: true, External Scripts: 58, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-14 16:37:57 [info] : 🔍 Analyzed https://github.com/features/issues - Title: "GitHub Issues · Project planning for developers · GitHub", SSL: true, External Scripts: 58, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-14 16:38:07 [info] : 🔍 Analyzed https://github.com/features/code-review - Title: "GitHub Code Review · GitHub", SSL: true, External Scripts: 58, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-14 16:38:16 [info] : 🔍 Analyzed https://github.com/security/advanced-security - Title: "GitHub Advanced Security · Built-in protection for every repository · GitHub", SSL: true, External Scripts: 57, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-14 16:38:26 [info] : 🔍 Analyzed https://github.com/security/advanced-security/code-security - Title: "GitHub Code Security · GitHub", SSL: true, External Scripts: 58, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-14 16:38:36 [info] : 🔍 Analyzed https://github.com/security/advanced-security/secret-protection - Title: "GitHub Secret Protection · GitHub", SSL: true, External Scripts: 58, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-14 16:38:46 [info] : 🔍 Analyzed https://github.com/why-github - Title: "GitHub · Why Choose GitHub? · GitHub", SSL: true, External Scripts: 58, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-14 16:38:56 [info] : 🔍 Analyzed https://github.com/marketplace - Title: "Marketplace · Tools to improve your workflow · GitHub", SSL: true, External Scripts: 62, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-14 16:39:07 [info] : 🔍 Analyzed https://github.com/features - Title: "GitHub Features · GitHub", SSL: true, External Scripts: 58, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-14 16:39:19 [info] : 🔍 Analyzed https://github.com/enterprise - Title: "GitHub Enterprise · The AI-powered developer platform for the agent-ready enterprise · GitHub", SSL: true, External Scripts: 57, Suspicious Keywords: 0, Password Forms: false, Iframes: 1, Hidden Elements: 0
+2026-04-14 16:39:30 [info] : 🔍 Analyzed https://github.com/team - Title: "GitHub for teams · Build like the best teams on the planet · GitHub", SSL: true, External Scripts: 47, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-14 16:39:41 [info] : 🔍 Analyzed https://github.com/enterprise/startups - Title: "Build your startup on GitHub · GitHub", SSL: true, External Scripts: 58, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-14 16:39:52 [info] : 🔍 Analyzed https://github.com/solutions/industry/nonprofits - Title: "GitHub for Nonprofits · GitHub", SSL: true, External Scripts: 58, Suspicious Keywords: 0, Password Forms: false, Iframes: 1, Hidden Elements: 0
+2026-04-14 16:40:00 [info] : OPTIONS /api/v1/scan/history
+2026-04-14 16:40:00 [info] : GET /api/v1/scan/history
+2026-04-14 16:40:02 [info] : 🔍 Analyzed https://github.com/solutions/use-case/app-modernization - Title: "App Modernization Solutions | GitHub · GitHub", SSL: true, External Scripts: 58, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-14 16:40:07 [info] : OPTIONS /api/v1/scan/history
+2026-04-14 16:40:07 [info] : GET /api/v1/scan/history
+2026-04-14 16:40:12 [info] : 🔍 Analyzed https://github.com/solutions/use-case/devsecops - Title: "Unified DevSecOps Solutions Built for Security | GitHub · GitHub", SSL: true, External Scripts: 58, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-14 16:40:17 [info] : OPTIONS /api/v1/qr/mine
+2026-04-14 16:40:17 [info] : GET /api/v1/qr/mine
+2026-04-14 16:40:23 [info] : 🔍 Analyzed https://github.com/solutions/use-case/devops - Title: "Unified AI-Powered Platforms for DevOps Solutions | GitHub · GitHub", SSL: true, External Scripts: 58, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-14 16:40:33 [info] : 🔍 Analyzed https://github.com/solutions/use-case/ci-cd - Title: "A Complete CI/CD Solution for Software Development | GitHub · GitHub", SSL: true, External Scripts: 58, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-14 16:40:38 [info] : ✅ Completed crawl. Visited 25 pages starting from https://github.com/
+2026-04-14 16:40:51 [info] : OPTIONS /api/v1/qr/generate
+2026-04-14 16:40:51 [info] : POST /api/v1/qr/generate
+2026-04-14 16:49:44 [info] : OPTIONS /api/v1/scan/analyze
+2026-04-14 16:49:44 [info] : POST /api/v1/scan/analyze
+2026-04-14 16:49:46 [info] : 🚀 Selenium WebDriver initialized
+2026-04-14 16:49:53 [info] : 🔍 Analyzed https://github.com/ - Title: "GitHub · Change is constant. GitHub keeps you ahead. · GitHub", SSL: true, External Scripts: 57, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-14 16:50:04 [info] : 🔍 Analyzed https://github.com/#start-of-content - Title: "GitHub · Change is constant. GitHub keeps you ahead. · GitHub", SSL: true, External Scripts: 57, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-14 16:50:11 [info] : 🔍 Analyzed https://github.com/login - Title: "Sign in to GitHub · GitHub", SSL: true, External Scripts: 48, Suspicious Keywords: 0, Password Forms: true, Iframes: 0, Hidden Elements: 0
+2026-04-14 16:50:17 [info] : 🔍 Analyzed https://github.com/features/copilot - Title: "GitHub Copilot · Your AI pair programmer · GitHub", SSL: true, External Scripts: 56, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-14 16:50:27 [info] : 🔍 Analyzed https://github.com/features/spark - Title: "GitHub Spark · Dream it. See it. Ship it. · GitHub", SSL: true, External Scripts: 57, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-14 16:50:38 [info] : 🔍 Analyzed https://github.com/features/models - Title: "GitHub Models · Build AI-powered projects with industry-leading · GitHub", SSL: true, External Scripts: 57, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-14 16:50:49 [info] : 🔍 Analyzed https://github.com/mcp - Title: "MCP Registry · GitHub", SSL: true, External Scripts: 53, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-14 16:51:01 [info] : 🔍 Analyzed https://github.com/features/actions - Title: "GitHub Actions · GitHub", SSL: true, External Scripts: 57, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-14 16:51:14 [info] : 🔍 Analyzed https://github.com/features/codespaces - Title: "GitHub Codespaces · GitHub", SSL: true, External Scripts: 57, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-14 16:51:26 [info] : 🔍 Analyzed https://github.com/features/issues - Title: "GitHub Issues · Project planning for developers · GitHub", SSL: true, External Scripts: 57, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-14 16:51:35 [info] : 🔍 Analyzed https://github.com/features/code-review - Title: "GitHub Code Review · GitHub", SSL: true, External Scripts: 57, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-14 16:51:46 [info] : 🔍 Analyzed https://github.com/security/advanced-security - Title: "GitHub Advanced Security · Built-in protection for every repository · GitHub", SSL: true, External Scripts: 56, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-14 16:51:56 [info] : 🔍 Analyzed https://github.com/security/advanced-security/code-security - Title: "GitHub Code Security · GitHub", SSL: true, External Scripts: 57, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-14 16:52:05 [info] : 🔍 Analyzed https://github.com/security/advanced-security/secret-protection - Title: "GitHub Secret Protection · GitHub", SSL: true, External Scripts: 57, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-14 16:52:15 [info] : 🔍 Analyzed https://github.com/why-github - Title: "GitHub · Why Choose GitHub? · GitHub", SSL: true, External Scripts: 57, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-14 16:52:25 [info] : 🔍 Analyzed https://github.com/marketplace - Title: "Marketplace · Tools to improve your workflow · GitHub", SSL: true, External Scripts: 62, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-14 16:52:36 [info] : 🔍 Analyzed https://github.com/features - Title: "GitHub Features · GitHub", SSL: true, External Scripts: 57, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-14 16:52:50 [info] : 🔍 Analyzed https://github.com/enterprise - Title: "GitHub Enterprise · The AI-powered developer platform for the agent-ready enterprise · GitHub", SSL: true, External Scripts: 56, Suspicious Keywords: 0, Password Forms: false, Iframes: 1, Hidden Elements: 0
+2026-04-14 16:53:02 [info] : 🔍 Analyzed https://github.com/team - Title: "GitHub for teams · Build like the best teams on the planet · GitHub", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-14 16:53:13 [info] : 🔍 Analyzed https://github.com/enterprise/startups - Title: "Build your startup on GitHub · GitHub", SSL: true, External Scripts: 57, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-14 16:53:24 [info] : 🔍 Analyzed https://github.com/solutions/industry/nonprofits - Title: "GitHub for Nonprofits · GitHub", SSL: true, External Scripts: 57, Suspicious Keywords: 0, Password Forms: false, Iframes: 1, Hidden Elements: 0
+2026-04-14 16:53:35 [info] : 🔍 Analyzed https://github.com/solutions/use-case/app-modernization - Title: "App Modernization Solutions | GitHub · GitHub", SSL: true, External Scripts: 57, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-14 16:53:45 [info] : 🔍 Analyzed https://github.com/solutions/use-case/devsecops - Title: "Unified DevSecOps Solutions Built for Security | GitHub · GitHub", SSL: true, External Scripts: 57, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-14 16:53:55 [info] : 🔍 Analyzed https://github.com/solutions/use-case/devops - Title: "Unified AI-Powered Platforms for DevOps Solutions | GitHub · GitHub", SSL: true, External Scripts: 57, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-14 16:54:06 [info] : 🔍 Analyzed https://github.com/solutions/use-case/ci-cd - Title: "A Complete CI/CD Solution for Software Development | GitHub · GitHub", SSL: true, External Scripts: 57, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-14 16:54:11 [info] : ✅ Completed crawl. Visited 25 pages starting from https://github.com/
+2026-04-16 11:53:43 [info] : OPTIONS /api/v1/auth/login
+2026-04-16 11:53:43 [info] : POST /api/v1/auth/login
+2026-04-16 11:53:43 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 11:53:43 [info] : GET /api/v1/scan/history
+2026-04-16 11:53:51 [info] : OPTIONS /api/v1/scan/analyze
+2026-04-16 11:53:51 [info] : POST /api/v1/scan/analyze
+2026-04-16 11:53:55 [info] : 🚀 Selenium WebDriver initialized
+2026-04-16 11:54:03 [info] : 🔍 Analyzed https://www.orbosis.com/ - Title: "Home - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 47, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 11:54:17 [info] : 🔍 Analyzed https://www.orbosis.com/about/ - Title: "About Us - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 11:54:26 [info] : 🔍 Analyzed https://www.orbosis.com/service/ - Title: "Service - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 11:54:35 [info] : 🔍 Analyzed https://www.orbosis.com/web-development/ - Title: "Web Development - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 11:54:42 [info] : 🔍 Analyzed https://www.orbosis.com/cms-development/ - Title: "CMS Development - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 11:54:50 [info] : 🔍 Analyzed https://www.orbosis.com/mobile-app-development/ - Title: "Mobile App Development - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 11:54:57 [info] : 🔍 Analyzed https://www.orbosis.com/digital-marketing-service/ - Title: "Digital Marketing Services in Indore | SEO, PPC & Social Media – Orbosis", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 11:55:03 [info] : 🔍 Analyzed https://www.orbosis.com/branding-design/ - Title: "Branding & Design - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 11:55:10 [info] : 🔍 Analyzed https://www.orbosis.com/blog/ - Title: "Blogs - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 11:55:17 [info] : 🔍 Analyzed https://www.orbosis.com/contact/ - Title: "Contact Us - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 11:55:26 [info] : 🔍 Analyzed https://www.orbosis.com/#about-sec - Title: "Home - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 11:55:33 [info] : 🔍 Analyzed https://www.orbosis.com/# - Title: "Home - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 11:55:41 [info] : 🔍 Analyzed https://www.orbosis.com/the-role-of-ai-in-shaping-the-future-of-work/ - Title: "The Role-of AI in Shaping the Future of-the Work - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 11:55:49 [info] : 🔍 Analyzed https://www.orbosis.com/author/orbosisglobalgmail-com/ - Title: "Orbosis Global - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 11:55:59 [info] : 🔍 Analyzed https://www.orbosis.com/ - Title: "Home - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 11:56:11 [info] : 🔍 Analyzed https://www.orbosis.com/how-small-businesses-can-benefit-from-ai-solutions/ - Title: "How Small Businesses Can Benefit from AI Solutions - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 11:56:21 [info] : 🔍 Analyzed https://www.orbosis.com/ - Title: "Home - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 11:56:33 [info] : 🔍 Analyzed https://www.orbosis.com/ai-and-creativity-can-machines-be-truly-creative/ - Title: "AI and Creativity: Can Machines Be Truly Creative - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 11:56:41 [info] : 🔍 Analyzed https://www.orbosis.com/about/# - Title: "About Us - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 11:56:58 [info] : 🔍 Analyzed https://www.orbosis.com/service/# - Title: "Service - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 11:57:03 [info] : 🔍 Analyzed https://www.orbosis.com/web-development/# - Title: "Web Development - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 11:57:08 [info] : 🔍 Analyzed https://www.orbosis.com/cms-development/# - Title: "CMS Development - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 11:57:14 [info] : 🔍 Analyzed https://www.orbosis.com/mobile-app-development/# - Title: "Mobile App Development - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 11:57:20 [info] : 🔍 Analyzed https://www.orbosis.com/digital-marketing-service/# - Title: "Digital Marketing Services in Indore | SEO, PPC & Social Media – Orbosis", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 11:57:25 [info] : 🔍 Analyzed https://www.orbosis.com/branding-design/# - Title: "Branding & Design - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 11:57:27 [info] : ✅ Completed crawl. Visited 25 pages starting from https://www.orbosis.com/
+2026-04-16 11:59:19 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 11:59:19 [info] : GET /api/v1/scan/history
+2026-04-16 11:59:39 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 11:59:39 [info] : GET /api/v1/scan/history
+2026-04-16 11:59:49 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 11:59:49 [info] : GET /api/v1/scan/history
+2026-04-16 12:00:59 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 12:00:59 [info] : GET /api/v1/scan/history
+2026-04-16 12:01:09 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 12:01:09 [info] : GET /api/v1/scan/history
+2026-04-16 12:02:29 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 12:02:29 [info] : GET /api/v1/scan/history
+2026-04-16 12:02:53 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 12:02:53 [info] : GET /api/v1/scan/history
+2026-04-16 12:04:17 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 12:04:17 [info] : GET /api/v1/scan/history
+2026-04-16 12:05:17 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 12:05:17 [info] : GET /api/v1/scan/history
+2026-04-16 12:06:20 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 12:06:20 [info] : GET /api/v1/scan/history
+2026-04-16 12:06:29 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 12:06:29 [info] : GET /api/v1/scan/history
+2026-04-16 12:08:44 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 12:08:44 [info] : GET /api/v1/scan/history
+2026-04-16 12:08:44 [info] : GET /api/v1/scan/history
+2026-04-16 12:10:32 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 12:10:32 [info] : GET /api/v1/scan/history
+2026-04-16 12:10:34 [info] : GET /api/v1/scan/history
+2026-04-16 12:10:53 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 12:10:53 [info] : GET /api/v1/scan/history
+2026-04-16 12:10:54 [info] : GET /api/v1/scan/history
+2026-04-16 12:13:13 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 12:13:13 [info] : GET /api/v1/scan/history
+2026-04-16 12:14:18 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 12:14:18 [info] : GET /api/v1/scan/history
+2026-04-16 12:14:19 [info] : GET /api/v1/scan/history
+2026-04-16 12:14:54 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 12:14:54 [info] : GET /api/v1/scan/history
+2026-04-16 12:16:21 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 12:16:21 [info] : GET /api/v1/scan/history
+2026-04-16 12:24:23 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 12:24:23 [info] : GET /api/v1/scan/history
+2026-04-16 12:24:25 [info] : GET /api/v1/scan/history
+2026-04-16 12:24:27 [info] : GET /api/v1/scan/history
+2026-04-16 12:24:36 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 12:24:36 [info] : GET /api/v1/scan/history
+2026-04-16 12:45:48 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 12:45:48 [info] : GET /api/v1/scan/history
+2026-04-16 12:50:45 [info] : OPTIONS /api/v1/auth/login
+2026-04-16 12:50:45 [info] : POST /api/v1/auth/login
+2026-04-16 12:50:46 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 12:50:46 [info] : GET /api/v1/scan/history
+2026-04-16 12:51:33 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 12:51:33 [info] : GET /api/v1/scan/history
+2026-04-16 12:51:34 [info] : GET /api/v1/scan/history
+2026-04-16 12:51:53 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 12:51:53 [info] : GET /api/v1/scan/history
+2026-04-16 12:51:59 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 12:51:59 [info] : GET /api/v1/scan/history
+2026-04-16 12:53:55 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 12:53:55 [info] : GET /api/v1/scan/history
+2026-04-16 12:54:03 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 12:54:03 [info] : GET /api/v1/scan/history
+2026-04-16 12:54:05 [info] : GET /api/v1/scan/history
+2026-04-16 12:54:13 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 12:54:13 [info] : GET /api/v1/scan/history
+2026-04-16 12:54:35 [info] : OPTIONS /api/v1/scan/analyze
+2026-04-16 12:54:35 [info] : POST /api/v1/scan/analyze
+2026-04-16 12:54:38 [info] : 🚀 Selenium WebDriver initialized
+2026-04-16 12:54:48 [info] : 🔍 Analyzed https://www.orbosis.com/ - Title: "Home - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 12:54:59 [info] : 🔍 Analyzed https://www.orbosis.com/about/ - Title: "About Us - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 12:55:07 [info] : 🔍 Analyzed https://www.orbosis.com/service/ - Title: "Service - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 12:55:15 [info] : 🔍 Analyzed https://www.orbosis.com/web-development/ - Title: "Web Development - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 12:55:21 [info] : 🔍 Analyzed https://www.orbosis.com/cms-development/ - Title: "CMS Development - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 12:55:28 [info] : 🔍 Analyzed https://www.orbosis.com/mobile-app-development/ - Title: "Mobile App Development - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 47, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 12:55:34 [info] : 🔍 Analyzed https://www.orbosis.com/digital-marketing-service/ - Title: "Digital Marketing Services in Indore | SEO, PPC & Social Media – Orbosis", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 12:55:40 [info] : 🔍 Analyzed https://www.orbosis.com/branding-design/ - Title: "Branding & Design - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 12:55:47 [info] : 🔍 Analyzed https://www.orbosis.com/blog/ - Title: "Blogs - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 12:55:54 [info] : 🔍 Analyzed https://www.orbosis.com/contact/ - Title: "Contact Us - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 12:56:04 [info] : 🔍 Analyzed https://www.orbosis.com/#about-sec - Title: "Home - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 12:56:11 [info] : 🔍 Analyzed https://www.orbosis.com/# - Title: "Home - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 12:56:18 [info] : 🔍 Analyzed https://www.orbosis.com/the-role-of-ai-in-shaping-the-future-of-work/ - Title: "The Role-of AI in Shaping the Future of-the Work - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 12:56:26 [info] : 🔍 Analyzed https://www.orbosis.com/author/orbosisglobalgmail-com/ - Title: "Orbosis Global - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 12:56:36 [info] : 🔍 Analyzed https://www.orbosis.com/ - Title: "Home - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 12:56:47 [info] : 🔍 Analyzed https://www.orbosis.com/how-small-businesses-can-benefit-from-ai-solutions/ - Title: "How Small Businesses Can Benefit from AI Solutions - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 12:56:56 [info] : 🔍 Analyzed https://www.orbosis.com/ - Title: "Home - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 12:57:08 [info] : 🔍 Analyzed https://www.orbosis.com/ai-and-creativity-can-machines-be-truly-creative/ - Title: "AI and Creativity: Can Machines Be Truly Creative - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 12:57:16 [info] : 🔍 Analyzed https://www.orbosis.com/about/# - Title: "About Us - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 12:57:23 [info] : 🔍 Analyzed https://www.orbosis.com/service/# - Title: "Service - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 12:57:28 [info] : 🔍 Analyzed https://www.orbosis.com/web-development/# - Title: "Web Development - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 12:57:34 [info] : 🔍 Analyzed https://www.orbosis.com/cms-development/# - Title: "CMS Development - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 12:57:40 [info] : 🔍 Analyzed https://www.orbosis.com/mobile-app-development/# - Title: "Mobile App Development - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 12:57:46 [info] : 🔍 Analyzed https://www.orbosis.com/digital-marketing-service/# - Title: "Digital Marketing Services in Indore | SEO, PPC & Social Media – Orbosis", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 12:57:52 [info] : 🔍 Analyzed https://www.orbosis.com/branding-design/# - Title: "Branding & Design - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 12:57:53 [info] : ✅ Completed crawl. Visited 25 pages starting from https://www.orbosis.com/
+2026-04-16 12:57:59 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 12:57:59 [info] : GET /api/v1/scan/history
+2026-04-16 12:58:31 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 12:58:31 [info] : GET /api/v1/scan/history
+2026-04-16 12:58:34 [info] : GET /api/v1/scan/history
+2026-04-16 12:58:53 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 12:58:53 [info] : GET /api/v1/scan/history
+2026-04-16 13:00:24 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 13:00:24 [info] : GET /api/v1/scan/history
+2026-04-16 13:00:27 [info] : GET /api/v1/scan/history
+2026-04-16 13:00:42 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 13:00:42 [info] : GET /api/v1/scan/history
+2026-04-16 13:01:08 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 13:01:08 [info] : GET /api/v1/scan/history
+2026-04-16 13:01:22 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 13:01:22 [info] : GET /api/v1/scan/history
+2026-04-16 13:03:21 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 13:03:21 [info] : GET /api/v1/scan/history
+2026-04-16 13:03:25 [info] : GET /api/v1/scan/history
+2026-04-16 13:05:14 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 13:05:14 [info] : GET /api/v1/scan/history
+2026-04-16 13:05:31 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 13:05:31 [info] : GET /api/v1/scan/history
+2026-04-16 13:05:40 [info] : OPTIONS /api/v1/scan/analyze
+2026-04-16 13:05:40 [info] : POST /api/v1/scan/analyze
+2026-04-16 13:05:42 [info] : 🚀 Selenium WebDriver initialized
+2026-04-16 13:05:53 [info] : 🔍 Analyzed https://www.orbosis.com/ - Title: "Home - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:06:06 [info] : 🔍 Analyzed https://www.orbosis.com/about/ - Title: "About Us - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:06:15 [info] : 🔍 Analyzed https://www.orbosis.com/service/ - Title: "Service - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:06:23 [info] : 🔍 Analyzed https://www.orbosis.com/web-development/ - Title: "Web Development - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:06:29 [info] : 🔍 Analyzed https://www.orbosis.com/cms-development/ - Title: "CMS Development - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:06:36 [info] : 🔍 Analyzed https://www.orbosis.com/mobile-app-development/ - Title: "Mobile App Development - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:06:42 [info] : 🔍 Analyzed https://www.orbosis.com/digital-marketing-service/ - Title: "Digital Marketing Services in Indore | SEO, PPC & Social Media – Orbosis", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:06:48 [info] : 🔍 Analyzed https://www.orbosis.com/branding-design/ - Title: "Branding & Design - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:06:55 [info] : 🔍 Analyzed https://www.orbosis.com/blog/ - Title: "Blogs - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:07:03 [info] : 🔍 Analyzed https://www.orbosis.com/contact/ - Title: "Contact Us - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:07:12 [info] : 🔍 Analyzed https://www.orbosis.com/#about-sec - Title: "Home - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:07:19 [info] : 🔍 Analyzed https://www.orbosis.com/# - Title: "Home - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:07:26 [info] : 🔍 Analyzed https://www.orbosis.com/the-role-of-ai-in-shaping-the-future-of-work/ - Title: "The Role-of AI in Shaping the Future of-the Work - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:07:33 [info] : 🔍 Analyzed https://www.orbosis.com/author/orbosisglobalgmail-com/ - Title: "Orbosis Global - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:07:44 [info] : 🔍 Analyzed https://www.orbosis.com/ - Title: "Home - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:07:55 [info] : 🔍 Analyzed https://www.orbosis.com/how-small-businesses-can-benefit-from-ai-solutions/ - Title: "How Small Businesses Can Benefit from AI Solutions - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 47, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:08:05 [info] : 🔍 Analyzed https://www.orbosis.com/ - Title: "Home - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:08:16 [info] : 🔍 Analyzed https://www.orbosis.com/ai-and-creativity-can-machines-be-truly-creative/ - Title: "AI and Creativity: Can Machines Be Truly Creative - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:08:23 [info] : 🔍 Analyzed https://www.orbosis.com/about/# - Title: "About Us - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:08:31 [info] : 🔍 Analyzed https://www.orbosis.com/service/# - Title: "Service - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:08:37 [info] : 🔍 Analyzed https://www.orbosis.com/web-development/# - Title: "Web Development - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:08:43 [info] : 🔍 Analyzed https://www.orbosis.com/cms-development/# - Title: "CMS Development - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:08:49 [info] : 🔍 Analyzed https://www.orbosis.com/mobile-app-development/# - Title: "Mobile App Development - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:08:55 [info] : 🔍 Analyzed https://www.orbosis.com/digital-marketing-service/# - Title: "Digital Marketing Services in Indore | SEO, PPC & Social Media – Orbosis", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:09:01 [info] : 🔍 Analyzed https://www.orbosis.com/branding-design/# - Title: "Branding & Design - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:09:03 [info] : ✅ Completed crawl. Visited 25 pages starting from https://www.orbosis.com/
+2026-04-16 13:09:09 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 13:09:09 [info] : GET /api/v1/scan/history
+2026-04-16 13:13:58 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 13:13:58 [info] : GET /api/v1/scan/history
+2026-04-16 13:14:18 [info] : OPTIONS /api/v1/scan/analyze
+2026-04-16 13:14:18 [info] : POST /api/v1/scan/analyze
+2026-04-16 13:14:20 [info] : 🚀 Selenium WebDriver initialized
+2026-04-16 13:14:30 [info] : 🔍 Analyzed https://www.orbosis.com/ - Title: "Home - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:14:42 [info] : 🔍 Analyzed https://www.orbosis.com/about/ - Title: "About Us - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 47, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:14:48 [info] : 🔍 Analyzed https://www.orbosis.com/service/ - Title: "Service - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:14:54 [info] : 🔍 Analyzed https://www.orbosis.com/web-development/ - Title: "Web Development - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:15:00 [info] : 🔍 Analyzed https://www.orbosis.com/cms-development/ - Title: "CMS Development - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:15:06 [info] : 🔍 Analyzed https://www.orbosis.com/mobile-app-development/ - Title: "Mobile App Development - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:15:11 [info] : 🔍 Analyzed https://www.orbosis.com/digital-marketing-service/ - Title: "Digital Marketing Services in Indore | SEO, PPC & Social Media – Orbosis", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:15:16 [info] : 🔍 Analyzed https://www.orbosis.com/branding-design/ - Title: "Branding & Design - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:15:21 [info] : 🔍 Analyzed https://www.orbosis.com/blog/ - Title: "Blogs - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:15:26 [info] : 🔍 Analyzed https://www.orbosis.com/contact/ - Title: "Contact Us - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:15:33 [info] : 🔍 Analyzed https://www.orbosis.com/#about-sec - Title: "Home - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:15:38 [info] : 🔍 Analyzed https://www.orbosis.com/# - Title: "Home - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:15:43 [info] : 🔍 Analyzed https://www.orbosis.com/the-role-of-ai-in-shaping-the-future-of-work/ - Title: "The Role-of AI in Shaping the Future of-the Work - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:15:48 [info] : 🔍 Analyzed https://www.orbosis.com/author/orbosisglobalgmail-com/ - Title: "Orbosis Global - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:15:56 [info] : 🔍 Analyzed https://www.orbosis.com/ - Title: "Home - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:16:03 [info] : 🔍 Analyzed https://www.orbosis.com/how-small-businesses-can-benefit-from-ai-solutions/ - Title: "How Small Businesses Can Benefit from AI Solutions - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:16:10 [info] : 🔍 Analyzed https://www.orbosis.com/ - Title: "Home - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:16:17 [info] : 🔍 Analyzed https://www.orbosis.com/ai-and-creativity-can-machines-be-truly-creative/ - Title: "AI and Creativity: Can Machines Be Truly Creative - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:16:22 [info] : 🔍 Analyzed https://www.orbosis.com/about/# - Title: "About Us - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:16:27 [info] : 🔍 Analyzed https://www.orbosis.com/service/# - Title: "Service - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:16:32 [info] : 🔍 Analyzed https://www.orbosis.com/web-development/# - Title: "Web Development - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:16:36 [info] : 🔍 Analyzed https://www.orbosis.com/cms-development/# - Title: "CMS Development - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:16:41 [info] : 🔍 Analyzed https://www.orbosis.com/mobile-app-development/# - Title: "Mobile App Development - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:16:45 [info] : 🔍 Analyzed https://www.orbosis.com/digital-marketing-service/# - Title: "Digital Marketing Services in Indore | SEO, PPC & Social Media – Orbosis", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:16:50 [info] : 🔍 Analyzed https://www.orbosis.com/branding-design/# - Title: "Branding & Design - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:16:51 [info] : ✅ Completed crawl. Visited 25 pages starting from https://www.orbosis.com/
+2026-04-16 13:18:30 [info] : OPTIONS /api/v1/scan/analyze
+2026-04-16 13:18:30 [info] : POST /api/v1/scan/analyze
+2026-04-16 13:18:31 [info] : 🚀 Selenium WebDriver initialized
+2026-04-16 13:18:37 [info] : 🔍 Analyzed https://www.orbosis.com/ - Title: "Home - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:18:47 [info] : 🔍 Analyzed https://www.orbosis.com/about/ - Title: "About Us - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:18:53 [info] : 🔍 Analyzed https://www.orbosis.com/service/ - Title: "Service - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:18:59 [info] : 🔍 Analyzed https://www.orbosis.com/web-development/ - Title: "Web Development - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:19:04 [info] : 🔍 Analyzed https://www.orbosis.com/cms-development/ - Title: "CMS Development - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:19:10 [info] : 🔍 Analyzed https://www.orbosis.com/mobile-app-development/ - Title: "Mobile App Development - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:19:14 [info] : 🔍 Analyzed https://www.orbosis.com/digital-marketing-service/ - Title: "Digital Marketing Services in Indore | SEO, PPC & Social Media – Orbosis", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:19:19 [info] : 🔍 Analyzed https://www.orbosis.com/branding-design/ - Title: "Branding & Design - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:19:25 [info] : 🔍 Analyzed https://www.orbosis.com/blog/ - Title: "Blogs - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:19:30 [info] : 🔍 Analyzed https://www.orbosis.com/contact/ - Title: "Contact Us - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:19:37 [info] : 🔍 Analyzed https://www.orbosis.com/#about-sec - Title: "Home - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:19:42 [info] : 🔍 Analyzed https://www.orbosis.com/# - Title: "Home - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:19:49 [info] : 🔍 Analyzed https://www.orbosis.com/the-role-of-ai-in-shaping-the-future-of-work/ - Title: "The Role-of AI in Shaping the Future of-the Work - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:19:56 [info] : 🔍 Analyzed https://www.orbosis.com/author/orbosisglobalgmail-com/ - Title: "Orbosis Global - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:20:04 [info] : 🔍 Analyzed https://www.orbosis.com/ - Title: "Home - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:20:12 [info] : 🔍 Analyzed https://www.orbosis.com/how-small-businesses-can-benefit-from-ai-solutions/ - Title: "How Small Businesses Can Benefit from AI Solutions - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:20:20 [info] : 🔍 Analyzed https://www.orbosis.com/ - Title: "Home - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:20:29 [info] : 🔍 Analyzed https://www.orbosis.com/ai-and-creativity-can-machines-be-truly-creative/ - Title: "AI and Creativity: Can Machines Be Truly Creative - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:20:35 [info] : 🔍 Analyzed https://www.orbosis.com/about/# - Title: "About Us - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:20:40 [info] : 🔍 Analyzed https://www.orbosis.com/service/# - Title: "Service - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:20:45 [info] : 🔍 Analyzed https://www.orbosis.com/web-development/# - Title: "Web Development - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:20:49 [info] : 🔍 Analyzed https://www.orbosis.com/cms-development/# - Title: "CMS Development - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:20:54 [info] : 🔍 Analyzed https://www.orbosis.com/mobile-app-development/# - Title: "Mobile App Development - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:20:59 [info] : 🔍 Analyzed https://www.orbosis.com/digital-marketing-service/# - Title: "Digital Marketing Services in Indore | SEO, PPC & Social Media – Orbosis", SSL: true, External Scripts: 47, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:21:03 [info] : 🔍 Analyzed https://www.orbosis.com/branding-design/# - Title: "Branding & Design - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:21:04 [info] : ✅ Completed crawl. Visited 25 pages starting from https://www.orbosis.com/
+2026-04-16 13:26:57 [info] : OPTIONS /api/v1/scan/analyze
+2026-04-16 13:26:57 [info] : POST /api/v1/scan/analyze
+2026-04-16 13:26:58 [info] : 🚀 Selenium WebDriver initialized
+2026-04-16 13:27:04 [info] : 🔍 Analyzed https://www.orbosis.com/ - Title: "Home - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:27:11 [info] : 🔍 Analyzed https://www.orbosis.com/about/ - Title: "About Us - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:27:17 [info] : 🔍 Analyzed https://www.orbosis.com/service/ - Title: "Service - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:27:33 [info] : 🔍 Analyzed https://www.orbosis.com/web-development/ - Title: "Web Development - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:27:38 [info] : 🔍 Analyzed https://www.orbosis.com/cms-development/ - Title: "CMS Development - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:27:43 [info] : 🔍 Analyzed https://www.orbosis.com/mobile-app-development/ - Title: "Mobile App Development - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:27:48 [info] : 🔍 Analyzed https://www.orbosis.com/digital-marketing-service/ - Title: "Digital Marketing Services in Indore | SEO, PPC & Social Media – Orbosis", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:27:53 [info] : 🔍 Analyzed https://www.orbosis.com/branding-design/ - Title: "Branding & Design - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:27:58 [info] : 🔍 Analyzed https://www.orbosis.com/blog/ - Title: "Blogs - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:28:03 [info] : 🔍 Analyzed https://www.orbosis.com/contact/ - Title: "Contact Us - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:28:09 [info] : 🔍 Analyzed https://www.orbosis.com/#about-sec - Title: "Home - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:28:13 [info] : 🔍 Analyzed https://www.orbosis.com/# - Title: "Home - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:28:18 [info] : 🔍 Analyzed https://www.orbosis.com/the-role-of-ai-in-shaping-the-future-of-work/ - Title: "The Role-of AI in Shaping the Future of-the Work - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:28:23 [info] : 🔍 Analyzed https://www.orbosis.com/author/orbosisglobalgmail-com/ - Title: "Orbosis Global - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:28:29 [info] : 🔍 Analyzed https://www.orbosis.com/ - Title: "Home - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:28:37 [info] : 🔍 Analyzed https://www.orbosis.com/how-small-businesses-can-benefit-from-ai-solutions/ - Title: "How Small Businesses Can Benefit from AI Solutions - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:28:42 [info] : 🔍 Analyzed https://www.orbosis.com/ - Title: "Home - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:28:49 [info] : 🔍 Analyzed https://www.orbosis.com/ai-and-creativity-can-machines-be-truly-creative/ - Title: "AI and Creativity: Can Machines Be Truly Creative - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:28:54 [info] : 🔍 Analyzed https://www.orbosis.com/about/# - Title: "About Us - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:28:59 [info] : 🔍 Analyzed https://www.orbosis.com/service/# - Title: "Service - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:29:04 [info] : 🔍 Analyzed https://www.orbosis.com/web-development/# - Title: "Web Development - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:29:08 [info] : 🔍 Analyzed https://www.orbosis.com/cms-development/# - Title: "CMS Development - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:29:12 [info] : 🔍 Analyzed https://www.orbosis.com/mobile-app-development/# - Title: "Mobile App Development - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:29:17 [info] : 🔍 Analyzed https://www.orbosis.com/digital-marketing-service/# - Title: "Digital Marketing Services in Indore | SEO, PPC & Social Media – Orbosis", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:29:22 [info] : 🔍 Analyzed https://www.orbosis.com/branding-design/# - Title: "Branding & Design - Orbosis Global Pvt. Ltd", SSL: true, External Scripts: 46, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:29:22 [info] : ✅ Completed crawl. Visited 25 pages starting from https://www.orbosis.com/
+2026-04-16 13:38:20 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 13:38:20 [info] : GET /api/v1/scan/history
+2026-04-16 13:39:28 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 13:39:28 [info] : GET /api/v1/scan/history
+2026-04-16 13:41:04 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 13:41:04 [info] : GET /api/v1/scan/history
+2026-04-16 13:41:10 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 13:41:10 [info] : GET /api/v1/scan/history
+2026-04-16 13:41:27 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 13:41:27 [info] : GET /api/v1/scan/history
+2026-04-16 13:41:48 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 13:41:48 [info] : GET /api/v1/scan/history
+2026-04-16 13:41:54 [info] : OPTIONS /api/v1/scan/analyze
+2026-04-16 13:41:54 [info] : POST /api/v1/scan/analyze
+2026-04-16 13:41:55 [info] : 🚀 Selenium WebDriver initialized
+2026-04-16 13:42:00 [info] : 🔍 Analyzed https://takeuforward.org/ - Title: "takeUforward - Best Coding Tutorials for Free", SSL: true, External Scripts: 11, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:42:00 [info] : ✅ Completed crawl. Visited 1 pages starting from https://takeuforward.org/
+2026-04-16 13:49:52 [info] : OPTIONS /api/v1/scan/analyze
+2026-04-16 13:49:52 [info] : POST /api/v1/scan/analyze
+2026-04-16 13:49:53 [info] : 🚀 Selenium WebDriver initialized
+2026-04-16 13:49:57 [info] : 🔍 Analyzed https://takeuforward.org/ - Title: "takeUforward - Best Coding Tutorials for Free", SSL: true, External Scripts: 14, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:50:06 [info] : 🔍 Analyzed https://takeuforward.org/home - Title: "Home - takeUforward", SSL: true, External Scripts: 44, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:50:11 [info] : 🔍 Analyzed https://takeuforward.org/plus/home - Title: "TUF+ Dashboard | takeUforward", SSL: true, External Scripts: 43, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:50:18 [info] : 🔍 Analyzed https://takeuforward.org/plus#pricing-section - Title: "TUF+ - ONE-STOP Interview Preparation | takeUforward", SSL: true, External Scripts: 43, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:50:22 [info] : 🔍 Analyzed https://takeuforward.org/get-started - Title: "Get Started - takeUforward", SSL: true, External Scripts: 28, Suspicious Keywords: 0, Password Forms: false, Iframes: 1, Hidden Elements: 0
+2026-04-16 13:50:28 [info] : 🔍 Analyzed https://takeuforward.org/plus - Title: "TUF+ - ONE-STOP Interview Preparation | takeUforward", SSL: true, External Scripts: 43, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:50:34 [info] : 🔍 Analyzed https://takeuforward.org/about - Title: "About - takeUforward", SSL: true, External Scripts: 36, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:50:39 [info] : 🔍 Analyzed https://takeuforward.org/contact - Title: "Contact Us - takeUforward", SSL: true, External Scripts: 36, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:50:44 [info] : 🔍 Analyzed https://takeuforward.org/terms-and-conditions - Title: "Terms of Service - takeUforward", SSL: true, External Scripts: 34, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:50:48 [info] : 🔍 Analyzed https://takeuforward.org/cancellation-policy - Title: "Cancellation Policy - takeUforward", SSL: true, External Scripts: 34, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:50:53 [info] : 🔍 Analyzed https://takeuforward.org/home - Title: "Home - takeUforward", SSL: true, External Scripts: 44, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:50:58 [info] : 🔍 Analyzed https://takeuforward.org/dashboard - Title: "Dashboard - takeUforward", SSL: true, External Scripts: 44, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:51:04 [info] : 🔍 Analyzed https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z - Title: "Strivers A2Z DSA Course/Sheet - Crack Any FAANG or PBCs", SSL: true, External Scripts: 38, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:51:11 [info] : 🔍 Analyzed https://takeuforward.org/c/c-basic-input-output?mode=track&sheet=a2z-dsa - Title: "C++ Basic Input/Output - Tutorial", SSL: true, External Scripts: 52, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:51:17 [info] : 🔍 Analyzed https://takeuforward.org/dsa/blind-75-leetcode-problems-detailed-video-solutions - Title: "Blind 75 LeetCode Problems - Detailed Video Solutions | takeUforward", SSL: true, External Scripts: 38, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:51:23 [info] : 🔍 Analyzed https://takeuforward.org/data-structure/two-sum-check-if-a-pair-with-given-sum-exists-in-array?mode=track&sheet=blind-75 - Title: "Two Sum : Check if a pair with given sum exists in Array - Tutorial", SSL: true, External Scripts: 56, Suspicious Keywords: 0, Password Forms: false, Iframes: 1, Hidden Elements: 0
+2026-04-16 13:51:29 [info] : 🔍 Analyzed https://takeuforward.org/dsa/strivers-sde-sheet-top-coding-interview-problems - Title: "Strivers SDE Sheet - Top Coding Interview Problems | takeUforward", SSL: true, External Scripts: 38, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:51:36 [info] : 🔍 Analyzed https://takeuforward.org/data-structure/set-matrix-zero?mode=track&sheet=strivers-sde-sheet - Title: "Set Matrix Zero - Tutorial", SSL: true, External Scripts: 56, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:51:41 [info] : 🔍 Analyzed https://takeuforward.org/dsa/strivers-79-last-moment-dsa-sheet-ace-interviews - Title: "Striver's 79 Sheet - Ace Interviews | takeUforward", SSL: true, External Scripts: 38, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:51:48 [info] : 🔍 Analyzed https://takeuforward.org/data-structure/next_permutation-find-next-lexicographically-greater-permutation?mode=track&sheet=strivers-79-sheet - Title: "next_permutation : find next lexicographically greater permutation - Tutorial", SSL: true, External Scripts: 56, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:51:53 [info] : 🔍 Analyzed https://takeuforward.org/computer-network/most-asked-computer-networks-interview-questions - Title: "Most Asked Computer Networks Interview Questions | takeUforward", SSL: true, External Scripts: 38, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:51:59 [info] : 🔍 Analyzed https://takeuforward.org/dbms/most-asked-dbms-interview-questions - Title: "Most Asked DBMS Interview Questions | takeUforward", SSL: true, External Scripts: 38, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:52:04 [info] : 🔍 Analyzed https://takeuforward.org/operating-system/most-asked-operating-system-interview-questions - Title: "Most Asked Operating System Interview Questions | takeUforward", SSL: true, External Scripts: 38, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:52:09 [info] : 🔍 Analyzed https://takeuforward.org/system-design/complete-system-design-roadmap-with-videos-for-sdes - Title: "Complete System Design Roadmap with Videos for SDEs | takeUforward", SSL: true, External Scripts: 38, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:52:15 [info] : 🔍 Analyzed https://takeuforward.org/array/top-array-interview-questions-structured-path-with-video-solutions - Title: "Top Array Interview Questions - Structured Path with Video Solutions | takeUforward", SSL: true, External Scripts: 38, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:52:17 [info] : ✅ Completed crawl. Visited 25 pages starting from https://takeuforward.org/
+2026-04-16 13:53:07 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 13:53:07 [info] : GET /api/v1/scan/history
+2026-04-16 13:53:18 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 13:53:18 [info] : GET /api/v1/scan/history
+2026-04-16 13:53:23 [info] : OPTIONS /api/v1/scan/analyze
+2026-04-16 13:53:23 [info] : POST /api/v1/scan/analyze
+2026-04-16 13:53:24 [info] : 🚀 Selenium WebDriver initialized
+2026-04-16 13:53:26 [info] : 🔍 Analyzed https://sheryians.com/ - Title: "Sheryians Coding School | Learn, Build, Get Placed", SSL: true, External Scripts: 3, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:53:30 [info] : 🔍 Analyzed https://sheryians.com/courses - Title: "Courses | Sheryians Coding School", SSL: true, External Scripts: 3, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:53:34 [info] : 🔍 Analyzed https://sheryians.com/about - Title: "Sheryians Coding School | Learn Coding in India", SSL: true, External Scripts: 3, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:53:38 [info] : 🔍 Analyzed https://sheryians.com/support - Title: "Sheryians Coding School | Learn Coding in India", SSL: true, External Scripts: 3, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:53:42 [info] : 🔍 Analyzed https://sheryians.com/pdf/Terms_and_Conditions.pdf - Title: "", SSL: true, External Scripts: 0, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:53:58 [info] : 🔍 Analyzed https://sheryians.com/pdf/Privacy_Policy.pdf - Title: "", SSL: true, External Scripts: 0, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:54:15 [info] : 🔍 Analyzed https://sheryians.com/auth/signin?redirect=%2Fsubmit-projects - Title: "Sheryians Coding School | Learn Coding in India", SSL: true, External Scripts: 4, Suspicious Keywords: 0, Password Forms: false, Iframes: 1, Hidden Elements: 0
+2026-04-16 13:54:18 [info] : 🔍 Analyzed https://sheryians.com/hire - Title: "Sheryians Coding School | Learn Coding in India", SSL: true, External Scripts: 3, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:54:22 [info] : 🔍 Analyzed https://sheryians.com/pdf/Pricing-and-Refund_policy.pdf - Title: "", SSL: true, External Scripts: 0, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:54:38 [info] : 🔍 Analyzed https://sheryians.com/jobs - Title: "Sheryians Coding School | Learn Coding in India", SSL: true, External Scripts: 3, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:54:42 [info] : 🔍 Analyzed https://sheryians.com/courses/69aaf85ed2c69a507ba793ad - Title: "3.0 Job Ready AI Powered Cohort | Sheryians Coding School", SSL: true, External Scripts: 4, Suspicious Keywords: 0, Password Forms: false, Iframes: 1, Hidden Elements: 0
+2026-04-16 13:54:46 [info] : 🔍 Analyzed https://sheryians.com/courses/68da779296b89547293c7a26 - Title: "Data Science and Analytics with GenAI | Sheryians Coding School", SSL: true, External Scripts: 3, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:54:51 [info] : 🔍 Analyzed https://sheryians.com/courses/6867e4147574bb008a1b3040 - Title: "2.0 Job Ready AI Powered Cohort | Sheryians Coding School", SSL: true, External Scripts: 3, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:54:55 [info] : 🔍 Analyzed https://sheryians.com/courses/68470b75165226c4889001e8 - Title: "DSA Domination Cohort | Sheryians Coding School", SSL: true, External Scripts: 3, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:54:59 [info] : 🔍 Analyzed https://sheryians.com/courses/6775253edb7d074fe7a88b85 - Title: "Job Ready AI Powered Cohort: Web + DSA + Aptitude | Sheryians Coding School", SSL: true, External Scripts: 3, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:55:03 [info] : 🔍 Analyzed https://sheryians.com/courses/66ffae739b0234ad8d15ea87 - Title: "Three.JS Domination | Sheryians Coding School", SSL: true, External Scripts: 3, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:55:06 [info] : 🔍 Analyzed https://sheryians.com/courses/66bd174049ff6f892bacdd47 - Title: "Java & DSA Domination | Sheryians Coding School", SSL: true, External Scripts: 3, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:55:10 [info] : 🔍 Analyzed https://sheryians.com/courses/6686990a672568d40bfbac7b - Title: "Aptitude & Reasoning for Campus Placements | Sheryians Coding School", SSL: true, External Scripts: 3, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:55:14 [info] : 🔍 Analyzed https://sheryians.com/courses/6536a79daa4702e3ac0b465e - Title: "Front-End Domination: Create Anything with Code | Sheryians Coding School", SSL: true, External Scripts: 3, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:55:18 [info] : 🔍 Analyzed https://sheryians.com/courses - Title: "Courses | Sheryians Coding School", SSL: true, External Scripts: 3, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:55:22 [info] : 🔍 Analyzed https://sheryians.com/aboutus - Title: "Sheryians Coding School | Learn Coding in India", SSL: true, External Scripts: 3, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 13:55:39 [info] : 🔍 Analyzed https://sheryians.com/auth/signin?redirect=%2Fcheckout%3FcourseId%3D69aaf85ed2c69a507ba793ad%26batchId%3D69b2c629d92ec16308d1a4c8 - Title: "Sheryians Coding School | Learn Coding in India", SSL: true, External Scripts: 4, Suspicious Keywords: 0, Password Forms: false, Iframes: 1, Hidden Elements: 0
+2026-04-16 13:55:43 [info] : 🔍 Analyzed https://sheryians.com/auth/signin?redirect=%2Fcheckout%3FcourseId%3D68da779296b89547293c7a26%26batchId%3D691dd880a4074343af9c23db - Title: "Sheryians Coding School | Learn Coding in India", SSL: true, External Scripts: 4, Suspicious Keywords: 0, Password Forms: false, Iframes: 1, Hidden Elements: 0
+2026-04-16 13:55:46 [info] : 🔍 Analyzed https://sheryians.com/auth/signin?redirect=%2Fcheckout%3FcourseId%3D6867e4147574bb008a1b3040%26batchId%3D691dd880a4074343af9c23b5 - Title: "Sheryians Coding School | Learn Coding in India", SSL: true, External Scripts: 4, Suspicious Keywords: 0, Password Forms: false, Iframes: 1, Hidden Elements: 0
+2026-04-16 13:55:51 [info] : 🔍 Analyzed https://sheryians.com/auth/signin?redirect=%2Fcheckout%3FcourseId%3D68470b75165226c4889001e8%26batchId%3D691dd87fa4074343af9c239b - Title: "Sheryians Coding School | Learn Coding in India", SSL: true, External Scripts: 4, Suspicious Keywords: 0, Password Forms: false, Iframes: 1, Hidden Elements: 0
+2026-04-16 13:55:53 [info] : ✅ Completed crawl. Visited 25 pages starting from https://sheryians.com/
+2026-04-16 13:56:08 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 13:56:08 [info] : GET /api/v1/scan/history
+2026-04-16 14:02:49 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 14:02:49 [info] : GET /api/v1/scan/history
+2026-04-16 14:03:02 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 14:03:02 [info] : GET /api/v1/scan/history
+2026-04-16 14:03:03 [info] : GET /api/v1/scan/history
+2026-04-16 14:03:05 [info] : GET /api/v1/scan/history
+2026-04-16 14:04:15 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 14:04:15 [info] : GET /api/v1/scan/history
+2026-04-16 14:04:18 [info] : GET /api/v1/scan/history
+2026-04-16 14:04:22 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 14:04:22 [info] : GET /api/v1/scan/history
+2026-04-16 14:05:01 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 14:05:01 [info] : GET /api/v1/scan/history
+2026-04-16 14:05:02 [info] : GET /api/v1/scan/history
+2026-04-16 14:05:11 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 14:05:11 [info] : GET /api/v1/scan/history
+2026-04-16 14:05:12 [info] : GET /api/v1/scan/history
+2026-04-16 14:05:22 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 14:05:22 [info] : GET /api/v1/scan/history
+2026-04-16 14:05:23 [info] : GET /api/v1/scan/history
+2026-04-16 14:05:25 [info] : GET /api/v1/scan/history
+2026-04-16 14:07:12 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 14:07:12 [info] : GET /api/v1/scan/history
+2026-04-16 14:07:13 [info] : GET /api/v1/scan/history
+2026-04-16 14:07:43 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 14:07:43 [info] : GET /api/v1/scan/history
+2026-04-16 14:08:10 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 14:08:10 [info] : GET /api/v1/scan/history
+2026-04-16 14:08:13 [info] : GET /api/v1/scan/history
+2026-04-16 14:08:15 [info] : GET /api/v1/scan/history
+2026-04-16 14:08:17 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 14:08:17 [info] : GET /api/v1/scan/history
+2026-04-16 14:11:26 [info] : OPTIONS /api/v1/qr/mine
+2026-04-16 14:11:26 [info] : GET /api/v1/qr/mine
+2026-04-16 14:11:42 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 14:11:42 [info] : GET /api/v1/scan/history
+2026-04-16 14:12:05 [info] : OPTIONS /api/v1/scan/analyze
+2026-04-16 14:12:05 [info] : POST /api/v1/scan/analyze
+2026-04-16 14:12:08 [info] : 🚀 Selenium WebDriver initialized
+2026-04-16 14:12:11 [info] : 🔍 Analyzed https://www.overleaf.com/ - Title: "Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 25, Suspicious Keywords: 0, Password Forms: true, Iframes: 0, Hidden Elements: 0
+2026-04-16 14:12:16 [info] : 🔍 Analyzed https://www.overleaf.com/#main-content - Title: "Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 25, Suspicious Keywords: 0, Password Forms: true, Iframes: 0, Hidden Elements: 0
+2026-04-16 14:12:21 [info] : 🔍 Analyzed https://www.overleaf.com/about/features-overview - Title: "LaTeX editor features & benefits - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 23, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 14:12:27 [info] : 🔍 Analyzed https://www.overleaf.com/about/ai-features - Title: "AI features - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 23, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 14:12:33 [info] : 🔍 Analyzed https://www.overleaf.com/for/enterprises - Title: "LaTeX editor for enterprises - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 23, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 14:12:39 [info] : 🔍 Analyzed https://www.overleaf.com/for/universities - Title: "LaTeX editor for universities & institutions - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 23, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 14:12:45 [info] : 🔍 Analyzed https://www.overleaf.com/for/government - Title: "Overleaf for government - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 23, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 14:12:52 [info] : 🔍 Analyzed https://www.overleaf.com/for/publishers - Title: "Overleaf for Publishers & Journals - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 23, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 14:12:57 [info] : 🔍 Analyzed https://www.overleaf.com/about/customer-stories - Title: "Customer Stories - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 21, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 14:13:04 [info] : 🔍 Analyzed https://www.overleaf.com/latex/templates - Title: "Templates - Journals, CVs, Presentations, Reports and More - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 32, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 14:13:11 [info] : 🔍 Analyzed https://www.overleaf.com/user/subscription/plans - Title: "Plans and Pricing - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 27, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 14:13:19 [info] : 🔍 Analyzed https://www.overleaf.com/learn - Title: "Learn LaTeX - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 23, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 14:13:25 [info] : 🔍 Analyzed https://www.overleaf.com/for/community/resources - Title: "Overleaf and LaTeX Resources - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 23, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 14:13:31 [info] : 🔍 Analyzed https://www.overleaf.com/about/why-latex - Title: "Benefits of using LaTeX editing software | Overleaf - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 21, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 14:13:36 [info] : 🔍 Analyzed https://www.overleaf.com/blog - Title: "Blog - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 25, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 14:13:42 [info] : 🔍 Analyzed https://www.overleaf.com/register - Title: "Register - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 23, Suspicious Keywords: 0, Password Forms: true, Iframes: 0, Hidden Elements: 0
+2026-04-16 14:13:46 [info] : 🔍 Analyzed https://www.overleaf.com/login - Title: "Log in to Overleaf - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 23, Suspicious Keywords: 0, Password Forms: true, Iframes: 0, Hidden Elements: 0
+2026-04-16 14:13:53 [info] : 🔍 Analyzed https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S1261600669%3A1776329030994493&client_id=47304055603.apps.googleusercontent.com&o2v=2&redirect_uri=https%3A%2F%2Fwww.overleaf.com%2Fusers%2Fauth%2Fgoogle_oauth2%2Fcallback&response_type=code&scope=email+profile&service=lso&state=sjeb5PbcBYPa1mX5Bc7Nl7Be&flowName=GeneralOAuthFlow&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAPElyicvYo7zUSyYNb-W9Cj1gh0C3F_oa5NRNORJjadCAMtoyUZ7IizO81Jk5j9P4RencyM7RiEerfi8FhZ_a-A24QWxyqZDCPmY6Okt_-YJbcAqQELg2DOwPvR0vT2bUjO16Oo7Z1sLkZE5w06aI3C5dI6PIuSeHfHCd5Tl10H_sHDwhqiH7mX8winwTIz0DcNUq5quEIxqWbG65YpjP4mgjU4wqAnKEaikssu7sUowwPBr3D_1m0bXAKmrbb-0xrp5XEKujXS6JtaExCOvTSsg2BSHnuBFtg6NpCvZtCgBNlfeem5KLtGhLMqSdvHzcmXteMtrXMnH4FPRKz1wabS7jAZcvCNIIIedGVCETcMo_PAXLfd7BVWtICUbSRIdxz1TvvbFo3Nnf-GtWsZFP-1Dwm6vFpUXv5fDK37xSDUcE4RfOo%26flowName%3DGeneralOAuthFlow%26as%3DS1261600669%253A1776329030994493%26client_id%3D47304055603.apps.googleusercontent.com%26requestPath%3D%252Fsignin%252Foauth%252Fconsent%23&app_domain=https%3A%2F%2Fwww.overleaf.com&rart=ANgoxcckFsuhyb6dYxgXL3EWlYfPRjI_0prDwBIeGtCUhsM0OLwSKxIpVlIT62EUo4gre1fzi9ApqlCV5qra1JqkCHdXuOWWr-WHAOBJI5EUWKll4X1tzSw - Title: "Sign in - Google Accounts", SSL: true, External Scripts: 1, Suspicious Keywords: 2, Password Forms: true, Iframes: 2, Hidden Elements: 0
+2026-04-16 14:13:59 [info] : 🔍 Analyzed https://orcid.org/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Fwww.overleaf.com%2Fusers%2Fauth%2Forcid%2Fcallback&scope=%2Fauthenticate&state=Y4a8jm3SLAuAIQhEcHGNULV0&client_id=APP-7LF990G7W35DXRZT - Title: "ORCID", SSL: true, External Scripts: 9, Suspicious Keywords: 0, Password Forms: true, Iframes: 3, Hidden Elements: 0
+2026-04-16 14:14:04 [info] : 🔍 Analyzed https://www.overleaf.com/legal#Terms - Title: "Privacy and Terms - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 23, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 14:14:08 [info] : 🔍 Analyzed https://www.overleaf.com/legal#Privacy - Title: "Privacy and Terms - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 23, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 14:14:13 [info] : 🔍 Analyzed https://www.overleaf.com/about/customer-story/vialab - Title: "Customer Stories: Vialab | Overleaf - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 21, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 14:14:18 [info] : 🔍 Analyzed https://www.overleaf.com/latex/templates/example-project/qzykddzqhkwk - Title: "Example Project - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 34, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 14:14:25 [info] : 🔍 Analyzed https://www.overleaf.com/latex/templates/tagged/academic-journal - Title: "Templates - Journals, CVs, Presentations, Reports and More - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 32, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 14:14:34 [info] : 🔍 Analyzed https://www.overleaf.com/latex/templates/tagged/report - Title: "Templates - Journals, CVs, Presentations, Reports and More - Overleaf, Online LaTeX Editor", SSL: true, External Scripts: 32, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 14:14:42 [info] : ✅ Completed crawl. Visited 25 pages starting from https://www.overleaf.com/
+2026-04-16 14:15:17 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 14:15:17 [info] : GET /api/v1/scan/history
+2026-04-16 14:17:44 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 14:17:44 [info] : GET /api/v1/scan/history
+2026-04-16 14:17:51 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 14:17:51 [info] : GET /api/v1/scan/history
+2026-04-16 14:17:53 [info] : GET /api/v1/scan/history
+2026-04-16 14:18:01 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 14:18:01 [info] : GET /api/v1/scan/history
+2026-04-16 14:18:05 [info] : GET /api/v1/scan/history
+2026-04-16 14:18:11 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 14:18:11 [info] : GET /api/v1/scan/history
+2026-04-16 14:18:12 [info] : GET /api/v1/scan/history
+2026-04-16 14:18:28 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 14:18:28 [info] : GET /api/v1/scan/history
+2026-04-16 14:18:35 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 14:18:35 [info] : GET /api/v1/scan/history
+2026-04-16 14:18:48 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 14:18:48 [info] : GET /api/v1/scan/history
+2026-04-16 14:18:48 [info] : GET /api/v1/scan/history
+2026-04-16 14:19:47 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 14:19:47 [info] : GET /api/v1/scan/history
+2026-04-16 14:19:49 [info] : GET /api/v1/scan/history
+2026-04-16 14:19:58 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 14:19:58 [info] : GET /api/v1/scan/history
+2026-04-16 14:20:51 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 14:20:51 [info] : GET /api/v1/scan/history
+2026-04-16 14:20:56 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 14:20:56 [info] : GET /api/v1/scan/history
+2026-04-16 14:20:58 [info] : GET /api/v1/scan/history
+2026-04-16 14:21:04 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 14:21:04 [info] : GET /api/v1/scan/history
+2026-04-16 14:21:06 [info] : GET /api/v1/scan/history
+2026-04-16 14:21:14 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 14:21:14 [info] : GET /api/v1/scan/history
+2026-04-16 14:21:34 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 14:21:34 [info] : GET /api/v1/scan/history
+2026-04-16 14:21:36 [info] : GET /api/v1/scan/history
+2026-04-16 14:21:39 [info] : GET /api/v1/scan/history
+2026-04-16 14:21:42 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 14:21:42 [info] : GET /api/v1/scan/history
+2026-04-16 14:21:45 [info] : GET /api/v1/scan/history
+2026-04-16 14:21:52 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 14:21:52 [info] : GET /api/v1/scan/history
+2026-04-16 14:22:05 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 14:22:05 [info] : GET /api/v1/scan/history
+2026-04-16 14:22:07 [info] : GET /api/v1/scan/history
+2026-04-16 14:22:09 [info] : GET /api/v1/scan/history
+2026-04-16 14:22:40 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 14:22:40 [info] : GET /api/v1/scan/history
+2026-04-16 14:23:01 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 14:23:01 [info] : GET /api/v1/scan/history
+2026-04-16 14:23:16 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 14:23:16 [info] : GET /api/v1/scan/history
+2026-04-16 14:23:25 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 14:23:25 [info] : GET /api/v1/scan/history
+2026-04-16 14:23:45 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 14:23:45 [info] : GET /api/v1/scan/history
+2026-04-16 14:23:47 [info] : GET /api/v1/scan/history
+2026-04-16 14:24:21 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 14:24:21 [info] : GET /api/v1/scan/history
+2026-04-16 14:24:33 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 14:24:33 [info] : GET /api/v1/scan/history
+2026-04-16 14:24:33 [info] : GET /api/v1/scan/history
+2026-04-16 14:24:56 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 14:24:56 [info] : GET /api/v1/scan/history
+2026-04-16 14:25:18 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 14:25:18 [info] : GET /api/v1/scan/history
+2026-04-16 14:25:21 [info] : GET /api/v1/scan/history
+2026-04-16 14:25:32 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 14:25:32 [info] : GET /api/v1/scan/history
+2026-04-16 14:25:33 [info] : GET /api/v1/scan/history
+2026-04-16 15:24:07 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 15:24:07 [info] : GET /api/v1/scan/history
+2026-04-16 15:24:12 [info] : GET /api/v1/scan/history
+2026-04-16 15:24:26 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 15:24:26 [info] : GET /api/v1/scan/history
+2026-04-16 15:24:26 [info] : GET /api/v1/scan/history
+2026-04-16 15:25:17 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 15:25:17 [info] : GET /api/v1/scan/history
+2026-04-16 15:25:24 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 15:25:24 [info] : GET /api/v1/scan/history
+2026-04-16 15:27:35 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 15:27:35 [info] : GET /api/v1/scan/history
+2026-04-16 15:28:02 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 15:28:02 [info] : GET /api/v1/scan/history
+2026-04-16 15:28:09 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 15:28:09 [info] : GET /api/v1/scan/history
+2026-04-16 15:28:09 [info] : GET /api/v1/scan/history
+2026-04-16 15:31:13 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 15:31:13 [info] : GET /api/v1/scan/history
+2026-04-16 15:34:02 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 15:34:02 [info] : GET /api/v1/scan/history
+2026-04-16 15:34:06 [info] : OPTIONS /api/v1/scan/analyze
+2026-04-16 15:34:06 [info] : POST /api/v1/scan/analyze
+2026-04-16 15:34:08 [info] : 🚀 Selenium WebDriver initialized
+2026-04-16 15:34:11 [info] : 🔍 Analyzed https://www.4brainstech.com/ - Title: "4Brains Software LLP - IT & Software Services", SSL: true, External Scripts: 17, Suspicious Keywords: 0, Password Forms: false, Iframes: 1, Hidden Elements: 0
+2026-04-16 15:34:17 [info] : 🔍 Analyzed https://www.4brainstech.com/services/web-development - Title: "Web Development - 4Brains Software LLP", SSL: true, External Scripts: 16, Suspicious Keywords: 0, Password Forms: false, Iframes: 1, Hidden Elements: 0
+2026-04-16 15:34:22 [info] : 🔍 Analyzed https://www.4brainstech.com/services/mobile-development - Title: "Mobile App Development - 4Brains Software LLP", SSL: true, External Scripts: 16, Suspicious Keywords: 0, Password Forms: false, Iframes: 1, Hidden Elements: 0
+2026-04-16 15:34:27 [info] : 🔍 Analyzed https://www.4brainstech.com/services/ai-solutions - Title: "AI Solutions - 4Brains Software LLP", SSL: true, External Scripts: 16, Suspicious Keywords: 0, Password Forms: false, Iframes: 1, Hidden Elements: 0
+2026-04-16 15:34:32 [info] : 🔍 Analyzed https://www.4brainstech.com/services/cloud-services - Title: "Cloud Services - 4Brains Software LLP", SSL: true, External Scripts: 16, Suspicious Keywords: 0, Password Forms: false, Iframes: 1, Hidden Elements: 0
+2026-04-16 15:34:37 [info] : 🔍 Analyzed https://www.4brainstech.com/services/blockchain-web3-development - Title: "Blockchain & Web3 Development - 4Brains Software LLP", SSL: true, External Scripts: 16, Suspicious Keywords: 0, Password Forms: false, Iframes: 1, Hidden Elements: 0
+2026-04-16 15:34:44 [info] : 🔍 Analyzed https://www.4brainstech.com/blog - Title: "Blog - 4Brains Software LLP | Latest Tech Insights & Tutorials", SSL: true, External Scripts: 16, Suspicious Keywords: 0, Password Forms: false, Iframes: 2, Hidden Elements: 0
+2026-04-16 15:34:49 [info] : 🔍 Analyzed https://www.4brainstech.com/case-studies - Title: "Case Studies - 4Brains Software LLP | Success Stories & Project Showcases", SSL: true, External Scripts: 16, Suspicious Keywords: 0, Password Forms: false, Iframes: 1, Hidden Elements: 0
+2026-04-16 15:34:54 [info] : 🔍 Analyzed https://www.4brainstech.com/about - Title: "About Us - 4Brains Software LLP", SSL: true, External Scripts: 16, Suspicious Keywords: 0, Password Forms: false, Iframes: 1, Hidden Elements: 0
+2026-04-16 15:34:59 [info] : 🔍 Analyzed https://www.4brainstech.com/contact - Title: "4Brains Software LLP - IT & Software Services", SSL: true, External Scripts: 16, Suspicious Keywords: 0, Password Forms: false, Iframes: 1, Hidden Elements: 0
+2026-04-16 15:35:05 [info] : 🔍 Analyzed https://www.4brainstech.com/it-training - Title: "IT Training Courses - 4Brains Software LLP", SSL: true, External Scripts: 20, Suspicious Keywords: 0, Password Forms: false, Iframes: 2, Hidden Elements: 0
+2026-04-16 15:35:10 [info] : 🔍 Analyzed https://www.4brainstech.com/services/custom-software - Title: "Custom Software Development - 4Brains Software LLP", SSL: true, External Scripts: 16, Suspicious Keywords: 0, Password Forms: false, Iframes: 1, Hidden Elements: 0
+2026-04-16 15:35:15 [info] : 🔍 Analyzed https://www.4brainstech.com/services - Title: "Our Services - 4Brains Software LLP", SSL: true, External Scripts: 16, Suspicious Keywords: 0, Password Forms: false, Iframes: 1, Hidden Elements: 0
+2026-04-16 15:35:21 [info] : 🔍 Analyzed https://www.4brainstech.com/ - Title: "4Brains Software LLP - IT & Software Services", SSL: true, External Scripts: 19, Suspicious Keywords: 0, Password Forms: false, Iframes: 1, Hidden Elements: 0
+2026-04-16 15:35:26 [info] : 🔍 Analyzed https://www.4brainstech.com/careers - Title: "4Brains Software LLP - IT & Software Services", SSL: true, External Scripts: 10, Suspicious Keywords: 0, Password Forms: false, Iframes: 0, Hidden Elements: 0
+2026-04-16 15:35:31 [info] : 🔍 Analyzed https://www.4brainstech.com/privacy - Title: "Privacy Policy - 4Brains Software LLP", SSL: true, External Scripts: 15, Suspicious Keywords: 0, Password Forms: false, Iframes: 1, Hidden Elements: 0
+2026-04-16 15:35:36 [info] : 🔍 Analyzed https://www.4brainstech.com/terms - Title: "Terms and Conditions - 4Brains Software LLP", SSL: true, External Scripts: 15, Suspicious Keywords: 0, Password Forms: false, Iframes: 1, Hidden Elements: 0
+2026-04-16 15:35:42 [info] : 🔍 Analyzed https://www.4brainstech.com/cookies - Title: "Cookies Policy - 4Brains Software LLP", SSL: true, External Scripts: 15, Suspicious Keywords: 0, Password Forms: false, Iframes: 1, Hidden Elements: 0
+2026-04-16 15:35:47 [info] : 🔍 Analyzed https://www.4brainstech.com/blog/a-complete-beginners-guide-to-prisma - Title: "A Complete Beginner’s Guide to Prisma", SSL: true, External Scripts: 16, Suspicious Keywords: 0, Password Forms: false, Iframes: 1, Hidden Elements: 0
+2026-04-16 15:35:53 [info] : 🔍 Analyzed https://www.4brainstech.com/blog/top-7-software-development-trends-to-watch-in-2025 - Title: "Top 7 Software Development Trends to Watch in 2025", SSL: true, External Scripts: 17, Suspicious Keywords: 0, Password Forms: false, Iframes: 2, Hidden Elements: 0
+2026-04-16 15:35:59 [info] : 🔍 Analyzed https://www.4brainstech.com/enroll - Title: "Enroll Now - IT Training Courses | 4Brains Software LLP", SSL: true, External Scripts: 17, Suspicious Keywords: 0, Password Forms: false, Iframes: 1, Hidden Elements: 0
+2026-04-16 15:36:04 [info] : 🔍 Analyzed https://www.4brainstech.com/it-training#courses - Title: "IT Training Courses - 4Brains Software LLP", SSL: true, External Scripts: 20, Suspicious Keywords: 0, Password Forms: false, Iframes: 1, Hidden Elements: 0
+2026-04-16 15:36:08 [info] : 🔍 Analyzed https://www.4brainstech.com/it-training#certification - Title: "IT Training Courses - 4Brains Software LLP", SSL: true, External Scripts: 20, Suspicious Keywords: 0, Password Forms: false, Iframes: 1, Hidden Elements: 0
+2026-04-16 15:36:13 [info] : 🔍 Analyzed https://www.4brainstech.com/enroll?course=Frontend%20Development - Title: "Enroll Now - IT Training Courses | 4Brains Software LLP", SSL: true, External Scripts: 17, Suspicious Keywords: 0, Password Forms: false, Iframes: 1, Hidden Elements: 0
+2026-04-16 15:36:17 [info] : 🔍 Analyzed https://www.4brainstech.com/enroll?course=Full%20Stack%20Development%20(MERN%20Stack) - Title: "Enroll Now - IT Training Courses | 4Brains Software LLP", SSL: true, External Scripts: 17, Suspicious Keywords: 0, Password Forms: false, Iframes: 1, Hidden Elements: 0
+2026-04-16 15:36:20 [info] : ✅ Completed crawl. Visited 25 pages starting from https://www.4brainstech.com/
+2026-04-16 15:36:48 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 15:36:48 [info] : GET /api/v1/scan/history
+2026-04-16 15:37:33 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 15:37:33 [info] : GET /api/v1/scan/history
+2026-04-16 15:38:12 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 15:38:12 [info] : GET /api/v1/scan/history

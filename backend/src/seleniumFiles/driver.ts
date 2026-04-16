@@ -16,7 +16,7 @@ export async function getDriver(): Promise<DriverType> {
     const options = new chrome.Options()
       .addArguments(
         "--disable-blink-features=AutomationControlled",
-        "--window-size=1400,900"
+        "--window-size=1400,900" 
       )
       .addArguments(
         "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146 Safari/537.36"
