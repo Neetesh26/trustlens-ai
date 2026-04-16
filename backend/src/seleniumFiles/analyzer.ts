@@ -9,7 +9,6 @@ export async function analyzePage(
 ): Promise<PageScanData> {
   await driver.get(url);
 
-  // ✅ Wait for full page load
   await driver.wait(async () => {
     const state = await driver.executeScript("return document.readyState");
     return state === "complete";
@@ -17,7 +16,6 @@ export async function analyzePage(
 
   await driver.wait(until.elementLocated(By.css("body")), 10000);
 
-  // ✅ Simulate user scroll
   await driver.executeScript(
     "window.scrollTo(0, document.body.scrollHeight * 0.4);"
   );
@@ -27,9 +25,6 @@ export async function analyzePage(
   const title = await driver.getTitle();
   const hasSSL = currentUrl.startsWith("https://");
 
-  // =========================
-  // 🔥 SCRIPT ANALYSIS
-  // =========================
   const scriptElements = await driver.findElements(By.tagName("script"));
   const externalScripts: string[] = [];
   const suspiciousKeywords: string[] = [];
@@ -55,9 +50,6 @@ export async function analyzePage(
     }
   }
 
-  // =========================
-  // 🔥 TRACKER DETECTION
-  // =========================
   const knownTrackers = [
     "google-analytics.com",
     "googletagmanager.com",
@@ -75,9 +67,6 @@ export async function analyzePage(
     }
   }
 
-  // =========================
-  // 🔥 EXTERNAL DOMAIN ANALYSIS
-  // =========================
   const externalDomains = externalScripts
     .map((src) => {
       try {
@@ -88,29 +77,17 @@ export async function analyzePage(
     })
     .filter(Boolean);
 
-  // =========================
-  // 🔐 PASSWORD FORM DETECTION
-  // =========================
   const inputs = await driver.findElements(By.css('input[type="password"]'));
   const hasPasswordForm = inputs.length > 0;
 
-  // =========================
-  // 🧱 IFRAME ANALYSIS
-  // =========================
   const iframes = await driver.findElements(By.tagName("iframe"));
   const iframeCount = iframes.length;
 
-  // =========================
-  // 👁️ HIDDEN ELEMENTS
-  // =========================
   const hiddenElements = await driver.findElements(
     By.css('[style*="display:none"], [style*="visibility:hidden"]')
   );
   const hiddenElementsCount = hiddenElements.length;
 
-  // =========================
-  // ⚠️ RISK DETECTION
-  // =========================
   const isPhishingRisk = hasPasswordForm && !hasSSL;
   const isClickjackingRisk = iframeCount > 3;
 
@@ -138,7 +115,6 @@ export async function analyzePage(
     iframeCount,
     hiddenElements: hiddenElementsCount,
 
-    // 🚀 ADVANCED DATA
     trackers,
     externalDomains,
     isPhishingRisk,

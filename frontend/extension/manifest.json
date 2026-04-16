@@ -4,8 +4,13 @@
   "version": "1.0",
   "description": "AI Website Security Analyzer",
 
-  "permissions": ["tabs", "activeTab", "scripting", "storage"],
+  "permissions": ["tabs", "activeTab", "scripting", "storage", "notifications"],
   "host_permissions": ["<all_urls>"],
+
+  "icons": {
+    "16": "icons/notification.svg",
+    "128": "icons/notification.svg"
+  },
 
   "action": {
     "default_popup": "popup.html"

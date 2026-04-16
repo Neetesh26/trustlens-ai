@@ -2,7 +2,7 @@ const scanBtn = document.getElementById("scanBtn");
 const pasteBtn = document.getElementById("pasteBtn");
 const resultEl = document.getElementById("result");
 const urlInput = document.getElementById("urlInput");
-const API_BASE = "http://localhost:8080/api/v1";
+const STORAGE_KEY = "lastScanResult";
 
 function setResult(html) {
   resultEl.innerHTML = html;
@@ -17,69 +17,106 @@ function renderMetric(label, value) {
 }
 
 function renderList(title, items) {
-  if (!items || items.length === 0) {
-    return `
-      <div class="list-block">
-        <h3>${title}</h3>
-        <p class="hint">No items detected.</p>
-      </div>
-    `;
-  }
-
+  const listItems = items && items.length ? items : ["None detected"];
   return `
     <div class="list-block">
       <h3>${title}</h3>
-      <ul>${items.map((item) => `<li>${item}</li>`).join("")}</ul>
+      <ul>${listItems.map((item) => `<li>${item}</li>`).join("")}</ul>
     </div>
   `;
 }
 
-async function scanUrl(url) {
-  try {
-    setStatus("Running Selenium scan... this may take 15-40 seconds.");
+function saveScanResultToStorage(scanResult) {
+  chrome.storage.local.set({
+    [STORAGE_KEY]: {
+      result: scanResult,
+      timestamp: new Date().toISOString(),
+    },
+  });
+}
 
-    const response = await fetch(`${API_BASE}/scan/public-analyze`, {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({ url }),
+function loadScanResultFromStorage() {
+  return new Promise((resolve) => {
+    chrome.storage.local.get([STORAGE_KEY], (items) => {
+      resolve(items[STORAGE_KEY] || null);
     });
+  });
+}
 
-    const payload = await response.json();
+function renderScanResult({ local, selenium }, isStored = false) {
+  const localContent = local?.error
+    ? `<p class="hint">Local scan failed: ${local.error}</p>`
+    : `
+      <div class="list-block">
+        <h3>Local scan</h3>
+        <ul>
+          <li><strong>Title:</strong> ${local?.title || "N/A"}</li>
+          <li><strong>HTTPS:</strong> ${local?.isHTTPS ? "Yes" : "No"}</li>
+          <li><strong>Forms:</strong> ${local?.forms ?? 0}</li>
+          <li><strong>Inputs:</strong> ${local?.inputs ?? 0}</li>
+          <li><strong>Scripts:</strong> ${local?.scripts ?? 0}</li>
+        </ul>
+      </div>
+    `;
 
-    if (!response.ok || !payload.success) {
-      throw new Error(payload.message || "Scan failed.");
-    }
-
-    const report = payload.data.report;
-    const rawData = report.rawData || {};
-    const pages = rawData.pages || [];
-    const phishingDetected = pages.some((page) => page.isPhishingRisk) || rawData.passwordFormsWithoutSSL;
-    const trackerCount = rawData.trackers?.length ?? 0;
-    const suspiciousCount = rawData.suspiciousKeywords?.length ?? 0;
-    const threatLabels = report.detectedThreats || [];
-
-    setResult(`
+  const seleniumContent = selenium?.error
+    ? `<p class="hint">Selenium scan failed: ${selenium.error}</p>`
+    : `
       <div class="result-header">
         <div>
-          <h2>${new URL(report.url).hostname}</h2>
-          <p class="hint">Trust score ${report.trustScore} • ${report.riskLevel}</p>
+          <h2>${new URL(selenium.url || urlInput.value).hostname}</h2>
+          <p class="hint">Trust score ${selenium.trustScore ?? "N/A"} • ${selenium.riskLevel ?? "N/A"}</p>
         </div>
       </div>
       <div class="result-grid">
-        ${renderMetric("Phishing Risk", phishingDetected ? "High" : "Low")}
-        ${renderMetric("Tracker count", trackerCount)}
-        ${renderMetric("Suspicious scripts", suspiciousCount)}
-        ${renderMetric("Pages scanned", pages.length)}</div>
-      ${renderList("Detected trackers", rawData.trackers)}
-      ${renderList("Suspicious keywords", rawData.suspiciousKeywords)}
-      ${renderList("Detected threats", threatLabels.length ? threatLabels : ["None detected"])}
-      ${report.aiSummary ? `<div class="list-block"><h3>AI summary</h3><p>${report.aiSummary}</p></div>` : ""}
-    `);
-  } catch (error) {
-    setStatus(error.message || "Unable to complete scan.", "negative");
+        ${renderMetric("Trackers", selenium.rawData?.trackers?.length ?? 0)}
+        ${renderMetric("Suspicious", selenium.rawData?.suspiciousKeywords?.length ?? 0)}
+        ${renderMetric("Pages scanned", selenium.rawData?.pages?.length ?? 0)}
+        ${renderMetric("Password risk", selenium.rawData?.passwordFormsWithoutSSL ? "Yes" : "No")}
+      </div>
+      ${renderList("Detected trackers", selenium.rawData?.trackers || [])}
+      ${renderList("Suspicious keywords", selenium.rawData?.suspiciousKeywords || [])}
+      ${renderList("Detected threats", selenium.detectedThreats || [])}
+      ${selenium.aiSummary ? `<div class="list-block"><h3>AI summary</h3><p>${selenium.aiSummary}</p></div>` : ""}
+    `;
+
+  const storedBadge = isStored
+    ? `<div class="status positive">📦 Stored result - Scan again for fresh data</div>`
+    : "";
+
+  setResult(`
+    ${storedBadge}
+    ${localContent}
+    ${seleniumContent}
+  `);
+}
+
+function startBackgroundScan() {
+  const url = urlInput.value.trim();
+  if (!url) {
+    setStatus("Please enter a valid URL.", "negative");
+    return;
   }
+
+  const scanUrl = url.startsWith("http") ? url : `https://${url}`;
+  setStatus("Scan started in background. A notification will appear when complete.");
+
+  chrome.runtime.sendMessage({ type: "START_SCAN", url: scanUrl }, (response) => {
+    if (chrome.runtime.lastError) {
+      setStatus(chrome.runtime.lastError.message, "negative");
+      return;
+    }
+
+    if (!response?.success) {
+      setStatus(response?.error || "Scan could not be started.", "negative");
+      return;
+    }
+
+    if (response.result) {
+      saveScanResultToStorage(response.result);
+      renderScanResult(response.result, false);
+    }
+  });
 }
 
 function loadActiveTabUrl() {
@@ -88,21 +125,43 @@ function loadActiveTabUrl() {
       return;
     }
 
-    const activeUrl = tabs[0].url;
-    urlInput.value = activeUrl;
+    urlInput.value = tabs[0].url;
   });
 }
 
-pasteBtn.addEventListener("click", loadActiveTabUrl);
-
-scanBtn.addEventListener("click", () => {
-  const url = urlInput.value.trim();
-  if (!url) {
-    setStatus("Please enter a valid URL.", "negative");
-    return;
+async function loadPreviousResults() {
+  const stored = await loadScanResultFromStorage();
+  if (stored && stored.result) {
+    renderScanResult(stored.result, true);
+    if (stored.timestamp) {
+      const date = new Date(stored.timestamp);
+      const timeStr = date.toLocaleString();
+      const hint = document.querySelector(".hint");
+      if (hint) {
+        hint.innerHTML += ` (Last scan: ${timeStr})`;
+      }
+    }
   }
+}
 
-  scanUrl(url.startsWith("http") ? url : `https://${url}`);
+chrome.runtime.onMessage.addListener((message) => {
+  if (message?.type === "SCAN_COMPLETE") {
+    saveScanResultToStorage(message.payload);
+    renderScanResult(message.payload, false);
+  }
 });
 
+pasteBtn.addEventListener("click", loadActiveTabUrl);
+scanBtn.addEventListener("click", startBackgroundScan);
+
+const clearBtn = document.getElementById("clearBtn");
+if (clearBtn) {
+  clearBtn.addEventListener("click", () => {
+    chrome.storage.local.remove([STORAGE_KEY], () => {
+      setResult(`<p class="hint">Scan results cleared. Enter a URL and scan to get fresh results.</p>`);
+    });
+  });
+}
+
 loadActiveTabUrl();
+loadPreviousResults();
