@@ -20,8 +20,25 @@ export const createApp = () => {
 
     app.use(
         cors({
-            origin: "http://localhost:5173", 
-            credentials: true,               
+            origin: (origin, callback) => {
+                if (!origin) {
+                    return callback(null, true);
+                }
+
+                const allowedOrigins = [
+                    "http://localhost:5173",
+                ];
+
+                if (
+                    allowedOrigins.includes(origin) ||
+                    origin.startsWith("chrome-extension://")
+                ) {
+                    return callback(null, true);
+                }
+
+                callback(new Error("Not allowed by CORS"));
+            },
+            credentials: true,
             methods: ["GET", "POST", "PUT", "PATCH", "DELETE"],
             allowedHeaders: ["Content-Type", "Authorization"],
         })

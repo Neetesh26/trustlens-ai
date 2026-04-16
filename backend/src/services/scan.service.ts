@@ -26,27 +26,30 @@ function summarizeScanResult(result: SeleniumScanResult): RawScanData {
   const passwordFormsWithoutSSL =
     result.pages.some((page) => page.hasPasswordForm) && !hasSSL;
 
-  const trackers = externalScripts.filter((src) =>
-    /(google-analytics|analytics|tracker|doubleclick|ads|cdn|facebook|pixel)/i.test(
-      src
-    )
+  const trackers = Array.from(
+    new Set(result.pages.flatMap((page) => page.trackers))
   );
 
+  const finalUrl =
+    result.pages.length > 0
+      ? result.pages[result.pages.length - 1].url
+      : result.startUrl;
+
   return {
-  url: result.startUrl,
-  finalUrl: result.startUrl,
-  hasSSL,
-  externalScripts,
-  suspiciousKeywords,
-  passwordFormsWithoutSSL,
-  trackers,
-  iframeCount,
-  hiddenElements,
-  cookieCount: 0,
-  redirects: 0,
-  startUrl: "",
-  pages: [],  
-};
+    url: result.startUrl,
+    finalUrl,
+    hasSSL,
+    externalScripts,
+    suspiciousKeywords,
+    passwordFormsWithoutSSL,
+    trackers,
+    iframeCount,
+    hiddenElements,
+    cookieCount: 0,
+    redirects: 0,
+    startUrl: result.startUrl,
+    pages: result.pages,
+  };
 }
 
 export async function scanWebsite(url: string): Promise<RawScanData> {
