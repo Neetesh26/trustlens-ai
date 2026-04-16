@@ -48,6 +48,7 @@ export default function DashboardPage() {
           </header>
         </div>
 
+        {/* top stats */}
         <section className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
           <StatsCard
             label="Total scans"
@@ -74,17 +75,26 @@ export default function DashboardPage() {
           />
         </section>
 
-        <section className="grid gap-4 lg:grid-cols-[1.6fr,1.1fr]">
+        {/* main content */}
+        <section className="flex flex-col gap-4">
+          {/* TOP: Recent scans full width */}
           <div className="rounded-2xl border border-slate-700/60 bg-slate-900/60 p-4 sm:p-5 backdrop-blur-xl shadow-lg shadow-sky-500/10">
             <RecentScans reports={data} />
           </div>
 
-          <div className="flex flex-col gap-4">
+          {/* BOTTOM: Risk insights + Average score side-by-side */}
+          <div className="grid gap-4 lg:grid-cols-[1.7fr,1.1fr]">
+            {/* Risk insights */}
             <div className="rounded-2xl border border-slate-700/60 bg-slate-900/60 p-4 sm:p-5 backdrop-blur-xl shadow-lg shadow-sky-500/10">
+              <TrustRiskCharts reports={data} />
+            </div>
+
+            {/* Average trust score */}
+            <div className="rounded-2xl border border-slate-700/60 bg-slate-900/60 p-4 sm:p-5 backdrop-blur-xl shadow-lg shadow-sky-500/10 flex flex-col justify-between">
               <p className="text-sm font-medium text-slate-100">
                 Average trust score
               </p>
-              <div className="mt-3 flex flex-col gap-4 sm:flex-row sm:items-center">
+              <div className="mt-3 flex flex-col gap-4 sm:items-center">
                 <div className="relative mx-auto flex h-24 w-24 items-center justify-center rounded-full border-[6px] border-slate-800 bg-slate-950 shadow-inner shadow-black/70 sm:h-28 sm:w-28">
                   <span className="text-2xl sm:text-3xl font-semibold text-slate-50">
                     {avgScore}
@@ -94,15 +104,11 @@ export default function DashboardPage() {
                   </span>
                   <div className="pointer-events-none absolute inset-0 rounded-full bg-gradient-to-tr from-sky-500/25 via-emerald-400/15 to-transparent blur-sm" />
                 </div>
-                <p className="text-xs sm:text-[13px] leading-relaxed text-slate-300/85">
+                <p className="text-xs sm:text-[13px] leading-relaxed text-slate-300/85 text-center">
                   The mean trust score across your latest scans. Use this as a
                   quick signal of how risky your current browsing surface is.
                 </p>
               </div>
-            </div>
-
-            <div className="rounded-2xl border border-slate-700/60 bg-slate-900/60 p-4 sm:p-5 backdrop-blur-xl shadow-lg shadow-sky-500/10">
-              <TrustRiskCharts reports={data} />
             </div>
           </div>
         </section>

@@ -1,21 +1,55 @@
-import { By } from "selenium-webdriver";
+import { By, until } from "selenium-webdriver";
 import type { DriverType } from "./driver";
 import { analyzePage } from "./analyzer";
 import type { PageScanData } from "../types/scan.types";
 import logger from "../config/logger";
 
+// ✅ UPDATED: Added wait + scroll (no logic change)
 async function getLinksOnPage(
   driver: DriverType,
   url: string
 ): Promise<string[]> {
   await driver.get(url);
 
+  // ✅ Wait for full page load
+  await driver.wait(async () => {
+    const state = await driver.executeScript("return document.readyState");
+    return state === "complete";
+  }, 15000);
+
+  // ✅ Wait for links to appear
+  await driver.wait(
+    until.elementsLocated(By.tagName("a")),
+    15000
+  );
+
+  // ✅ Scroll to load lazy content
+  await driver.executeScript(
+    "window.scrollTo(0, document.body.scrollHeight)"
+  );
+
+  // small delay for dynamic rendering
+  await driver.sleep(2000);
+
   const elements = await driver.findElements(By.tagName("a"));
   const links: string[] = [];
 
   for (const el of elements) {
-    const href = await el.getAttribute("href");
-    if (href) links.push(href);
+    try {
+      const href = await el.getAttribute("href");
+
+      // ✅ basic filtering (no structure change)
+      if (
+        href &&
+        !href.startsWith("javascript:") &&
+        !href.startsWith("mailto:") &&
+        !href.startsWith("#")
+      ) {
+        links.push(href);
+      }
+    } catch {
+      continue;
+    }
   }
 
   return links;
@@ -68,6 +102,7 @@ export async function crawlAndScanSite(
       const pageData = await analyzePage(driver, url);
       pages.push(pageData);
 
+      // ✅ uses improved function internally
       const links = await getLinksOnPage(driver, url);
       const internal = filterInternalLinks(startUrl, links);
 
@@ -84,5 +119,6 @@ export async function crawlAndScanSite(
   logger.info(
     `✅ Completed crawl. Visited ${visited.size} pages starting from ${startUrl}`
   );
+
   return { startUrl, pages };
 }

@@ -7,6 +7,10 @@ export interface PageScanData {
   hasPasswordForm: boolean;
   iframeCount: number;
   hiddenElements: number;
+  trackers: string[];
+externalDomains: string[];
+isPhishingRisk: boolean;
+isClickjackingRisk: boolean;
 }
 
 export interface RawScanData {

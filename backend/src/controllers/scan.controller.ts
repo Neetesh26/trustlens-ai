@@ -1,4 +1,3 @@
-// src/controllers/scan.controller.ts
 import { Response } from "express";
 import { scanWebsite } from "../services/scan.service";
 import { calculateTrustScore } from "../services/score.service";
@@ -23,6 +22,8 @@ export const analyzeSite = async (req: any, res: Response) => {
 
     const aiSummary = await generateAIRiskReport(rawData, score);
 
+    console.log(">>>>>>>ai",aiSummary);
+    
     const report = await ScanReport.create({
       userId: req.user?.id || "65f1c2abc123456789abcd12",
       url: normalizedUrl,

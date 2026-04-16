@@ -7,6 +7,7 @@ import { scanValidator } from "../validators/scan.validator";
 const router = Router();
 
 router.post("/analyze", protect, scanLimiter, scanValidator, analyzeSite);
+router.post("/public-analyze", scanLimiter, scanValidator, analyzeSite);
 router.get("/history", protect, getScanHistory);
 
 export default router;

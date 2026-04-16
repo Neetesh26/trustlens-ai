@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>TrustLens AI</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="app-shell">
+    <div class="glass-card header-card">
+      <div class="brand">
+        <div class="brand-icon">🔍</div>
+        <div>
+          <h1>TrustLens AI</h1>
+          <p>Realtime phishing, tracker and security analysis</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="glass-card form-card">
+      <label for="urlInput">Website URL</label>
+      <input id="urlInput" type="url" placeholder="Enter or use active tab URL" />
+      <div class="button-row">
+        <button id="pasteBtn" class="secondary">Load Tab URL</button>
+        <button id="scanBtn" class="primary">Run Selenium Scan</button>
+      </div>
+    </div>
+
+    <div id="result" class="glass-card result-card">
+      <p class="hint">Scan results will appear here once the analysis completes.</p>
+    </div>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>

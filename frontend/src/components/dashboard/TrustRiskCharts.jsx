@@ -119,7 +119,10 @@ export default function TrustRiskCharts({ reports }) {
     .filter((d) => d.value > 0);
 
   const scoreTimeline = [...reports]
-    .sort((a, b) => new Date(a.createdAt) - new Date(b.createdAt))
+    .sort(
+      (a, b) =>
+        new Date(a.createdAt).getTime() - new Date(b.createdAt).getTime()
+    )
     .map((r, idx) => ({
       idx: idx + 1,
       label: new Date(r.createdAt).toLocaleDateString(undefined, {
@@ -130,11 +133,25 @@ export default function TrustRiskCharts({ reports }) {
     }));
 
   const safe = reports.filter((r) => r.riskLevel === "safe").length;
-  const suspicious = reports.filter((r) => r.riskLevel === "suspicious").length;
-  const dangerous = reports.filter((r) => r.riskLevel === "dangerous").length;
+  const suspicious = reports.filter(
+    (r) => r.riskLevel === "suspicious"
+  ).length;
+  const dangerous = reports.filter(
+    (r) => r.riskLevel === "dangerous"
+  ).length;
 
   return (
-    <div style={{ display: "flex", flexDirection: "column", gap: 18 }}>
+    <div
+      style={{
+        display: "flex",
+        flexDirection: "column",
+        gap: 18,
+        background: "rgba(15,23,42,0.85)",
+        borderRadius: 16,
+        border: "1px solid rgba(15,23,42,0.9)",
+        padding: 16,
+      }}
+    >
       {/* Header */}
       <div style={{ display: "flex", alignItems: "center", gap: 9 }}>
         <div
@@ -196,23 +213,25 @@ export default function TrustRiskCharts({ reports }) {
         ))}
       </div>
 
+      {/* Charts grid */}
       <div
         style={{
           display: "grid",
-          gridTemplateColumns: "1fr 1.5fr",
+          gridTemplateColumns: "1.1fr 1.9fr",
           gap: 12,
-          alignItems: "center",
+          alignItems: "stretch",
         }}
       >
-        <div style={{ height: 148, position: "relative" }}>
+        {/* Donut chart */}
+        <div style={{ height: 180, position: "relative" }}>
           <ResponsiveContainer width="100%" height="100%">
-            <PieChart>
+            <PieChart margin={{ top: 12, right: 12, bottom: 12, left: 12 }}>
               <Pie
                 data={riskCounts}
                 dataKey="value"
                 nameKey="name"
-                outerRadius={60}
-                innerRadius={38}
+                outerRadius={62}
+                innerRadius={40}
                 paddingAngle={3}
                 strokeWidth={0}
                 onMouseEnter={(_, i) => setActiveSlice(i)}
@@ -225,7 +244,10 @@ export default function TrustRiskCharts({ reports }) {
                     opacity={
                       activeSlice === null || activeSlice === i ? 1 : 0.3
                     }
-                    style={{ transition: "opacity 0.18s", cursor: "pointer" }}
+                    style={{
+                      transition: "opacity 0.18s",
+                      cursor: "pointer",
+                    }}
                   />
                 ))}
               </Pie>
@@ -245,9 +267,9 @@ export default function TrustRiskCharts({ reports }) {
           >
             <span
               style={{
-                fontSize: 20,
+                fontSize: 22,
                 fontWeight: 800,
-                color: "#f1f5f9",
+                color: "#f9fafb",
                 lineHeight: 1,
               }}
             >
@@ -256,9 +278,9 @@ export default function TrustRiskCharts({ reports }) {
             <span
               style={{
                 fontSize: 9,
-                color: "#475569",
-                marginTop: 3,
-                letterSpacing: "0.05em",
+                color: "#64748b",
+                marginTop: 4,
+                letterSpacing: "0.16em",
               }}
             >
               TOTAL
@@ -266,11 +288,12 @@ export default function TrustRiskCharts({ reports }) {
           </div>
         </div>
 
-        <div style={{ height: 148 }}>
+        {/* Area chart */}
+        <div style={{ height: 180 }}>
           <ResponsiveContainer width="100%" height="100%">
             <AreaChart
               data={scoreTimeline}
-              margin={{ top: 6, right: 6, bottom: 0, left: -22 }}
+              margin={{ top: 10, right: 10, bottom: 0, left: -18 }}
             >
               <defs>
                 <linearGradient id="tscGrad" x1="0" y1="0" x2="0" y2="1">
@@ -318,12 +341,13 @@ export default function TrustRiskCharts({ reports }) {
         </div>
       </div>
 
+      {/* Captions */}
       <div
         style={{
           display: "grid",
           gridTemplateColumns: "1fr 1.5fr",
           gap: 12,
-          marginTop: -6,
+          marginTop: -4,
         }}
       >
         <p style={{ fontSize: 10, color: "#475569", lineHeight: 1.5 }}>

@@ -1,0 +1,18 @@
+    body {
+  width: 300px;
+  font-family: Arial;
+  padding: 10px;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  background: black;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+#result {
+  margin-top: 10px;
+}
