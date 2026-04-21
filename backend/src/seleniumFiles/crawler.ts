@@ -28,7 +28,6 @@ async function getLinksOnPage(
     "window.scrollTo(0, document.body.scrollHeight)"
   );
 
-  // small delay for dynamic rendering
   await driver.sleep(2000);
 
   const elements = await driver.findElements(By.tagName("a"));
@@ -38,7 +37,6 @@ async function getLinksOnPage(
     try {
       const href = await el.getAttribute("href");
 
-      // ✅ basic filtering (no structure change)
       if (
         href &&
         !href.startsWith("javascript:") &&

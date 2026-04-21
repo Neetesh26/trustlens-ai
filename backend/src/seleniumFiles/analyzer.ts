@@ -113,8 +113,7 @@ export async function analyzePage(
     suspiciousKeywords,
     hasPasswordForm,
     iframeCount,
-    hiddenElements: hiddenElementsCount,
-
+    hiddenElements: hiddenElementsCount, 
     trackers,
     externalDomains,
     isPhishingRisk,
