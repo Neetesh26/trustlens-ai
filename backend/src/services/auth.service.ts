@@ -1,7 +1,6 @@
 import ConflictException from '../errors/conflictHandler';
 import NotFoundHandler from '../errors/NotFoundHandler';
 import { User } from '../models/user.model';
-// import { AppError } from '../middleware/errorHandler.middleware';
 import { signAccessToken, signRefreshToken } from '../utils/jwt.utils';
 
 interface RegisterDTO {
@@ -25,7 +24,6 @@ export const registerUser = async (dto: RegisterDTO) => {
   const accessToken = signAccessToken(payload);
   const refreshToken = signRefreshToken(payload);
 
-  // Store hashed refresh token
   user.refreshToken = refreshToken;
   await user.save();
 

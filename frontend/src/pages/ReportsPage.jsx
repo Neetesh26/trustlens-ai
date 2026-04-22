@@ -25,7 +25,7 @@ export default function ReportsPage() {
     });
     doc.save(`Report-${selected.trustScore}.pdf`);
   };
-  console.log(selected.detectedThreats);
+  console.log(selected?.detectedThreats);
   const shareText = `Trust Score for ${selected?.url}: ${selected?.trustScore}/100`;
   const shareUrl = window.location.href;
 
