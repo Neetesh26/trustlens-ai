@@ -49,7 +49,7 @@ export async function analyzePage(
       continue;
     }
   }
-
+  
   const knownTrackers = [
     "google-analytics.com",
     "googletagmanager.com",
