@@ -1,3 +1,4 @@
+
 export interface PageScanData {
   url: string;
   title: string;
@@ -8,9 +9,9 @@ export interface PageScanData {
   iframeCount: number;
   hiddenElements: number;
   trackers: string[];
-externalDomains: string[];
-isPhishingRisk: boolean;
-isClickjackingRisk: boolean;
+  externalDomains: string[];
+  isPhishingRisk: boolean;
+  isClickjackingRisk: boolean;
 }
 
 export interface RawScanData {
