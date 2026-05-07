@@ -871,3 +871,4779 @@
 2026-04-16 15:37:33 [info] : GET /api/v1/scan/history
 2026-04-16 15:38:12 [info] : OPTIONS /api/v1/scan/history
 2026-04-16 15:38:12 [info] : GET /api/v1/scan/history
+2026-04-16 16:12:19 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 16:12:19 [info] : GET /api/v1/scan/history
+2026-04-16 16:13:12 [info] : OPTIONS /api/v1/auth/login
+2026-04-16 16:13:12 [info] : POST /api/v1/auth/login
+2026-04-16 16:13:12 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 16:13:12 [info] : GET /api/v1/scan/history
+2026-04-16 16:13:24 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 16:13:24 [info] : GET /api/v1/scan/history
+2026-04-16 16:13:41 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 16:13:41 [info] : GET /api/v1/scan/history
+2026-04-16 16:13:51 [info] : OPTIONS /api/v1/scan/analyze
+2026-04-16 16:13:51 [info] : POST /api/v1/scan/analyze
+2026-04-16 16:13:53 [info] : 🚀 Selenium WebDriver initialized
+2026-04-16 16:13:56 [info] : 🔍 Analyzed https://www.overleaf.com/
+    Title: "Overleaf, Online LaTeX Editor"
+    SSL: true
+    Scripts: 25
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: true
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:14:01 [info] : 🔍 Analyzed https://www.overleaf.com/#main-content
+    Title: "Overleaf, Online LaTeX Editor"
+    SSL: true
+    Scripts: 25
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: true
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:14:06 [info] : 🔍 Analyzed https://www.overleaf.com/about/features-overview
+    Title: "LaTeX editor features & benefits - Overleaf, Online LaTeX Editor"
+    SSL: true
+    Scripts: 23
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:14:12 [info] : 🔍 Analyzed https://www.overleaf.com/about/ai-features
+    Title: "AI features - Overleaf, Online LaTeX Editor"
+    SSL: true
+    Scripts: 23
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:14:19 [info] : 🔍 Analyzed https://www.overleaf.com/for/enterprises
+    Title: "LaTeX editor for enterprises - Overleaf, Online LaTeX Editor"
+    SSL: true
+    Scripts: 23
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:14:25 [info] : 🔍 Analyzed https://www.overleaf.com/for/universities
+    Title: "LaTeX editor for universities & institutions - Overleaf, Online LaTeX Editor"
+    SSL: true
+    Scripts: 23
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:14:30 [info] : 🔍 Analyzed https://www.overleaf.com/for/government
+    Title: "Overleaf for government - Overleaf, Online LaTeX Editor"
+    SSL: true
+    Scripts: 23
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:14:37 [info] : 🔍 Analyzed https://www.overleaf.com/for/publishers
+    Title: "Overleaf for Publishers & Journals - Overleaf, Online LaTeX Editor"
+    SSL: true
+    Scripts: 23
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:14:42 [info] : 🔍 Analyzed https://www.overleaf.com/about/customer-stories
+    Title: "Customer Stories - Overleaf, Online LaTeX Editor"
+    SSL: true
+    Scripts: 21
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:14:52 [info] : 🔍 Analyzed https://www.overleaf.com/latex/templates
+    Title: "Templates - Journals, CVs, Presentations, Reports and More - Overleaf, Online LaTeX Editor"
+    SSL: true
+    Scripts: 32
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:14:56 [info] : OPTIONS /api/v1/scan/analyze
+2026-04-16 16:14:56 [info] : POST /api/v1/scan/analyze
+2026-04-16 16:14:56 [info] : 🚀 Selenium WebDriver initialized
+2026-04-16 16:15:02 [info] : 🔍 Analyzed https://www.overleaf.com/user/subscription/plans
+    Title: "Plans and Pricing - Overleaf, Online LaTeX Editor"
+    SSL: true
+    Scripts: 27
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:15:04 [info] : 🔍 Analyzed https://takeuforward.org/
+    Title: "takeUforward - Best Coding Tutorials for Free"
+    SSL: true
+    Scripts: 8
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:15:07 [info] : ✅ Completed crawl. Visited 1 pages starting from https://takeuforward.org/
+2026-04-16 16:15:07 [info] : ✅ Completed crawl. Visited 25 pages starting from https://www.overleaf.com/
+2026-04-16 16:15:50 [info] : OPTIONS /api/v1/scan/analyze
+2026-04-16 16:15:50 [info] : POST /api/v1/scan/analyze
+2026-04-16 16:15:51 [info] : 🚀 Selenium WebDriver initialized
+2026-04-16 16:15:54 [info] : 🔍 Analyzed https://takeuforward.org/
+    Title: "takeUforward - Best Coding Tutorials for Free"
+    SSL: true
+    Scripts: 12
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:16:02 [info] : 🔍 Analyzed https://takeuforward.org/home
+    Title: "Home - takeUforward"
+    SSL: true
+    Scripts: 44
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:16:08 [info] : 🔍 Analyzed https://takeuforward.org/plus/home
+    Title: "TUF+ Dashboard | takeUforward"
+    SSL: true
+    Scripts: 43
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:16:15 [info] : 🔍 Analyzed https://takeuforward.org/plus#pricing-section
+    Title: "TUF+ - ONE-STOP Interview Preparation | takeUforward"
+    SSL: true
+    Scripts: 43
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:16:20 [info] : 🔍 Analyzed https://takeuforward.org/get-started
+    Title: "Get Started - takeUforward"
+    SSL: true
+    Scripts: 28
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:16:27 [info] : 🔍 Analyzed https://takeuforward.org/plus
+    Title: "TUF+ - ONE-STOP Interview Preparation | takeUforward"
+    SSL: true
+    Scripts: 43
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:16:34 [info] : 🔍 Analyzed https://takeuforward.org/about
+    Title: "About - takeUforward"
+    SSL: true
+    Scripts: 36
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:16:40 [info] : 🔍 Analyzed https://takeuforward.org/contact
+    Title: "Contact Us - takeUforward"
+    SSL: true
+    Scripts: 36
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:16:45 [info] : 🔍 Analyzed https://takeuforward.org/terms-and-conditions
+    Title: "Terms of Service - takeUforward"
+    SSL: true
+    Scripts: 34
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:16:50 [info] : 🔍 Analyzed https://takeuforward.org/cancellation-policy
+    Title: "Cancellation Policy - takeUforward"
+    SSL: true
+    Scripts: 34
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:16:55 [info] : 🔍 Analyzed https://takeuforward.org/home
+    Title: "Home - takeUforward"
+    SSL: true
+    Scripts: 44
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:17:00 [info] : 🔍 Analyzed https://takeuforward.org/dashboard
+    Title: "Dashboard - takeUforward"
+    SSL: true
+    Scripts: 44
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:17:07 [info] : 🔍 Analyzed https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z
+    Title: "Strivers A2Z DSA Course/Sheet - Crack Any FAANG or PBCs"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:17:15 [info] : 🔍 Analyzed https://takeuforward.org/c/c-basic-input-output?mode=track&sheet=a2z-dsa
+    Title: "C++ Basic Input/Output - Tutorial"
+    SSL: true
+    Scripts: 52
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:17:22 [info] : 🔍 Analyzed https://takeuforward.org/dsa/blind-75-leetcode-problems-detailed-video-solutions
+    Title: "Blind 75 LeetCode Problems - Detailed Video Solutions | takeUforward"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:17:29 [info] : 🔍 Analyzed https://takeuforward.org/data-structure/two-sum-check-if-a-pair-with-given-sum-exists-in-array?mode=track&sheet=blind-75
+    Title: "Two Sum : Check if a pair with given sum exists in Array - Tutorial"
+    SSL: true
+    Scripts: 56
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:17:35 [info] : 🔍 Analyzed https://takeuforward.org/dsa/strivers-sde-sheet-top-coding-interview-problems
+    Title: "Strivers SDE Sheet - Top Coding Interview Problems | takeUforward"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:17:44 [info] : 🔍 Analyzed https://takeuforward.org/data-structure/set-matrix-zero?mode=track&sheet=strivers-sde-sheet
+    Title: "Set Matrix Zero - Tutorial"
+    SSL: true
+    Scripts: 56
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:17:50 [info] : 🔍 Analyzed https://takeuforward.org/dsa/strivers-79-last-moment-dsa-sheet-ace-interviews
+    Title: "Striver's 79 Sheet - Ace Interviews | takeUforward"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:17:57 [info] : 🔍 Analyzed https://takeuforward.org/data-structure/next_permutation-find-next-lexicographically-greater-permutation?mode=track&sheet=strivers-79-sheet
+    Title: "next_permutation : find next lexicographically greater permutation - Tutorial"
+    SSL: true
+    Scripts: 56
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:18:04 [info] : 🔍 Analyzed https://takeuforward.org/computer-network/most-asked-computer-networks-interview-questions
+    Title: "Most Asked Computer Networks Interview Questions | takeUforward"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:18:10 [info] : 🔍 Analyzed https://takeuforward.org/dbms/most-asked-dbms-interview-questions
+    Title: "Most Asked DBMS Interview Questions | takeUforward"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:18:15 [info] : 🔍 Analyzed https://takeuforward.org/operating-system/most-asked-operating-system-interview-questions
+    Title: "Most Asked Operating System Interview Questions | takeUforward"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:18:21 [info] : 🔍 Analyzed https://takeuforward.org/system-design/complete-system-design-roadmap-with-videos-for-sdes
+    Title: "Complete System Design Roadmap with Videos for SDEs | takeUforward"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:18:27 [info] : 🔍 Analyzed https://takeuforward.org/array/top-array-interview-questions-structured-path-with-video-solutions
+    Title: "Top Array Interview Questions - Structured Path with Video Solutions | takeUforward"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:18:30 [info] : ✅ Completed crawl. Visited 25 pages starting from https://takeuforward.org/
+2026-04-16 16:20:08 [info] : POST /api/v1/scan/public-analyze
+2026-04-16 16:20:10 [info] : 🚀 Selenium WebDriver initialized
+2026-04-16 16:20:14 [info] : 🔍 Analyzed https://takeuforward.org/
+    Title: "takeUforward - Best Coding Tutorials for Free"
+    SSL: true
+    Scripts: 18
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:20:23 [info] : 🔍 Analyzed https://takeuforward.org/home
+    Title: "Home - takeUforward"
+    SSL: true
+    Scripts: 44
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:20:32 [info] : 🔍 Analyzed https://takeuforward.org/plus/home
+    Title: "TUF+ Dashboard | takeUforward"
+    SSL: true
+    Scripts: 43
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:20:38 [info] : 🔍 Analyzed https://takeuforward.org/plus#pricing-section
+    Title: "TUF+ - ONE-STOP Interview Preparation | takeUforward"
+    SSL: true
+    Scripts: 43
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:20:43 [info] : 🔍 Analyzed https://takeuforward.org/get-started
+    Title: "Get Started - takeUforward"
+    SSL: true
+    Scripts: 28
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:20:49 [info] : 🔍 Analyzed https://takeuforward.org/plus
+    Title: "TUF+ - ONE-STOP Interview Preparation | takeUforward"
+    SSL: true
+    Scripts: 43
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:20:55 [info] : 🔍 Analyzed https://takeuforward.org/about
+    Title: "About - takeUforward"
+    SSL: true
+    Scripts: 36
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:21:00 [info] : 🔍 Analyzed https://takeuforward.org/contact
+    Title: "Contact Us - takeUforward"
+    SSL: true
+    Scripts: 36
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:21:05 [info] : 🔍 Analyzed https://takeuforward.org/terms-and-conditions
+    Title: "Terms of Service - takeUforward"
+    SSL: true
+    Scripts: 34
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:21:09 [info] : 🔍 Analyzed https://takeuforward.org/cancellation-policy
+    Title: "Cancellation Policy - takeUforward"
+    SSL: true
+    Scripts: 34
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:21:14 [info] : 🔍 Analyzed https://takeuforward.org/home
+    Title: "Home - takeUforward"
+    SSL: true
+    Scripts: 44
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:21:19 [info] : 🔍 Analyzed https://takeuforward.org/dashboard
+    Title: "Dashboard - takeUforward"
+    SSL: true
+    Scripts: 44
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:21:25 [info] : 🔍 Analyzed https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z
+    Title: "Strivers A2Z DSA Course/Sheet - Crack Any FAANG or PBCs"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:21:32 [info] : 🔍 Analyzed https://takeuforward.org/c/c-basic-input-output?mode=track&sheet=a2z-dsa
+    Title: "C++ Basic Input/Output - Tutorial"
+    SSL: true
+    Scripts: 52
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:21:38 [info] : 🔍 Analyzed https://takeuforward.org/dsa/blind-75-leetcode-problems-detailed-video-solutions
+    Title: "Blind 75 LeetCode Problems - Detailed Video Solutions | takeUforward"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:21:44 [info] : 🔍 Analyzed https://takeuforward.org/data-structure/two-sum-check-if-a-pair-with-given-sum-exists-in-array?mode=track&sheet=blind-75
+    Title: "Two Sum : Check if a pair with given sum exists in Array - Tutorial"
+    SSL: true
+    Scripts: 56
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:21:50 [info] : 🔍 Analyzed https://takeuforward.org/dsa/strivers-sde-sheet-top-coding-interview-problems
+    Title: "Strivers SDE Sheet - Top Coding Interview Problems | takeUforward"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:21:57 [info] : 🔍 Analyzed https://takeuforward.org/data-structure/set-matrix-zero?mode=track&sheet=strivers-sde-sheet
+    Title: "Set Matrix Zero - Tutorial"
+    SSL: true
+    Scripts: 56
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:22:03 [info] : 🔍 Analyzed https://takeuforward.org/dsa/strivers-79-last-moment-dsa-sheet-ace-interviews
+    Title: "Striver's 79 Sheet - Ace Interviews | takeUforward"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:22:09 [info] : 🔍 Analyzed https://takeuforward.org/data-structure/next_permutation-find-next-lexicographically-greater-permutation?mode=track&sheet=strivers-79-sheet
+    Title: "next_permutation : find next lexicographically greater permutation - Tutorial"
+    SSL: true
+    Scripts: 56
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:22:15 [info] : 🔍 Analyzed https://takeuforward.org/computer-network/most-asked-computer-networks-interview-questions
+    Title: "Most Asked Computer Networks Interview Questions | takeUforward"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:22:20 [info] : 🔍 Analyzed https://takeuforward.org/dbms/most-asked-dbms-interview-questions
+    Title: "Most Asked DBMS Interview Questions | takeUforward"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:22:26 [info] : 🔍 Analyzed https://takeuforward.org/operating-system/most-asked-operating-system-interview-questions
+    Title: "Most Asked Operating System Interview Questions | takeUforward"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:22:32 [info] : 🔍 Analyzed https://takeuforward.org/system-design/complete-system-design-roadmap-with-videos-for-sdes
+    Title: "Complete System Design Roadmap with Videos for SDEs | takeUforward"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:22:37 [info] : 🔍 Analyzed https://takeuforward.org/array/top-array-interview-questions-structured-path-with-video-solutions
+    Title: "Top Array Interview Questions - Structured Path with Video Solutions | takeUforward"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:22:40 [info] : ✅ Completed crawl. Visited 25 pages starting from https://takeuforward.org/
+2026-04-16 16:40:06 [info] : POST /api/v1/scan/public-analyze
+2026-04-16 16:40:09 [info] : 🚀 Selenium WebDriver initialized
+2026-04-16 16:40:14 [info] : 🔍 Analyzed https://takeuforward.org/
+    Title: "takeUforward - Best Coding Tutorials for Free"
+    SSL: true
+    Scripts: 13
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:40:27 [info] : 🔍 Analyzed https://takeuforward.org/home
+    Title: "Home - takeUforward"
+    SSL: true
+    Scripts: 44
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:40:35 [info] : 🔍 Analyzed https://takeuforward.org/plus/home
+    Title: "TUF+ Dashboard | takeUforward"
+    SSL: true
+    Scripts: 43
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:40:47 [info] : 🔍 Analyzed https://takeuforward.org/plus#pricing-section
+    Title: "TUF+ - ONE-STOP Interview Preparation | takeUforward"
+    SSL: true
+    Scripts: 43
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:40:54 [info] : 🔍 Analyzed https://takeuforward.org/get-started
+    Title: "Get Started - takeUforward"
+    SSL: true
+    Scripts: 28
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:41:02 [info] : 🔍 Analyzed https://takeuforward.org/plus
+    Title: "TUF+ - ONE-STOP Interview Preparation | takeUforward"
+    SSL: true
+    Scripts: 43
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:41:10 [info] : 🔍 Analyzed https://takeuforward.org/about
+    Title: "About - takeUforward"
+    SSL: true
+    Scripts: 36
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:41:15 [info] : 🔍 Analyzed https://takeuforward.org/contact
+    Title: "Contact Us - takeUforward"
+    SSL: true
+    Scripts: 36
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:41:20 [info] : 🔍 Analyzed https://takeuforward.org/terms-and-conditions
+    Title: "Terms of Service - takeUforward"
+    SSL: true
+    Scripts: 34
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:41:24 [info] : 🔍 Analyzed https://takeuforward.org/cancellation-policy
+    Title: "Cancellation Policy - takeUforward"
+    SSL: true
+    Scripts: 34
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:41:31 [info] : 🔍 Analyzed https://takeuforward.org/home
+    Title: "Home - takeUforward"
+    SSL: true
+    Scripts: 44
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:41:36 [info] : 🔍 Analyzed https://takeuforward.org/dashboard
+    Title: "Dashboard - takeUforward"
+    SSL: true
+    Scripts: 44
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:41:45 [info] : 🔍 Analyzed https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z
+    Title: "Strivers A2Z DSA Course/Sheet - Crack Any FAANG or PBCs"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:42:07 [info] : 🔍 Analyzed https://takeuforward.org/c/c-basic-input-output?mode=track&sheet=a2z-dsa
+    Title: "C++ Basic Input/Output - Tutorial"
+    SSL: true
+    Scripts: 52
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:42:20 [info] : 🔍 Analyzed https://takeuforward.org/dsa/blind-75-leetcode-problems-detailed-video-solutions
+    Title: "Blind 75 LeetCode Problems - Detailed Video Solutions | takeUforward"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:42:40 [info] : 🔍 Analyzed https://takeuforward.org/data-structure/two-sum-check-if-a-pair-with-given-sum-exists-in-array?mode=track&sheet=blind-75
+    Title: "Two Sum : Check if a pair with given sum exists in Array - Tutorial"
+    SSL: true
+    Scripts: 56
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:42:48 [info] : 🔍 Analyzed https://takeuforward.org/dsa/strivers-sde-sheet-top-coding-interview-problems
+    Title: "Strivers SDE Sheet - Top Coding Interview Problems | takeUforward"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:42:56 [info] : 🔍 Analyzed https://takeuforward.org/data-structure/set-matrix-zero?mode=track&sheet=strivers-sde-sheet
+    Title: "Set Matrix Zero - Tutorial"
+    SSL: true
+    Scripts: 56
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:43:03 [info] : 🔍 Analyzed https://takeuforward.org/dsa/strivers-79-last-moment-dsa-sheet-ace-interviews
+    Title: "Striver's 79 Sheet - Ace Interviews | takeUforward"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:43:10 [info] : 🔍 Analyzed https://takeuforward.org/data-structure/next_permutation-find-next-lexicographically-greater-permutation?mode=track&sheet=strivers-79-sheet
+    Title: "next_permutation : find next lexicographically greater permutation - Tutorial"
+    SSL: true
+    Scripts: 56
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:43:17 [info] : 🔍 Analyzed https://takeuforward.org/computer-network/most-asked-computer-networks-interview-questions
+    Title: "Most Asked Computer Networks Interview Questions | takeUforward"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:43:23 [info] : 🔍 Analyzed https://takeuforward.org/dbms/most-asked-dbms-interview-questions
+    Title: "Most Asked DBMS Interview Questions | takeUforward"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:43:29 [info] : 🔍 Analyzed https://takeuforward.org/operating-system/most-asked-operating-system-interview-questions
+    Title: "Most Asked Operating System Interview Questions | takeUforward"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:43:36 [info] : 🔍 Analyzed https://takeuforward.org/system-design/complete-system-design-roadmap-with-videos-for-sdes
+    Title: "Complete System Design Roadmap with Videos for SDEs | takeUforward"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:43:42 [info] : 🔍 Analyzed https://takeuforward.org/array/top-array-interview-questions-structured-path-with-video-solutions
+    Title: "Top Array Interview Questions - Structured Path with Video Solutions | takeUforward"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:43:45 [info] : ✅ Completed crawl. Visited 25 pages starting from https://takeuforward.org/
+2026-04-16 16:44:46 [info] : POST /api/v1/scan/public-analyze
+2026-04-16 16:44:47 [info] : 🚀 Selenium WebDriver initialized
+2026-04-16 16:44:49 [info] : 🔍 Analyzed https://sheryians.com/
+    Title: "Sheryians Coding School | Learn, Build, Get Placed"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:44:53 [info] : 🔍 Analyzed https://sheryians.com/courses
+    Title: "Courses | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:44:57 [info] : 🔍 Analyzed https://sheryians.com/about
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:45:01 [info] : 🔍 Analyzed https://sheryians.com/support
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:45:05 [info] : 🔍 Analyzed https://sheryians.com/pdf/Terms_and_Conditions.pdf
+    Title: ""
+    SSL: true
+    Scripts: 0
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:45:22 [info] : 🔍 Analyzed https://sheryians.com/pdf/Privacy_Policy.pdf
+    Title: ""
+    SSL: true
+    Scripts: 0
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:45:38 [info] : 🔍 Analyzed https://sheryians.com/auth/signin?redirect=%2Fsubmit-projects
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 4
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:45:42 [info] : 🔍 Analyzed https://sheryians.com/hire
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:45:46 [info] : 🔍 Analyzed https://sheryians.com/pdf/Pricing-and-Refund_policy.pdf
+    Title: ""
+    SSL: true
+    Scripts: 0
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:46:02 [info] : 🔍 Analyzed https://sheryians.com/jobs
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:46:06 [info] : 🔍 Analyzed https://sheryians.com/courses/69aaf85ed2c69a507ba793ad
+    Title: "3.0 Job Ready AI Powered Cohort | Sheryians Coding School"
+    SSL: true
+    Scripts: 5
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:46:10 [info] : 🔍 Analyzed https://sheryians.com/courses/68da779296b89547293c7a26
+    Title: "Data Science and Analytics with GenAI | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:46:14 [info] : 🔍 Analyzed https://sheryians.com/courses/6867e4147574bb008a1b3040
+    Title: "2.0 Job Ready AI Powered Cohort | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:46:18 [info] : 🔍 Analyzed https://sheryians.com/courses/68470b75165226c4889001e8
+    Title: "DSA Domination Cohort | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:46:22 [info] : 🔍 Analyzed https://sheryians.com/courses/6775253edb7d074fe7a88b85
+    Title: "Job Ready AI Powered Cohort: Web + DSA + Aptitude | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:46:26 [info] : 🔍 Analyzed https://sheryians.com/courses/66ffae739b0234ad8d15ea87
+    Title: "Three.JS Domination | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:46:30 [info] : 🔍 Analyzed https://sheryians.com/courses/66bd174049ff6f892bacdd47
+    Title: "Java & DSA Domination | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:46:34 [info] : 🔍 Analyzed https://sheryians.com/courses/6686990a672568d40bfbac7b
+    Title: "Aptitude & Reasoning for Campus Placements | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:46:38 [info] : 🔍 Analyzed https://sheryians.com/courses/6536a79daa4702e3ac0b465e
+    Title: "Front-End Domination: Create Anything with Code | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:46:42 [info] : 🔍 Analyzed https://sheryians.com/courses
+    Title: "Courses | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:46:46 [info] : 🔍 Analyzed https://sheryians.com/aboutus
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:47:02 [info] : 🔍 Analyzed https://sheryians.com/auth/signin?redirect=%2Fcheckout%3FcourseId%3D69aaf85ed2c69a507ba793ad%26batchId%3D69b2c629d92ec16308d1a4c8
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 4
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:47:06 [info] : 🔍 Analyzed https://sheryians.com/auth/signin?redirect=%2Fcheckout%3FcourseId%3D68da779296b89547293c7a26%26batchId%3D691dd880a4074343af9c23db
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 4
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:47:10 [info] : 🔍 Analyzed https://sheryians.com/auth/signin?redirect=%2Fcheckout%3FcourseId%3D6867e4147574bb008a1b3040%26batchId%3D691dd880a4074343af9c23b5
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 4
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:47:14 [info] : 🔍 Analyzed https://sheryians.com/auth/signin?redirect=%2Fcheckout%3FcourseId%3D68470b75165226c4889001e8%26batchId%3D691dd87fa4074343af9c239b
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 4
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:47:16 [info] : ✅ Completed crawl. Visited 25 pages starting from https://sheryians.com/
+2026-04-16 16:48:07 [info] : POST /api/v1/scan/public-analyze
+2026-04-16 16:48:08 [info] : 🚀 Selenium WebDriver initialized
+2026-04-16 16:48:10 [info] : 🔍 Analyzed https://sheryians.com/
+    Title: "Sheryians Coding School | Learn, Build, Get Placed"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:48:14 [info] : 🔍 Analyzed https://sheryians.com/courses
+    Title: "Courses | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:48:18 [info] : 🔍 Analyzed https://sheryians.com/about
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:48:22 [info] : 🔍 Analyzed https://sheryians.com/support
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:48:26 [info] : 🔍 Analyzed https://sheryians.com/pdf/Terms_and_Conditions.pdf
+    Title: ""
+    SSL: true
+    Scripts: 0
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:48:43 [info] : 🔍 Analyzed https://sheryians.com/pdf/Privacy_Policy.pdf
+    Title: ""
+    SSL: true
+    Scripts: 0
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:48:59 [info] : 🔍 Analyzed https://sheryians.com/auth/signin?redirect=%2Fsubmit-projects
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 4
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:49:03 [info] : 🔍 Analyzed https://sheryians.com/hire
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:49:08 [info] : 🔍 Analyzed https://sheryians.com/pdf/Pricing-and-Refund_policy.pdf
+    Title: ""
+    SSL: true
+    Scripts: 0
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:49:24 [info] : 🔍 Analyzed https://sheryians.com/jobs
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:49:28 [info] : 🔍 Analyzed https://sheryians.com/courses/69aaf85ed2c69a507ba793ad
+    Title: "3.0 Job Ready AI Powered Cohort | Sheryians Coding School"
+    SSL: true
+    Scripts: 5
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:49:33 [info] : 🔍 Analyzed https://sheryians.com/courses/68da779296b89547293c7a26
+    Title: "Data Science and Analytics with GenAI | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:49:36 [info] : 🔍 Analyzed https://sheryians.com/courses/6867e4147574bb008a1b3040
+    Title: "2.0 Job Ready AI Powered Cohort | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:49:40 [info] : 🔍 Analyzed https://sheryians.com/courses/68470b75165226c4889001e8
+    Title: "DSA Domination Cohort | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:49:44 [info] : 🔍 Analyzed https://sheryians.com/courses/6775253edb7d074fe7a88b85
+    Title: "Job Ready AI Powered Cohort: Web + DSA + Aptitude | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:49:48 [info] : 🔍 Analyzed https://sheryians.com/courses/66ffae739b0234ad8d15ea87
+    Title: "Three.JS Domination | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:49:52 [info] : 🔍 Analyzed https://sheryians.com/courses/66bd174049ff6f892bacdd47
+    Title: "Java & DSA Domination | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:49:56 [info] : 🔍 Analyzed https://sheryians.com/courses/6686990a672568d40bfbac7b
+    Title: "Aptitude & Reasoning for Campus Placements | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:50:00 [info] : 🔍 Analyzed https://sheryians.com/courses/6536a79daa4702e3ac0b465e
+    Title: "Front-End Domination: Create Anything with Code | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:50:04 [info] : 🔍 Analyzed https://sheryians.com/courses
+    Title: "Courses | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:50:07 [info] : 🔍 Analyzed https://sheryians.com/aboutus
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:50:24 [info] : 🔍 Analyzed https://sheryians.com/auth/signin?redirect=%2Fcheckout%3FcourseId%3D69aaf85ed2c69a507ba793ad%26batchId%3D69b2c629d92ec16308d1a4c8
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 4
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:50:28 [info] : 🔍 Analyzed https://sheryians.com/auth/signin?redirect=%2Fcheckout%3FcourseId%3D68da779296b89547293c7a26%26batchId%3D691dd880a4074343af9c23db
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 4
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:50:31 [info] : 🔍 Analyzed https://sheryians.com/auth/signin?redirect=%2Fcheckout%3FcourseId%3D6867e4147574bb008a1b3040%26batchId%3D691dd880a4074343af9c23b5
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 4
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:50:35 [info] : 🔍 Analyzed https://sheryians.com/auth/signin?redirect=%2Fcheckout%3FcourseId%3D68470b75165226c4889001e8%26batchId%3D691dd87fa4074343af9c239b
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 4
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:50:37 [info] : ✅ Completed crawl. Visited 25 pages starting from https://sheryians.com/
+2026-04-16 16:52:56 [info] : OPTIONS /api/v1/auth/login
+2026-04-16 16:52:56 [info] : POST /api/v1/auth/login
+2026-04-16 16:52:56 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 16:52:56 [info] : GET /api/v1/scan/history
+2026-04-16 16:53:34 [info] : OPTIONS /api/v1/scan/analyze
+2026-04-16 16:53:34 [info] : POST /api/v1/scan/analyze
+2026-04-16 16:53:36 [info] : 🚀 Selenium WebDriver initialized
+2026-04-16 16:53:47 [info] : 🔍 Analyzed https://takeuforward.org/
+    Title: "takeUforward - Best Coding Tutorials for Free"
+    SSL: true
+    Scripts: 12
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:54:00 [info] : 🔍 Analyzed https://takeuforward.org/home
+    Title: "Home - takeUforward"
+    SSL: true
+    Scripts: 44
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:54:08 [info] : 🔍 Analyzed https://takeuforward.org/plus/home
+    Title: "TUF+ Dashboard | takeUforward"
+    SSL: true
+    Scripts: 43
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:54:16 [info] : 🔍 Analyzed https://takeuforward.org/plus#pricing-section
+    Title: "TUF+ - ONE-STOP Interview Preparation | takeUforward"
+    SSL: true
+    Scripts: 43
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:54:21 [info] : 🔍 Analyzed https://takeuforward.org/get-started
+    Title: "Get Started - takeUforward"
+    SSL: true
+    Scripts: 28
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:54:29 [info] : 🔍 Analyzed https://takeuforward.org/plus
+    Title: "TUF+ - ONE-STOP Interview Preparation | takeUforward"
+    SSL: true
+    Scripts: 43
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:54:36 [info] : 🔍 Analyzed https://takeuforward.org/about
+    Title: "About - takeUforward"
+    SSL: true
+    Scripts: 36
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:54:43 [info] : 🔍 Analyzed https://takeuforward.org/contact
+    Title: "Contact Us - takeUforward"
+    SSL: true
+    Scripts: 36
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:54:48 [info] : 🔍 Analyzed https://takeuforward.org/terms-and-conditions
+    Title: "Terms of Service - takeUforward"
+    SSL: true
+    Scripts: 34
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:54:53 [info] : 🔍 Analyzed https://takeuforward.org/cancellation-policy
+    Title: "Cancellation Policy - takeUforward"
+    SSL: true
+    Scripts: 34
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:54:59 [info] : 🔍 Analyzed https://takeuforward.org/home
+    Title: "Home - takeUforward"
+    SSL: true
+    Scripts: 44
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:55:06 [info] : 🔍 Analyzed https://takeuforward.org/dashboard
+    Title: "Dashboard - takeUforward"
+    SSL: true
+    Scripts: 44
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:55:14 [info] : 🔍 Analyzed https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z
+    Title: "Strivers A2Z DSA Course/Sheet - Crack Any FAANG or PBCs"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:55:23 [info] : 🔍 Analyzed https://takeuforward.org/c/c-basic-input-output?mode=track&sheet=a2z-dsa
+    Title: "C++ Basic Input/Output - Tutorial"
+    SSL: true
+    Scripts: 52
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:55:30 [info] : 🔍 Analyzed https://takeuforward.org/dsa/blind-75-leetcode-problems-detailed-video-solutions
+    Title: "Blind 75 LeetCode Problems - Detailed Video Solutions | takeUforward"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:55:38 [info] : 🔍 Analyzed https://takeuforward.org/data-structure/two-sum-check-if-a-pair-with-given-sum-exists-in-array?mode=track&sheet=blind-75
+    Title: "Two Sum : Check if a pair with given sum exists in Array - Tutorial"
+    SSL: true
+    Scripts: 56
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:55:45 [info] : 🔍 Analyzed https://takeuforward.org/dsa/strivers-sde-sheet-top-coding-interview-problems
+    Title: "Strivers SDE Sheet - Top Coding Interview Problems | takeUforward"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:55:54 [info] : 🔍 Analyzed https://takeuforward.org/data-structure/set-matrix-zero?mode=track&sheet=strivers-sde-sheet
+    Title: "Set Matrix Zero - Tutorial"
+    SSL: true
+    Scripts: 56
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:56:01 [info] : 🔍 Analyzed https://takeuforward.org/dsa/strivers-79-last-moment-dsa-sheet-ace-interviews
+    Title: "Striver's 79 Sheet - Ace Interviews | takeUforward"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:56:09 [info] : 🔍 Analyzed https://takeuforward.org/data-structure/next_permutation-find-next-lexicographically-greater-permutation?mode=track&sheet=strivers-79-sheet
+    Title: "next_permutation : find next lexicographically greater permutation - Tutorial"
+    SSL: true
+    Scripts: 56
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:56:16 [info] : 🔍 Analyzed https://takeuforward.org/computer-network/most-asked-computer-networks-interview-questions
+    Title: "Most Asked Computer Networks Interview Questions | takeUforward"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:56:24 [info] : 🔍 Analyzed https://takeuforward.org/dbms/most-asked-dbms-interview-questions
+    Title: "Most Asked DBMS Interview Questions | takeUforward"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:56:30 [info] : 🔍 Analyzed https://takeuforward.org/operating-system/most-asked-operating-system-interview-questions
+    Title: "Most Asked Operating System Interview Questions | takeUforward"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:56:38 [info] : 🔍 Analyzed https://takeuforward.org/system-design/complete-system-design-roadmap-with-videos-for-sdes
+    Title: "Complete System Design Roadmap with Videos for SDEs | takeUforward"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:56:45 [info] : 🔍 Analyzed https://takeuforward.org/array/top-array-interview-questions-structured-path-with-video-solutions
+    Title: "Top Array Interview Questions - Structured Path with Video Solutions | takeUforward"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:56:48 [info] : ✅ Completed crawl. Visited 25 pages starting from https://takeuforward.org/
+2026-04-16 16:56:52 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 16:56:52 [info] : GET /api/v1/scan/history
+2026-04-16 16:57:22 [info] : POST /api/v1/scan/public-analyze
+2026-04-16 16:57:23 [info] : 🚀 Selenium WebDriver initialized
+2026-04-16 16:57:27 [info] : 🔍 Analyzed https://sheryians.com/
+    Title: "Sheryians Coding School | Learn, Build, Get Placed"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:57:32 [info] : 🔍 Analyzed https://sheryians.com/courses
+    Title: "Courses | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:57:37 [info] : 🔍 Analyzed https://sheryians.com/about
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:57:42 [info] : 🔍 Analyzed https://sheryians.com/support
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:57:46 [info] : 🔍 Analyzed https://sheryians.com/pdf/Terms_and_Conditions.pdf
+    Title: ""
+    SSL: true
+    Scripts: 0
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:58:03 [info] : 🔍 Analyzed https://sheryians.com/pdf/Privacy_Policy.pdf
+    Title: ""
+    SSL: true
+    Scripts: 0
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:58:20 [info] : 🔍 Analyzed https://sheryians.com/auth/signin?redirect=%2Fsubmit-projects
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 4
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:58:25 [info] : 🔍 Analyzed https://sheryians.com/hire
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:58:29 [info] : 🔍 Analyzed https://sheryians.com/pdf/Pricing-and-Refund_policy.pdf
+    Title: ""
+    SSL: true
+    Scripts: 0
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:58:46 [info] : 🔍 Analyzed https://sheryians.com/jobs
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:58:50 [info] : 🔍 Analyzed https://sheryians.com/courses/69aaf85ed2c69a507ba793ad
+    Title: "3.0 Job Ready AI Powered Cohort | Sheryians Coding School"
+    SSL: true
+    Scripts: 5
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:58:56 [info] : 🔍 Analyzed https://sheryians.com/courses/68da779296b89547293c7a26
+    Title: "Data Science and Analytics with GenAI | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:59:00 [info] : 🔍 Analyzed https://sheryians.com/courses/6867e4147574bb008a1b3040
+    Title: "2.0 Job Ready AI Powered Cohort | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:59:05 [info] : 🔍 Analyzed https://sheryians.com/courses/68470b75165226c4889001e8
+    Title: "DSA Domination Cohort | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:59:06 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 16:59:06 [info] : GET /api/v1/scan/history
+2026-04-16 16:59:09 [info] : 🔍 Analyzed https://sheryians.com/courses/6775253edb7d074fe7a88b85
+    Title: "Job Ready AI Powered Cohort: Web + DSA + Aptitude | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:59:13 [info] : 🔍 Analyzed https://sheryians.com/courses/66ffae739b0234ad8d15ea87
+    Title: "Three.JS Domination | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:59:18 [info] : 🔍 Analyzed https://sheryians.com/courses/66bd174049ff6f892bacdd47
+    Title: "Java & DSA Domination | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:59:23 [info] : 🔍 Analyzed https://sheryians.com/courses/6686990a672568d40bfbac7b
+    Title: "Aptitude & Reasoning for Campus Placements | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:59:27 [info] : 🔍 Analyzed https://sheryians.com/courses/6536a79daa4702e3ac0b465e
+    Title: "Front-End Domination: Create Anything with Code | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:59:29 [info] : OPTIONS /api/v1/qr/mine
+2026-04-16 16:59:29 [info] : GET /api/v1/qr/mine
+2026-04-16 16:59:32 [info] : 🔍 Analyzed https://sheryians.com/courses
+    Title: "Courses | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:59:36 [info] : 🔍 Analyzed https://sheryians.com/aboutus
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:59:41 [info] : OPTIONS /api/v1/qr/generate
+2026-04-16 16:59:41 [info] : POST /api/v1/qr/generate
+2026-04-16 16:59:53 [info] : 🔍 Analyzed https://sheryians.com/auth/signin?redirect=%2Fcheckout%3FcourseId%3D69aaf85ed2c69a507ba793ad%26batchId%3D69b2c629d92ec16308d1a4c8
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 4
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 16:59:57 [info] : 🔍 Analyzed https://sheryians.com/auth/signin?redirect=%2Fcheckout%3FcourseId%3D68da779296b89547293c7a26%26batchId%3D691dd880a4074343af9c23db
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 4
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:00:01 [info] : 🔍 Analyzed https://sheryians.com/auth/signin?redirect=%2Fcheckout%3FcourseId%3D6867e4147574bb008a1b3040%26batchId%3D691dd880a4074343af9c23b5
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 4
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:00:06 [info] : 🔍 Analyzed https://sheryians.com/auth/signin?redirect=%2Fcheckout%3FcourseId%3D68470b75165226c4889001e8%26batchId%3D691dd87fa4074343af9c239b
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 4
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:00:08 [info] : ✅ Completed crawl. Visited 25 pages starting from https://sheryians.com/
+2026-04-16 17:00:09 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 17:00:09 [info] : GET /api/v1/scan/history
+2026-04-16 17:02:22 [info] : OPTIONS /api/v1/scan/analyze
+2026-04-16 17:02:22 [info] : POST /api/v1/scan/analyze
+2026-04-16 17:02:24 [info] : 🚀 Selenium WebDriver initialized
+2026-04-16 17:02:31 [info] : 🔍 Analyzed https://takeuforward.org/
+    Title: "takeUforward - Best Coding Tutorials for Free"
+    SSL: true
+    Scripts: 18
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:02:43 [info] : 🔍 Analyzed https://takeuforward.org/home
+    Title: "Home - takeUforward"
+    SSL: true
+    Scripts: 44
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:02:52 [info] : 🔍 Analyzed https://takeuforward.org/plus/home
+    Title: "TUF+ Dashboard | takeUforward"
+    SSL: true
+    Scripts: 43
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:03:00 [info] : 🔍 Analyzed https://takeuforward.org/plus#pricing-section
+    Title: "TUF+ - ONE-STOP Interview Preparation | takeUforward"
+    SSL: true
+    Scripts: 43
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:03:06 [info] : 🔍 Analyzed https://takeuforward.org/get-started
+    Title: "Get Started - takeUforward"
+    SSL: true
+    Scripts: 28
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:03:13 [info] : 🔍 Analyzed https://takeuforward.org/plus
+    Title: "TUF+ - ONE-STOP Interview Preparation | takeUforward"
+    SSL: true
+    Scripts: 43
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:03:21 [info] : 🔍 Analyzed https://takeuforward.org/about
+    Title: "About - takeUforward"
+    SSL: true
+    Scripts: 36
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:03:27 [info] : 🔍 Analyzed https://takeuforward.org/contact
+    Title: "Contact Us - takeUforward"
+    SSL: true
+    Scripts: 36
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:03:32 [info] : 🔍 Analyzed https://takeuforward.org/terms-and-conditions
+    Title: "Terms of Service - takeUforward"
+    SSL: true
+    Scripts: 34
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:03:37 [info] : 🔍 Analyzed https://takeuforward.org/cancellation-policy
+    Title: "Cancellation Policy - takeUforward"
+    SSL: true
+    Scripts: 34
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:03:45 [info] : 🔍 Analyzed https://takeuforward.org/home
+    Title: "Home - takeUforward"
+    SSL: true
+    Scripts: 44
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:03:51 [info] : 🔍 Analyzed https://takeuforward.org/dashboard
+    Title: "Dashboard - takeUforward"
+    SSL: true
+    Scripts: 44
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:03:59 [info] : 🔍 Analyzed https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z
+    Title: "Strivers A2Z DSA Course/Sheet - Crack Any FAANG or PBCs"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:04:08 [info] : 🔍 Analyzed https://takeuforward.org/c/c-basic-input-output?mode=track&sheet=a2z-dsa
+    Title: "C++ Basic Input/Output - Tutorial"
+    SSL: true
+    Scripts: 52
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:04:15 [info] : 🔍 Analyzed https://takeuforward.org/dsa/blind-75-leetcode-problems-detailed-video-solutions
+    Title: "Blind 75 LeetCode Problems - Detailed Video Solutions | takeUforward"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:04:22 [info] : 🔍 Analyzed https://takeuforward.org/data-structure/two-sum-check-if-a-pair-with-given-sum-exists-in-array?mode=track&sheet=blind-75
+    Title: "Two Sum : Check if a pair with given sum exists in Array - Tutorial"
+    SSL: true
+    Scripts: 56
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:04:30 [info] : 🔍 Analyzed https://takeuforward.org/dsa/strivers-sde-sheet-top-coding-interview-problems
+    Title: "Strivers SDE Sheet - Top Coding Interview Problems | takeUforward"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:04:39 [info] : 🔍 Analyzed https://takeuforward.org/data-structure/set-matrix-zero?mode=track&sheet=strivers-sde-sheet
+    Title: "Set Matrix Zero - Tutorial"
+    SSL: true
+    Scripts: 56
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:04:46 [info] : 🔍 Analyzed https://takeuforward.org/dsa/strivers-79-last-moment-dsa-sheet-ace-interviews
+    Title: "Striver's 79 Sheet - Ace Interviews | takeUforward"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:04:54 [info] : 🔍 Analyzed https://takeuforward.org/data-structure/next_permutation-find-next-lexicographically-greater-permutation?mode=track&sheet=strivers-79-sheet
+    Title: "next_permutation : find next lexicographically greater permutation - Tutorial"
+    SSL: true
+    Scripts: 56
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:05:01 [info] : 🔍 Analyzed https://takeuforward.org/computer-network/most-asked-computer-networks-interview-questions
+    Title: "Most Asked Computer Networks Interview Questions | takeUforward"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:05:08 [info] : 🔍 Analyzed https://takeuforward.org/dbms/most-asked-dbms-interview-questions
+    Title: "Most Asked DBMS Interview Questions | takeUforward"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:05:14 [info] : 🔍 Analyzed https://takeuforward.org/operating-system/most-asked-operating-system-interview-questions
+    Title: "Most Asked Operating System Interview Questions | takeUforward"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:05:21 [info] : 🔍 Analyzed https://takeuforward.org/system-design/complete-system-design-roadmap-with-videos-for-sdes
+    Title: "Complete System Design Roadmap with Videos for SDEs | takeUforward"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:05:28 [info] : 🔍 Analyzed https://takeuforward.org/array/top-array-interview-questions-structured-path-with-video-solutions
+    Title: "Top Array Interview Questions - Structured Path with Video Solutions | takeUforward"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:05:31 [info] : ✅ Completed crawl. Visited 25 pages starting from https://takeuforward.org/
+2026-04-16 17:11:30 [info] : POST /api/v1/scan/public-analyze
+2026-04-16 17:11:32 [info] : 🚀 Selenium WebDriver initialized
+2026-04-16 17:11:35 [info] : 🔍 Analyzed https://sheryians.com/
+    Title: "Sheryians Coding School | Learn, Build, Get Placed"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:11:40 [info] : 🔍 Analyzed https://sheryians.com/courses
+    Title: "Courses | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:11:45 [info] : 🔍 Analyzed https://sheryians.com/about
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:11:49 [info] : 🔍 Analyzed https://sheryians.com/support
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:11:54 [info] : 🔍 Analyzed https://sheryians.com/pdf/Terms_and_Conditions.pdf
+    Title: ""
+    SSL: true
+    Scripts: 0
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:12:10 [info] : 🔍 Analyzed https://sheryians.com/pdf/Privacy_Policy.pdf
+    Title: ""
+    SSL: true
+    Scripts: 0
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:12:27 [info] : 🔍 Analyzed https://sheryians.com/auth/signin?redirect=%2Fsubmit-projects
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 4
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:12:31 [info] : 🔍 Analyzed https://sheryians.com/hire
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:12:36 [info] : 🔍 Analyzed https://sheryians.com/pdf/Pricing-and-Refund_policy.pdf
+    Title: ""
+    SSL: true
+    Scripts: 0
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:12:53 [info] : 🔍 Analyzed https://sheryians.com/jobs
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:12:58 [info] : 🔍 Analyzed https://sheryians.com/courses/69aaf85ed2c69a507ba793ad
+    Title: "3.0 Job Ready AI Powered Cohort | Sheryians Coding School"
+    SSL: true
+    Scripts: 5
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:13:03 [info] : 🔍 Analyzed https://sheryians.com/courses/68da779296b89547293c7a26
+    Title: "Data Science and Analytics with GenAI | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:13:08 [info] : 🔍 Analyzed https://sheryians.com/courses/6867e4147574bb008a1b3040
+    Title: "2.0 Job Ready AI Powered Cohort | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:13:12 [info] : 🔍 Analyzed https://sheryians.com/courses/68470b75165226c4889001e8
+    Title: "DSA Domination Cohort | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:13:17 [info] : 🔍 Analyzed https://sheryians.com/courses/6775253edb7d074fe7a88b85
+    Title: "Job Ready AI Powered Cohort: Web + DSA + Aptitude | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:13:22 [info] : 🔍 Analyzed https://sheryians.com/courses/66ffae739b0234ad8d15ea87
+    Title: "Three.JS Domination | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:13:26 [info] : 🔍 Analyzed https://sheryians.com/courses/66bd174049ff6f892bacdd47
+    Title: "Java & DSA Domination | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:13:31 [info] : 🔍 Analyzed https://sheryians.com/courses/6686990a672568d40bfbac7b
+    Title: "Aptitude & Reasoning for Campus Placements | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:13:36 [info] : 🔍 Analyzed https://sheryians.com/courses/6536a79daa4702e3ac0b465e
+    Title: "Front-End Domination: Create Anything with Code | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:13:41 [info] : 🔍 Analyzed https://sheryians.com/courses
+    Title: "Courses | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:13:45 [info] : 🔍 Analyzed https://sheryians.com/aboutus
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:14:02 [info] : 🔍 Analyzed https://sheryians.com/auth/signin?redirect=%2Fcheckout%3FcourseId%3D69aaf85ed2c69a507ba793ad%26batchId%3D69b2c629d92ec16308d1a4c8
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 4
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:14:06 [info] : 🔍 Analyzed https://sheryians.com/auth/signin?redirect=%2Fcheckout%3FcourseId%3D68da779296b89547293c7a26%26batchId%3D691dd880a4074343af9c23db
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 4
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:14:10 [info] : 🔍 Analyzed https://sheryians.com/auth/signin?redirect=%2Fcheckout%3FcourseId%3D6867e4147574bb008a1b3040%26batchId%3D691dd880a4074343af9c23b5
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 4
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:14:15 [info] : 🔍 Analyzed https://sheryians.com/auth/signin?redirect=%2Fcheckout%3FcourseId%3D68470b75165226c4889001e8%26batchId%3D691dd87fa4074343af9c239b
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 4
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:14:17 [info] : ✅ Completed crawl. Visited 25 pages starting from https://sheryians.com/
+2026-04-16 17:17:39 [info] : POST /api/v1/scan/public-analyze
+2026-04-16 17:17:40 [info] : 🚀 Selenium WebDriver initialized
+2026-04-16 17:17:44 [info] : 🔍 Analyzed https://sheryians.com/
+    Title: "Sheryians Coding School | Learn, Build, Get Placed"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:17:50 [info] : 🔍 Analyzed https://sheryians.com/courses
+    Title: "Courses | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:17:54 [info] : 🔍 Analyzed https://sheryians.com/about
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:17:59 [info] : 🔍 Analyzed https://sheryians.com/support
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:18:05 [info] : 🔍 Analyzed https://sheryians.com/pdf/Terms_and_Conditions.pdf
+    Title: ""
+    SSL: true
+    Scripts: 0
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:18:22 [info] : 🔍 Analyzed https://sheryians.com/pdf/Privacy_Policy.pdf
+    Title: ""
+    SSL: true
+    Scripts: 0
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:18:39 [info] : 🔍 Analyzed https://sheryians.com/auth/signin?redirect=%2Fsubmit-projects
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 4
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:18:44 [info] : 🔍 Analyzed https://sheryians.com/hire
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:18:48 [info] : 🔍 Analyzed https://sheryians.com/pdf/Pricing-and-Refund_policy.pdf
+    Title: ""
+    SSL: true
+    Scripts: 0
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:19:06 [info] : 🔍 Analyzed https://sheryians.com/jobs
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:19:11 [info] : 🔍 Analyzed https://sheryians.com/courses/69aaf85ed2c69a507ba793ad
+    Title: "3.0 Job Ready AI Powered Cohort | Sheryians Coding School"
+    SSL: true
+    Scripts: 5
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:19:15 [info] : 🔍 Analyzed https://sheryians.com/courses/68da779296b89547293c7a26
+    Title: "Data Science and Analytics with GenAI | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:19:20 [info] : 🔍 Analyzed https://sheryians.com/courses/6867e4147574bb008a1b3040
+    Title: "2.0 Job Ready AI Powered Cohort | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:19:25 [info] : 🔍 Analyzed https://sheryians.com/courses/68470b75165226c4889001e8
+    Title: "DSA Domination Cohort | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:19:30 [info] : 🔍 Analyzed https://sheryians.com/courses/6775253edb7d074fe7a88b85
+    Title: "Job Ready AI Powered Cohort: Web + DSA + Aptitude | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:19:34 [info] : 🔍 Analyzed https://sheryians.com/courses/66ffae739b0234ad8d15ea87
+    Title: "Three.JS Domination | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:19:39 [info] : 🔍 Analyzed https://sheryians.com/courses/66bd174049ff6f892bacdd47
+    Title: "Java & DSA Domination | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:19:43 [info] : 🔍 Analyzed https://sheryians.com/courses/6686990a672568d40bfbac7b
+    Title: "Aptitude & Reasoning for Campus Placements | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:19:48 [info] : 🔍 Analyzed https://sheryians.com/courses/6536a79daa4702e3ac0b465e
+    Title: "Front-End Domination: Create Anything with Code | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:19:53 [info] : 🔍 Analyzed https://sheryians.com/courses
+    Title: "Courses | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:19:57 [info] : 🔍 Analyzed https://sheryians.com/aboutus
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:20:14 [info] : 🔍 Analyzed https://sheryians.com/auth/signin?redirect=%2Fcheckout%3FcourseId%3D69aaf85ed2c69a507ba793ad%26batchId%3D69b2c629d92ec16308d1a4c8
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 4
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:20:18 [info] : 🔍 Analyzed https://sheryians.com/auth/signin?redirect=%2Fcheckout%3FcourseId%3D68da779296b89547293c7a26%26batchId%3D691dd880a4074343af9c23db
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 4
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:20:23 [info] : 🔍 Analyzed https://sheryians.com/auth/signin?redirect=%2Fcheckout%3FcourseId%3D6867e4147574bb008a1b3040%26batchId%3D691dd880a4074343af9c23b5
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 4
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:20:27 [info] : 🔍 Analyzed https://sheryians.com/auth/signin?redirect=%2Fcheckout%3FcourseId%3D68470b75165226c4889001e8%26batchId%3D691dd87fa4074343af9c239b
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 4
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:20:30 [info] : ✅ Completed crawl. Visited 25 pages starting from https://sheryians.com/
+2026-04-16 17:46:02 [info] : OPTIONS /api/v1/auth/login
+2026-04-16 17:46:02 [info] : POST /api/v1/auth/login
+2026-04-16 17:46:02 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 17:46:02 [info] : GET /api/v1/scan/history
+2026-04-16 17:46:46 [info] : OPTIONS /api/v1/scan/analyze
+2026-04-16 17:46:46 [info] : POST /api/v1/scan/analyze
+2026-04-16 17:46:48 [info] : 🚀 Selenium WebDriver initialized
+2026-04-16 17:46:52 [info] : 🔍 Analyzed https://takeuforward.org/
+    Title: "takeUforward - Best Coding Tutorials for Free"
+    SSL: true
+    Scripts: 11
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:47:01 [info] : 🔍 Analyzed https://takeuforward.org/home
+    Title: "Home - takeUforward"
+    SSL: true
+    Scripts: 44
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:47:07 [info] : 🔍 Analyzed https://takeuforward.org/plus/home
+    Title: "TUF+ Dashboard | takeUforward"
+    SSL: true
+    Scripts: 43
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:47:14 [info] : 🔍 Analyzed https://takeuforward.org/plus#pricing-section
+    Title: "TUF+ - ONE-STOP Interview Preparation | takeUforward"
+    SSL: true
+    Scripts: 43
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:47:18 [info] : 🔍 Analyzed https://takeuforward.org/get-started
+    Title: "Get Started - takeUforward"
+    SSL: true
+    Scripts: 28
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:47:24 [info] : 🔍 Analyzed https://takeuforward.org/plus
+    Title: "TUF+ - ONE-STOP Interview Preparation | takeUforward"
+    SSL: true
+    Scripts: 43
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:47:30 [info] : 🔍 Analyzed https://takeuforward.org/about
+    Title: "About - takeUforward"
+    SSL: true
+    Scripts: 36
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:47:35 [info] : 🔍 Analyzed https://takeuforward.org/contact
+    Title: "Contact Us - takeUforward"
+    SSL: true
+    Scripts: 36
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:47:40 [info] : 🔍 Analyzed https://takeuforward.org/terms-and-conditions
+    Title: "Terms of Service - takeUforward"
+    SSL: true
+    Scripts: 34
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:47:44 [info] : 🔍 Analyzed https://takeuforward.org/cancellation-policy
+    Title: "Cancellation Policy - takeUforward"
+    SSL: true
+    Scripts: 34
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:47:50 [info] : 🔍 Analyzed https://takeuforward.org/home
+    Title: "Home - takeUforward"
+    SSL: true
+    Scripts: 44
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:47:55 [info] : 🔍 Analyzed https://takeuforward.org/dashboard
+    Title: "Dashboard - takeUforward"
+    SSL: true
+    Scripts: 44
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:48:02 [info] : 🔍 Analyzed https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z
+    Title: "Strivers A2Z DSA Course/Sheet - Crack Any FAANG or PBCs"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:48:10 [info] : 🔍 Analyzed https://takeuforward.org/c/c-basic-input-output?mode=track&sheet=a2z-dsa
+    Title: "C++ Basic Input/Output - Tutorial"
+    SSL: true
+    Scripts: 52
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:48:16 [info] : 🔍 Analyzed https://takeuforward.org/dsa/blind-75-leetcode-problems-detailed-video-solutions
+    Title: "Blind 75 LeetCode Problems - Detailed Video Solutions | takeUforward"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:48:23 [info] : 🔍 Analyzed https://takeuforward.org/data-structure/two-sum-check-if-a-pair-with-given-sum-exists-in-array?mode=track&sheet=blind-75
+    Title: "Two Sum : Check if a pair with given sum exists in Array - Tutorial"
+    SSL: true
+    Scripts: 56
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:48:29 [info] : 🔍 Analyzed https://takeuforward.org/dsa/strivers-sde-sheet-top-coding-interview-problems
+    Title: "Strivers SDE Sheet - Top Coding Interview Problems | takeUforward"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:48:36 [info] : 🔍 Analyzed https://takeuforward.org/data-structure/set-matrix-zero?mode=track&sheet=strivers-sde-sheet
+    Title: "Set Matrix Zero - Tutorial"
+    SSL: true
+    Scripts: 56
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:48:42 [info] : 🔍 Analyzed https://takeuforward.org/dsa/strivers-79-last-moment-dsa-sheet-ace-interviews
+    Title: "Striver's 79 Sheet - Ace Interviews | takeUforward"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:48:49 [info] : 🔍 Analyzed https://takeuforward.org/data-structure/next_permutation-find-next-lexicographically-greater-permutation?mode=track&sheet=strivers-79-sheet
+    Title: "next_permutation : find next lexicographically greater permutation - Tutorial"
+    SSL: true
+    Scripts: 56
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:48:54 [info] : 🔍 Analyzed https://takeuforward.org/computer-network/most-asked-computer-networks-interview-questions
+    Title: "Most Asked Computer Networks Interview Questions | takeUforward"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:48:59 [info] : 🔍 Analyzed https://takeuforward.org/dbms/most-asked-dbms-interview-questions
+    Title: "Most Asked DBMS Interview Questions | takeUforward"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:49:05 [info] : 🔍 Analyzed https://takeuforward.org/operating-system/most-asked-operating-system-interview-questions
+    Title: "Most Asked Operating System Interview Questions | takeUforward"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:49:10 [info] : 🔍 Analyzed https://takeuforward.org/system-design/complete-system-design-roadmap-with-videos-for-sdes
+    Title: "Complete System Design Roadmap with Videos for SDEs | takeUforward"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:49:16 [info] : 🔍 Analyzed https://takeuforward.org/array/top-array-interview-questions-structured-path-with-video-solutions
+    Title: "Top Array Interview Questions - Structured Path with Video Solutions | takeUforward"
+    SSL: true
+    Scripts: 38
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:49:18 [info] : ✅ Completed crawl. Visited 25 pages starting from https://takeuforward.org/
+2026-04-16 17:49:30 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 17:49:30 [info] : GET /api/v1/scan/history
+2026-04-16 17:53:09 [info] : POST /api/v1/scan/public-analyze
+2026-04-16 17:53:10 [info] : 🚀 Selenium WebDriver initialized
+2026-04-16 17:53:14 [info] : 🔍 Analyzed https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmeet.google.com%2Flanding&dsh=S-704541737%3A1776342191783414&followup=https%3A%2F%2Fmeet.google.com%2Flanding&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_XlFcEUGt6oln_ICFzKm_sgdxUQUJq_TM9j9dj2uGwFot7kuealg5XcylRVGxB6KOaqzFnSEQ
+    Title: "Sign in - Google Accounts"
+    SSL: true
+    Scripts: 1
+    Trackers: 0
+    Suspicious JS: 2
+    Password Form: true
+    Iframes: 2
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:53:17 [info] : ✅ Completed crawl. Visited 1 pages starting from https://meet.google.com/landing
+2026-04-16 17:54:12 [info] : POST /api/v1/scan/public-analyze
+2026-04-16 17:54:13 [info] : 🚀 Selenium WebDriver initialized
+2026-04-16 17:54:16 [info] : 🔍 Analyzed https://www.google.com/
+    Title: "Google"
+    SSL: true
+    Scripts: 8
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 31
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:54:21 [info] : 🔍 Analyzed https://www.google.com/imghp?hl=en&ogbl
+    Title: "Google Images"
+    SSL: true
+    Scripts: 8
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 27
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:54:27 [info] : 🔍 Analyzed https://www.google.com/
+    Title: "Google"
+    SSL: true
+    Scripts: 8
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 31
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:54:34 [info] : 🔍 Analyzed https://www.google.com/
+    Title: "Google"
+    SSL: true
+    Scripts: 8
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 31
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:54:41 [info] : 🔍 Analyzed https://www.google.com/
+    Title: "Google"
+    SSL: true
+    Scripts: 8
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 31
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:54:48 [info] : 🔍 Analyzed https://www.google.com/
+    Title: "Google"
+    SSL: true
+    Scripts: 8
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 31
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:54:56 [info] : 🔍 Analyzed https://www.google.com/
+    Title: "Google"
+    SSL: true
+    Scripts: 8
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 31
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:55:01 [info] : 🔍 Analyzed https://www.google.com/
+    Title: "Google"
+    SSL: true
+    Scripts: 8
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 29
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:55:05 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 17:55:05 [info] : GET /api/v1/scan/history
+2026-04-16 17:55:07 [info] : 🔍 Analyzed https://www.google.com/
+    Title: "Google"
+    SSL: true
+    Scripts: 8
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 31
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:55:07 [info] : GET /api/v1/scan/history
+2026-04-16 17:55:14 [info] : 🔍 Analyzed https://www.google.com/
+    Title: "Google"
+    SSL: true
+    Scripts: 6
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 31
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:55:15 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 17:55:15 [info] : GET /api/v1/scan/history
+2026-04-16 17:55:21 [info] : 🔍 Analyzed https://www.google.com/
+    Title: "Google"
+    SSL: true
+    Scripts: 7
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 28
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:55:34 [info] : 🔍 Analyzed https://business.google.com/in/google-ads/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1
+    Title: "Google Ads - Reach Customers & Sell More with Online Advertising"
+    SSL: true
+    Scripts: 30
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 2
+    Hidden Elements: 1
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:55:45 [info] : 🔍 Analyzed https://business.google.com/in/business-profile/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpbfooter&fg=1
+    Title: "Get Listed on Google - Google Business Profile"
+    SSL: true
+    Scripts: 15
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 2
+    Hidden Elements: 1
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:55:52 [info] : 🔍 Analyzed https://www.google.com/preferences?hl=en-IN&fg=1
+    Title: "Search Settings"
+    SSL: true
+    Scripts: 3
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 2
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:55:56 [info] : 🔍 Analyzed https://www.google.com/advanced_search?hl=en-IN&fg=1
+    Title: "Google Advanced Search"
+    SSL: true
+    Scripts: 2
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 1
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:56:02 [info] : 🔍 Analyzed https://myaccount.google.com/intro/yourdata/search?utm_source=googlemenu&fg=1&cctld=com
+    Title: "Your data in Search"
+    SSL: true
+    Scripts: 5
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:56:08 [info] : 🔍 Analyzed https://www.google.com/history/optout?hl=en-IN&fg=1
+    Title: "Google – Search customisation"
+    SSL: true
+    Scripts: 4
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 1
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:56:13 [info] : 🔍 Analyzed https://www.google.com/advanced_image_search?hl=en-IN&fg=1
+    Title: "Google Advanced Image Search"
+    SSL: true
+    Scripts: 2
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 1
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:56:17 [info] : 🔍 Analyzed https://www.google.com/imghp?hl=hi&ogbl
+    Title: "Google Images"
+    SSL: true
+    Scripts: 8
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 27
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:56:22 [info] : 🔍 Analyzed https://www.google.com/
+    Title: "Google"
+    SSL: true
+    Scripts: 8
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 31
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:56:28 [info] : 🔍 Analyzed https://www.google.com/
+    Title: "Google"
+    SSL: true
+    Scripts: 8
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 31
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:56:33 [info] : 🔍 Analyzed https://www.google.com/
+    Title: "Google"
+    SSL: true
+    Scripts: 8
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 31
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:56:39 [info] : 🔍 Analyzed https://www.google.com/
+    Title: "Google"
+    SSL: true
+    Scripts: 8
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 31
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:56:41 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 17:56:41 [info] : GET /api/v1/scan/history
+2026-04-16 17:56:44 [info] : 🔍 Analyzed https://www.google.com/
+    Title: "Google"
+    SSL: true
+    Scripts: 8
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 31
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:56:50 [info] : 🔍 Analyzed https://www.google.com/
+    Title: "Google"
+    SSL: true
+    Scripts: 8
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 29
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-16 17:56:53 [info] : ✅ Completed crawl. Visited 25 pages starting from https://www.google.com/
+2026-04-16 17:58:34 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 17:58:34 [info] : GET /api/v1/scan/history
+2026-04-16 18:44:55 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 18:44:55 [info] : GET /api/v1/scan/history
+2026-04-16 19:23:33 [info] : OPTIONS /api/v1/scan/history
+2026-04-16 19:23:33 [info] : GET /api/v1/scan/history
+2026-04-17 11:13:56 [info] : OPTIONS /api/v1/scan/history
+2026-04-17 11:38:36 [info] : OPTIONS /api/v1/scan/history
+2026-04-17 11:38:36 [info] : GET /api/v1/scan/history
+2026-04-17 11:38:37 [info] : GET /api/v1/scan/history
+2026-04-17 11:38:39 [info] : GET /api/v1/scan/history
+2026-04-17 11:38:43 [info] : OPTIONS /api/v1/scan/history
+2026-04-17 11:38:43 [info] : GET /api/v1/scan/history
+2026-04-17 11:43:10 [info] : OPTIONS /api/v1/scan/history
+2026-04-17 11:43:10 [info] : GET /api/v1/scan/history
+2026-04-17 11:43:11 [info] : GET /api/v1/scan/history
+2026-04-17 18:58:23 [info] : OPTIONS /api/v1/scan/history
+2026-04-17 18:58:23 [info] : GET /api/v1/scan/history
+2026-04-17 18:58:24 [info] : GET /api/v1/scan/history
+2026-04-21 12:59:41 [info] : OPTIONS /api/v1/auth/login
+2026-04-21 12:59:42 [info] : POST /api/v1/auth/login
+2026-04-21 12:59:42 [info] : OPTIONS /api/v1/scan/history
+2026-04-21 12:59:42 [info] : GET /api/v1/scan/history
+2026-04-21 12:59:43 [info] : GET /api/v1/scan/history
+2026-04-21 12:59:45 [info] : GET /api/v1/scan/history
+2026-04-21 12:59:49 [info] : OPTIONS /api/v1/scan/history
+2026-04-21 12:59:49 [info] : GET /api/v1/scan/history
+2026-04-21 13:01:36 [info] : OPTIONS /api/v1/scan/history
+2026-04-21 13:01:36 [info] : GET /api/v1/scan/history
+2026-04-21 13:01:37 [info] : GET /api/v1/scan/history
+2026-04-21 13:01:39 [info] : GET /api/v1/scan/history
+2026-04-21 13:01:43 [info] : OPTIONS /api/v1/scan/history
+2026-04-21 13:01:43 [info] : GET /api/v1/scan/history
+2026-04-21 13:03:50 [info] : OPTIONS /api/v1/scan/history
+2026-04-21 13:03:50 [info] : GET /api/v1/scan/history
+2026-04-21 13:03:51 [info] : GET /api/v1/scan/history
+2026-04-21 13:03:53 [info] : GET /api/v1/scan/history
+2026-04-21 13:05:20 [info] : OPTIONS /api/v1/scan/history
+2026-04-21 13:05:20 [info] : GET /api/v1/scan/history
+2026-04-21 13:08:07 [info] : OPTIONS /api/v1/scan/history
+2026-04-21 13:08:07 [info] : GET /api/v1/scan/history
+2026-04-21 13:08:08 [info] : GET /api/v1/scan/history
+2026-04-21 13:08:10 [info] : GET /api/v1/scan/history
+2026-04-21 13:08:14 [info] : OPTIONS /api/v1/scan/history
+2026-04-21 13:08:14 [info] : GET /api/v1/scan/history
+2026-04-21 13:08:37 [info] : OPTIONS /api/v1/auth/login
+2026-04-21 13:08:37 [info] : POST /api/v1/auth/login
+2026-04-21 13:09:22 [info] : OPTIONS /api/v1/auth/register
+2026-04-21 13:09:22 [info] : POST /api/v1/auth/register
+2026-04-21 13:09:32 [info] : OPTIONS /api/v1/auth/register
+2026-04-21 13:09:32 [info] : POST /api/v1/auth/register
+2026-04-21 13:09:53 [info] : OPTIONS /api/v1/auth/register
+2026-04-21 13:09:53 [info] : POST /api/v1/auth/register
+2026-04-21 13:10:00 [info] : OPTIONS /api/v1/auth/register
+2026-04-21 13:10:00 [info] : POST /api/v1/auth/register
+2026-04-21 13:10:14 [info] : OPTIONS /api/v1/auth/register
+2026-04-21 13:10:14 [info] : POST /api/v1/auth/register
+2026-04-21 13:10:49 [info] : OPTIONS /api/v1/auth/register
+2026-04-21 13:10:49 [info] : POST /api/v1/auth/register
+2026-04-21 13:11:03 [info] : OPTIONS /api/v1/auth/register
+2026-04-21 13:11:03 [info] : POST /api/v1/auth/register
+2026-04-21 13:11:27 [info] : OPTIONS /api/v1/auth/login
+2026-04-21 13:11:27 [info] : POST /api/v1/auth/login
+2026-04-21 13:12:10 [info] : OPTIONS /api/v1/auth/login
+2026-04-21 13:12:10 [info] : POST /api/v1/auth/login
+2026-04-21 13:13:20 [info] : OPTIONS /api/v1/auth/register
+2026-04-21 13:13:20 [info] : POST /api/v1/auth/register
+2026-04-21 13:15:02 [info] : OPTIONS /api/v1/auth/register
+2026-04-21 13:15:02 [info] : POST /api/v1/auth/register
+2026-04-21 13:15:16 [info] : OPTIONS /api/v1/auth/login
+2026-04-21 13:15:16 [info] : POST /api/v1/auth/login
+2026-04-21 13:15:17 [info] : OPTIONS /api/v1/scan/history
+2026-04-21 13:15:17 [info] : GET /api/v1/scan/history
+2026-04-21 13:15:53 [info] : OPTIONS /api/v1/scan/analyze
+2026-04-21 13:15:53 [info] : POST /api/v1/scan/analyze
+2026-04-21 13:15:59 [info] : 🚀 Selenium WebDriver initialized
+2026-04-21 13:16:03 [info] : 🔍 Analyzed https://chatgpt.com/
+    Title: "ChatGPT"
+    SSL: true
+    Scripts: 1
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-21 13:16:18 [info] : ✅ Completed crawl. Visited 1 pages starting from https://chatgpt.com/
+2026-04-21 13:17:41 [info] : OPTIONS /api/v1/scan/analyze
+2026-04-21 13:17:41 [info] : POST /api/v1/scan/analyze
+2026-04-21 13:17:43 [info] : 🚀 Selenium WebDriver initialized
+2026-04-21 13:17:48 [info] : 🔍 Analyzed https://chatgpt.com/
+    Title: "ChatGPT"
+    SSL: true
+    Scripts: 1
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-21 13:18:04 [info] : ✅ Completed crawl. Visited 1 pages starting from https://chatgpt.com/
+2026-04-21 13:29:00 [info] : OPTIONS /api/v1/scan/history
+2026-04-21 13:29:00 [info] : GET /api/v1/scan/history
+2026-04-21 13:29:06 [info] : OPTIONS /api/v1/scan/history
+2026-04-21 13:29:06 [info] : GET /api/v1/scan/history
+2026-04-21 13:29:14 [info] : OPTIONS /api/v1/scan/history
+2026-04-21 13:29:14 [info] : GET /api/v1/scan/history
+2026-04-21 13:29:16 [info] : GET /api/v1/scan/history
+2026-04-21 13:29:29 [info] : OPTIONS /api/v1/scan/analyze
+2026-04-21 13:29:30 [info] : POST /api/v1/scan/analyze
+2026-04-21 13:29:32 [info] : 🚀 Selenium WebDriver initialized
+2026-04-21 13:29:37 [info] : 🔍 Analyzed https://chatgpt.com/
+    Title: "ChatGPT"
+    SSL: true
+    Scripts: 1
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-21 13:29:53 [info] : ✅ Completed crawl. Visited 1 pages starting from https://chatgpt.com/
+2026-04-21 13:34:51 [info] : OPTIONS /api/v1/scan/history
+2026-04-21 13:34:51 [info] : GET /api/v1/scan/history
+2026-04-21 13:35:28 [info] : OPTIONS /api/v1/scan/history
+2026-04-21 13:35:28 [info] : GET /api/v1/scan/history
+2026-04-21 13:36:55 [info] : OPTIONS /api/v1/scan/history
+2026-04-21 13:36:55 [info] : GET /api/v1/scan/history
+2026-04-21 13:37:25 [info] : OPTIONS /api/v1/scan/analyze
+2026-04-21 13:37:25 [info] : POST /api/v1/scan/analyze
+2026-04-21 13:37:27 [info] : 🚀 Selenium WebDriver initialized
+2026-04-21 13:37:32 [info] : 🔍 Analyzed https://chatgpt.com/
+    Title: "ChatGPT"
+    SSL: true
+    Scripts: 1
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-21 13:37:47 [info] : ✅ Completed crawl. Visited 1 pages starting from https://chatgpt.com/
+2026-04-21 14:17:37 [info] : OPTIONS /api/v1/scan/history
+2026-04-21 14:17:37 [info] : GET /api/v1/scan/history
+2026-04-21 14:17:45 [info] : OPTIONS /api/v1/scan/history
+2026-04-21 14:17:45 [info] : GET /api/v1/scan/history
+2026-04-21 14:17:49 [info] : OPTIONS /api/v1/qr/mine
+2026-04-21 14:17:49 [info] : GET /api/v1/qr/mine
+2026-04-21 14:18:20 [info] : OPTIONS /api/v1/scan/history
+2026-04-21 14:18:20 [info] : GET /api/v1/scan/history
+2026-04-21 16:31:08 [info] : OPTIONS /api/v1/scan/history
+2026-04-21 16:31:08 [info] : GET /api/v1/scan/history
+2026-04-21 16:31:23 [info] : OPTIONS /api/v1/scan/analyze
+2026-04-21 16:31:23 [info] : POST /api/v1/scan/analyze
+2026-04-21 16:33:39 [info] : OPTIONS /api/v1/auth/login
+2026-04-21 16:33:39 [info] : POST /api/v1/auth/login
+2026-04-21 16:33:46 [info] : OPTIONS /api/v1/auth/login
+2026-04-21 16:33:46 [info] : POST /api/v1/auth/login
+2026-04-21 16:35:01 [info] : OPTIONS /api/v1/auth/login
+2026-04-21 16:35:01 [info] : POST /api/v1/auth/login
+2026-04-21 16:35:28 [info] : OPTIONS /api/v1/auth/login
+2026-04-21 16:35:28 [info] : POST /api/v1/auth/login
+2026-04-21 16:36:24 [info] : OPTIONS /api/v1/auth/login
+2026-04-21 16:36:24 [info] : POST /api/v1/auth/login
+2026-04-21 16:37:57 [info] : OPTIONS /api/v1/auth/register
+2026-04-21 16:37:57 [info] : POST /api/v1/auth/register
+2026-04-21 16:38:05 [info] : OPTIONS /api/v1/auth/register
+2026-04-21 16:38:06 [info] : POST /api/v1/auth/register
+2026-04-21 16:38:35 [info] : OPTIONS /api/v1/auth/register
+2026-04-21 16:38:35 [info] : POST /api/v1/auth/register
+2026-04-21 16:38:58 [info] : OPTIONS /api/v1/auth/login
+2026-04-21 16:38:58 [info] : POST /api/v1/auth/login
+2026-04-21 16:38:59 [info] : OPTIONS /api/v1/scan/history
+2026-04-21 16:38:59 [info] : GET /api/v1/scan/history
+2026-04-21 16:39:09 [info] : OPTIONS /api/v1/scan/analyze
+2026-04-21 16:39:09 [info] : POST /api/v1/scan/analyze
+2026-04-21 16:43:25 [info] : OPTIONS /api/v1/auth/login
+2026-04-21 16:43:25 [info] : POST /api/v1/auth/login
+2026-04-21 16:43:25 [info] : OPTIONS /api/v1/scan/history
+2026-04-21 16:43:25 [info] : GET /api/v1/scan/history
+2026-04-21 16:43:35 [info] : OPTIONS /api/v1/scan/analyze
+2026-04-21 16:43:35 [info] : POST /api/v1/scan/analyze
+2026-04-21 16:43:52 [info] : 🔍 Analyzed https://chatgpt.com/
+2026-04-21 16:44:08 [error] : ❌ Link extraction failed for https://chatgpt.com/: Waiting for at least one element to be located By(tag name, a)
+Wait timed out after 15550ms
+2026-04-21 16:44:10 [info] : ✅ Completed crawl. Visited 1 pages starting from https://chatgpt.com/
+2026-04-21 17:02:36 [info] : OPTIONS /api/v1/scan/analyze
+2026-04-21 17:02:36 [info] : POST /api/v1/scan/analyze
+2026-04-21 17:02:57 [info] : 🔍 Analyzed https://sheryians.com/
+2026-04-21 17:03:18 [info] : 🔍 Analyzed https://sheryians.com/courses
+2026-04-21 17:03:40 [info] : 🔍 Analyzed https://sheryians.com/about
+2026-04-21 17:04:01 [info] : 🔍 Analyzed https://sheryians.com/support
+2026-04-21 17:04:42 [info] : OPTIONS /api/v1/scan/analyze
+2026-04-21 17:04:42 [info] : POST /api/v1/scan/analyze
+2026-04-21 17:04:43 [info] : 🚀 Selenium WebDriver initialized
+2026-04-21 17:04:45 [info] : 🔍 Analyzed https://sheryians.com/
+    Title: "Sheryians Coding School | Learn, Build, Get Placed"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-21 17:04:49 [info] : 🔍 Analyzed https://sheryians.com/courses
+    Title: "Courses | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-21 17:04:53 [info] : 🔍 Analyzed https://sheryians.com/about
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-21 17:04:57 [info] : 🔍 Analyzed https://sheryians.com/support
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-21 17:05:01 [info] : 🔍 Analyzed https://sheryians.com/pdf/Terms_and_Conditions.pdf
+    Title: ""
+    SSL: true
+    Scripts: 0
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-21 17:05:08 [info] : ✅ Completed crawl. Visited 20 pages starting from https://sheryians.com/
+2026-04-21 17:05:38 [info] : OPTIONS /api/v1/scan/analyze
+2026-04-21 17:05:38 [info] : POST /api/v1/scan/analyze
+2026-04-21 17:05:38 [info] : 🚀 Selenium WebDriver initialized
+2026-04-21 17:05:40 [info] : 🔍 Analyzed https://sheryians.com/
+    Title: "Sheryians Coding School | Learn, Build, Get Placed"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-21 17:05:45 [info] : 🔍 Analyzed https://sheryians.com/courses
+    Title: "Courses | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-21 17:05:49 [info] : 🔍 Analyzed https://sheryians.com/about
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-21 17:05:53 [info] : 🔍 Analyzed https://sheryians.com/support
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-21 17:05:56 [info] : 🔍 Analyzed https://sheryians.com/pdf/Terms_and_Conditions.pdf
+    Title: ""
+    SSL: true
+    Scripts: 0
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-21 17:06:13 [info] : 🔍 Analyzed https://sheryians.com/pdf/Privacy_Policy.pdf
+    Title: ""
+    SSL: true
+    Scripts: 0
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-21 17:06:29 [info] : 🔍 Analyzed https://sheryians.com/auth/signin?redirect=%2Fsubmit-projects
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 4
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-21 17:06:33 [info] : 🔍 Analyzed https://sheryians.com/hire
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-21 17:06:37 [info] : 🔍 Analyzed https://sheryians.com/pdf/Pricing-and-Refund_policy.pdf
+    Title: ""
+    SSL: true
+    Scripts: 0
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-21 17:06:53 [info] : 🔍 Analyzed https://sheryians.com/jobs
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-21 17:06:57 [info] : 🔍 Analyzed https://sheryians.com/courses/69aaf85ed2c69a507ba793ad
+    Title: "3.0 Job Ready AI Powered Cohort | Sheryians Coding School"
+    SSL: true
+    Scripts: 5
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-21 17:07:01 [info] : 🔍 Analyzed https://sheryians.com/courses/68da779296b89547293c7a26
+    Title: "Data Science and Analytics with GenAI | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-21 17:07:05 [info] : 🔍 Analyzed https://sheryians.com/courses/6867e4147574bb008a1b3040
+    Title: "2.0 Job Ready AI Powered Cohort | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-21 17:07:09 [info] : 🔍 Analyzed https://sheryians.com/courses/68470b75165226c4889001e8
+    Title: "DSA Domination Cohort | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-21 17:07:13 [info] : 🔍 Analyzed https://sheryians.com/courses/6775253edb7d074fe7a88b85
+    Title: "Job Ready AI Powered Cohort: Web + DSA + Aptitude | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-21 17:07:17 [info] : 🔍 Analyzed https://sheryians.com/courses/66ffae739b0234ad8d15ea87
+    Title: "Three.JS Domination | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-21 17:07:21 [info] : 🔍 Analyzed https://sheryians.com/courses/66bd174049ff6f892bacdd47
+    Title: "Java & DSA Domination | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-21 17:07:25 [info] : 🔍 Analyzed https://sheryians.com/courses/6686990a672568d40bfbac7b
+    Title: "Aptitude & Reasoning for Campus Placements | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-21 17:07:29 [info] : 🔍 Analyzed https://sheryians.com/courses/6536a79daa4702e3ac0b465e
+    Title: "Front-End Domination: Create Anything with Code | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-21 17:07:33 [info] : 🔍 Analyzed https://sheryians.com/courses
+    Title: "Courses | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-21 17:07:37 [info] : 🔍 Analyzed https://sheryians.com/aboutus
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-21 17:07:53 [info] : 🔍 Analyzed https://sheryians.com/auth/signin?redirect=%2Fcheckout%3FcourseId%3D69aaf85ed2c69a507ba793ad%26batchId%3D69b2c629d92ec16308d1a4c8
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 4
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-21 17:07:57 [info] : 🔍 Analyzed https://sheryians.com/auth/signin?redirect=%2Fcheckout%3FcourseId%3D68da779296b89547293c7a26%26batchId%3D691dd880a4074343af9c23db
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 4
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-21 17:08:01 [info] : 🔍 Analyzed https://sheryians.com/auth/signin?redirect=%2Fcheckout%3FcourseId%3D6867e4147574bb008a1b3040%26batchId%3D691dd880a4074343af9c23b5
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 4
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-21 17:08:05 [info] : 🔍 Analyzed https://sheryians.com/auth/signin?redirect=%2Fcheckout%3FcourseId%3D68470b75165226c4889001e8%26batchId%3D691dd87fa4074343af9c239b
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 4
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-21 17:08:07 [info] : ✅ Completed crawl. Visited 25 pages starting from https://sheryians.com/
+2026-04-21 17:08:47 [info] : OPTIONS /api/v1/scan/history
+2026-04-21 17:08:47 [info] : GET /api/v1/scan/history
+2026-04-21 17:49:05 [info] : OPTIONS /api/v1/scan/history
+2026-04-21 17:49:05 [info] : GET /api/v1/scan/history
+2026-04-21 18:22:48 [info] : OPTIONS /api/v1/scan/history
+2026-04-21 18:22:48 [info] : GET /api/v1/scan/history
+2026-04-21 18:23:04 [info] : OPTIONS /api/v1/scan/history
+2026-04-21 18:23:04 [info] : GET /api/v1/scan/history
+2026-04-21 18:24:50 [info] : OPTIONS /api/v1/scan/history
+2026-04-21 18:24:50 [info] : GET /api/v1/scan/history
+2026-04-21 18:26:48 [info] : OPTIONS /api/v1/scan/history
+2026-04-21 18:26:48 [info] : GET /api/v1/scan/history
+2026-04-21 18:41:54 [info] : OPTIONS /api/v1/scan/history
+2026-04-21 18:41:54 [info] : GET /api/v1/scan/history
+2026-04-21 19:28:20 [info] : OPTIONS /api/v1/scan/history
+2026-04-21 19:28:20 [info] : GET /api/v1/scan/history
+2026-04-21 19:31:49 [info] : OPTIONS /api/v1/scan/history
+2026-04-21 19:31:49 [info] : GET /api/v1/scan/history
+2026-04-23 13:03:31 [info] : OPTIONS /api/v1/auth/login
+2026-04-23 13:03:31 [info] : POST /api/v1/auth/login
+2026-04-23 13:03:32 [info] : OPTIONS /api/v1/scan/history
+2026-04-23 13:03:32 [info] : GET /api/v1/scan/history
+2026-04-23 13:04:12 [info] : OPTIONS /api/v1/scan/analyze
+2026-04-23 13:04:12 [info] : POST /api/v1/scan/analyze
+2026-04-23 13:04:18 [info] : 🚀 Selenium WebDriver initialized
+2026-04-23 13:04:28 [info] : 🔍 Analyzed https://identity.getpostman.com/login?authFlowId=e335f89d-dbad-4274-8488-d6f043f02832
+    Title: "Postman - Sign In"
+    SSL: true
+    Scripts: 5
+    Trackers: 0
+    Suspicious JS: 2
+    Password Form: true
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 13:04:36 [info] : 🔍 Analyzed https://identity.getpostman.com/trouble-signing-in?authFlowId=e30227c6-a496-47e8-9e8e-f4940a53cace
+    Title: "Postman - Reset Password"
+    SSL: true
+    Scripts: 2
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 3
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 13:04:45 [info] : 🔍 Analyzed https://accounts.google.com/v3/signin/identifier?opparams=%253FauthFlowId%253De30227c6-a496-47e8-9e8e-f4940a53cace&dsh=S-988170182%3A1776929683515650&client_id=805864674475-3abs2rivkn7kreou30b8ru8esnti4oih.apps.googleusercontent.com&o2v=2&prompt=select_account&redirect_uri=https%3A%2F%2Fidentity.getpostman.com%2Fgoogle%2Foauth2%2Fcallback&response_type=code&scope=profile+email&service=lso&state=f553ae5fe3314b4c811ca66717228c42&flowName=GeneralOAuthFlow&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAMQOiLkO73vvwWp4v0y-CRYSsWA4R8_b3-co7Yxx7_KUGtQxZCujRp1Kbfh_sVNOwbdFBvXoq8MsG-2qVflYG31JVRnSuWXrtp0tHG_MTQe6tKCNzmewt9ibKMyk6lPWcOIDio5PcGUcFe7R4UBySp7y12uLwwvCDFkokFO9-WS62lKJOGfjyRxcEo6ztkg-4nxCn50F-s4wn9np51ypCH90ORRfWJqJyVGwsHa-CgfKC5S6y4Sd2ffsrA-BxsaysJj0JtnQM0L4XzV3YNJvK7A8bBSbdFMdSyEROdj5eKHPt3XOQ9X1vb-mr2WBFUodDusI-pm5mkqYSDvyw7XAqguNmDv6R32vyX3yLsMSzvrruueerwZcJI_Knyqvm6M6wZ-2kcoQrpRBdjIF4O1dv60SCGSphtYI5AyULwLEDHvjaja29ghkGvaLHxdRHc80rBzzYL5qoQDU89dRoB7GELfmgcKb0bBIy3VCl-HZbRHYUnFsaI%26flowName%3DGeneralOAuthFlow%26as%3DS-988170182%253A1776929683515650%26client_id%3D805864674475-3abs2rivkn7kreou30b8ru8esnti4oih.apps.googleusercontent.com%26requestPath%3D%252Fsignin%252Foauth%252Fconsent%23&app_domain=https%3A%2F%2Fidentity.getpostman.com&rart=ANgoxcfTY7aynGB-nAQvwCi4PJKLfuQyDDSg608PN25E3-VJs_WHRIqpHvt_ufoU0F1S_SDpHzifeikLi0w49Oh2ouRo-yXRqSAPsAkz4DMbjgBvBxv54QU
+    Title: "Sign in - Google Accounts"
+    SSL: true
+    Scripts: 1
+    Trackers: 0
+    Suspicious JS: 2
+    Password Form: true
+    Iframes: 2
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 13:04:54 [info] : 🔍 Analyzed https://github.com/login?client_id=Ov23li230j1cbJfa4SPW&return_to=%2Flogin%2Foauth%2Fauthorize%3FauthFlowId%3De30227c6-a496-47e8-9e8e-f4940a53cace%26client_id%3DOv23li230j1cbJfa4SPW%26redirect_uri%3Dhttps%253A%252F%252Fidentity.getpostman.com%252Foauth2%252Fgithub%252Fcallback%26scope%3Duser%253Aemail%252Cread%253Auser%26state%3D514581a94e4a45d6b4207774b273cb16
+    Title: "Sign in to GitHub · GitHub"
+    SSL: true
+    Scripts: 45
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: true
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 13:05:00 [info] : 🔍 Analyzed https://identity.getpostman.com/enterprise/login?authFlowId=e30227c6-a496-47e8-9e8e-f4940a53cace
+    Title: "Sign in with Single Sign-On"
+    SSL: true
+    Scripts: 1
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 13:05:06 [info] : 🔍 Analyzed https://identity.getpostman.com/signup?authFlowId=e30227c6-a496-47e8-9e8e-f4940a53cace
+    Title: "Postman - Sign Up"
+    SSL: true
+    Scripts: 5
+    Trackers: 0
+    Suspicious JS: 2
+    Password Form: true
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 13:05:12 [info] : 🔍 Analyzed https://identity.getpostman.com/login?authFlowId=e30227c6-a496-47e8-9e8e-f4940a53cace&lang=en-US
+    Title: "Postman - Sign In"
+    SSL: true
+    Scripts: 5
+    Trackers: 0
+    Suspicious JS: 2
+    Password Form: true
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 13:05:25 [info] : 🔍 Analyzed https://identity.getpostman.com/login?authFlowId=e30227c6-a496-47e8-9e8e-f4940a53cace&lang=ja
+    Title: "Postman - サインイン"
+    SSL: true
+    Scripts: 5
+    Trackers: 0
+    Suspicious JS: 2
+    Password Form: true
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 13:05:33 [info] : 🔍 Analyzed https://identity.getpostman.com/login?authFlowId=e30227c6-a496-47e8-9e8e-f4940a53cace
+    Title: "Postman - サインイン"
+    SSL: true
+    Scripts: 5
+    Trackers: 0
+    Suspicious JS: 2
+    Password Form: true
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 13:05:41 [info] : 🔍 Analyzed https://identity.getpostman.com/trouble-signing-in?authFlowId=e30227c6-a496-47e8-9e8e-f4940a53cace&lang=en-US
+    Title: "Postman - Reset Password"
+    SSL: true
+    Scripts: 2
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 3
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 13:05:47 [info] : 🔍 Analyzed https://identity.getpostman.com/trouble-signing-in?authFlowId=e30227c6-a496-47e8-9e8e-f4940a53cace&lang=ja
+    Title: "Postman - パスワードのリセット"
+    SSL: true
+    Scripts: 2
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 3
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 13:05:53 [info] : 🔍 Analyzed https://identity.getpostman.com/login?addAccount=1&authFlowId=e30227c6-a496-47e8-9e8e-f4940a53cace
+    Title: "Postman - サインイン"
+    SSL: true
+    Scripts: 5
+    Trackers: 0
+    Suspicious JS: 2
+    Password Form: true
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 13:05:58 [info] : 🔍 Analyzed https://identity.getpostman.com/enterprise/login?authFlowId=e30227c6-a496-47e8-9e8e-f4940a53cace&lang=en-US
+    Title: "Sign in with Single Sign-On"
+    SSL: true
+    Scripts: 1
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 13:06:02 [info] : 🔍 Analyzed https://identity.getpostman.com/enterprise/login?authFlowId=e30227c6-a496-47e8-9e8e-f4940a53cace&lang=ja
+    Title: "シングルサインオンでサインイン"
+    SSL: true
+    Scripts: 1
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 13:06:09 [info] : 🔍 Analyzed https://accounts.google.com/v3/signin/identifier?opparams=%253FauthFlowId%253De30227c6-a496-47e8-9e8e-f4940a53cace&dsh=S420276182%3A1776929768780434&client_id=805864674475-3abs2rivkn7kreou30b8ru8esnti4oih.apps.googleusercontent.com&o2v=2&prompt=select_account&redirect_uri=https%3A%2F%2Fidentity.getpostman.com%2Fgoogle%2Foauth2%2Fcallback&response_type=code&scope=profile+email&service=lso&state=b6249197ab1646aab7e987a32cb8cc82&flowName=GeneralOAuthFlow&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAMU3kc65EKKWLTxQ5WNZYFNK66niySeChYDn5T15iGqqNNdBLf1qJqUXw_K2ay_-KKtANBPbo0o-k7rQHdWFauJpVMibYsGwBxg9LZX8wZ9u6Pz89KSYXdk2I2djsN57YuwedN5S9dzQZZbbJQBaU0PGwF1Y3qibM5uSLOsnJ32IsDR7du8bhjdZz2UkC_DA1_0dwJ9tqtu0bibYeqze5HDrCD2ZdpVd6Xe2wwIdI10qGPny068VDye7ODZohRpPxB1hkhr4pas0E_X2pUwpMJbLco3-yCT9XnLcoUXWOHQIk_V9o4w1uw5rAtz7QydM5vu68g2WlFyozF2StqqMR8VxxltX6hgP3CjclQ86Gf4WWN1qVrt105L5SNPDgvREcUYCG4OUD4TQTFuZP40-32mG58PBGt9Vaj1gpTPRgSs6VG1YZDoX14Ic9vBekc_8Jo5CfLOnrB5o3InfbGgzOL45k-g5H2DXle6YVPgFRbH5j9WYEQ%26flowName%3DGeneralOAuthFlow%26as%3DS420276182%253A1776929768780434%26client_id%3D805864674475-3abs2rivkn7kreou30b8ru8esnti4oih.apps.googleusercontent.com%26requestPath%3D%252Fsignin%252Foauth%252Fconsent%23&app_domain=https%3A%2F%2Fidentity.getpostman.com&rart=ANgoxcd2IenaEBEv1BdiGFMb2oNErunWQaEa3IfDdy1mYd0_wTI04goS4HGzAzWxthDjGKcjzEdxfk-NrPoU7ToPBloq_tGBoeRMcALKRiXqK8aCxHlgVWw
+    Title: "Sign in - Google Accounts"
+    SSL: true
+    Scripts: 1
+    Trackers: 0
+    Suspicious JS: 2
+    Password Form: true
+    Iframes: 2
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 13:06:17 [info] : 🔍 Analyzed https://github.com/login?client_id=Ov23li230j1cbJfa4SPW&return_to=%2Flogin%2Foauth%2Fauthorize%3FauthFlowId%3De30227c6-a496-47e8-9e8e-f4940a53cace%26client_id%3DOv23li230j1cbJfa4SPW%26redirect_uri%3Dhttps%253A%252F%252Fidentity.getpostman.com%252Foauth2%252Fgithub%252Fcallback%26scope%3Duser%253Aemail%252Cread%253Auser%26state%3Db0d672601cb7400593c78f3924fadf42
+    Title: "Sign in to GitHub · GitHub"
+    SSL: true
+    Scripts: 50
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: true
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 13:06:24 [info] : 🔍 Analyzed https://identity.getpostman.com/signup?authFlowId=e30227c6-a496-47e8-9e8e-f4940a53cace&lang=en-US
+    Title: "Postman - Sign Up"
+    SSL: true
+    Scripts: 5
+    Trackers: 0
+    Suspicious JS: 2
+    Password Form: true
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 13:06:30 [info] : 🔍 Analyzed https://identity.getpostman.com/signup?authFlowId=e30227c6-a496-47e8-9e8e-f4940a53cace&lang=ja
+    Title: "Postman - 登録"
+    SSL: true
+    Scripts: 5
+    Trackers: 0
+    Suspicious JS: 2
+    Password Form: true
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 13:06:38 [info] : 🔍 Analyzed https://identity.getpostman.com/trouble-signing-in?addAccount=1&authFlowId=e30227c6-a496-47e8-9e8e-f4940a53cace
+    Title: "Postman - パスワードのリセット"
+    SSL: true
+    Scripts: 2
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 3
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 13:06:43 [info] : 🔍 Analyzed https://identity.getpostman.com/enterprise/login?addAccount=1&authFlowId=e30227c6-a496-47e8-9e8e-f4940a53cace
+    Title: "シングルサインオンでサインイン"
+    SSL: true
+    Scripts: 1
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 13:06:48 [info] : 🔍 Analyzed https://identity.getpostman.com/signup?addAccount=1&authFlowId=e30227c6-a496-47e8-9e8e-f4940a53cace
+    Title: "Postman - 登録"
+    SSL: true
+    Scripts: 5
+    Trackers: 0
+    Suspicious JS: 2
+    Password Form: true
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 13:06:58 [info] : 🔍 Analyzed https://identity.getpostman.com/login?addAccount=1&authFlowId=e30227c6-a496-47e8-9e8e-f4940a53cace&lang=en-US
+    Title: "Postman - Sign In"
+    SSL: true
+    Scripts: 5
+    Trackers: 0
+    Suspicious JS: 2
+    Password Form: true
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 13:07:04 [info] : 🔍 Analyzed https://identity.getpostman.com/login?addAccount=1&authFlowId=e30227c6-a496-47e8-9e8e-f4940a53cace&lang=ja
+    Title: "Postman - サインイン"
+    SSL: true
+    Scripts: 5
+    Trackers: 0
+    Suspicious JS: 2
+    Password Form: true
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 13:07:12 [info] : 🔍 Analyzed https://identity.getpostman.com/trouble-signing-in?addAccount=1&authFlowId=e30227c6-a496-47e8-9e8e-f4940a53cace&lang=en-US
+    Title: "Postman - Reset Password"
+    SSL: true
+    Scripts: 2
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 3
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 13:07:17 [info] : 🔍 Analyzed https://identity.getpostman.com/trouble-signing-in?addAccount=1&authFlowId=e30227c6-a496-47e8-9e8e-f4940a53cace&lang=ja
+    Title: "Postman - パスワードのリセット"
+    SSL: true
+    Scripts: 2
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 3
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 13:07:20 [info] : ✅ Completed crawl. Visited 25 pages starting from https://identity.getpostman.com/
+2026-04-23 13:09:11 [info] : OPTIONS /api/v1/scan/history
+2026-04-23 13:09:11 [info] : GET /api/v1/scan/history
+2026-04-23 13:10:06 [info] : OPTIONS /api/v1/scan/history
+2026-04-23 13:10:06 [info] : GET /api/v1/scan/history
+2026-04-23 13:10:45 [info] : OPTIONS /api/v1/scan/history
+2026-04-23 13:10:46 [info] : GET /api/v1/scan/history
+2026-04-23 13:10:54 [info] : OPTIONS /api/v1/scan/history
+2026-04-23 13:10:54 [info] : GET /api/v1/scan/history
+2026-04-23 13:20:15 [info] : OPTIONS /api/v1/scan/history
+2026-04-23 13:20:15 [info] : GET /api/v1/scan/history
+2026-04-23 13:20:31 [info] : OPTIONS /api/v1/scan/history
+2026-04-23 13:20:31 [info] : GET /api/v1/scan/history
+2026-04-23 13:24:17 [info] : OPTIONS /api/v1/scan/history
+2026-04-23 13:24:17 [info] : GET /api/v1/scan/history
+2026-04-23 13:26:15 [info] : OPTIONS /api/v1/scan/history
+2026-04-23 13:26:15 [info] : GET /api/v1/scan/history
+2026-04-23 13:26:45 [info] : OPTIONS /api/v1/scan/history
+2026-04-23 13:26:45 [info] : GET /api/v1/scan/history
+2026-04-23 13:27:54 [info] : OPTIONS /api/v1/scan/history
+2026-04-23 13:27:54 [info] : GET /api/v1/scan/history
+2026-04-23 13:32:37 [info] : OPTIONS /api/v1/scan/history
+2026-04-23 13:48:17 [info] : OPTIONS /api/v1/scan/history
+2026-04-23 13:48:17 [info] : GET /api/v1/scan/history
+2026-04-23 13:48:19 [info] : GET /api/v1/scan/history
+2026-04-23 13:48:22 [info] : GET /api/v1/scan/history
+2026-04-23 13:51:02 [info] : OPTIONS /api/v1/scan/history
+2026-04-23 13:51:02 [info] : GET /api/v1/scan/history
+2026-04-23 13:51:25 [info] : OPTIONS /api/v1/scan/analyze
+2026-04-23 13:51:25 [info] : POST /api/v1/scan/analyze
+2026-04-23 13:51:27 [info] : 🚀 Selenium WebDriver initialized
+2026-04-23 13:51:30 [info] : 🔍 Analyzed https://chatgpt.com/
+    Title: "ChatGPT"
+    SSL: true
+    Scripts: 1
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 13:51:46 [info] : ✅ Completed crawl. Visited 1 pages starting from https://chatgpt.com/
+2026-04-23 13:51:54 [info] : OPTIONS /api/v1/scan/history
+2026-04-23 13:51:54 [info] : GET /api/v1/scan/history
+2026-04-23 13:52:15 [info] : OPTIONS /api/v1/scan/history
+2026-04-23 13:52:15 [info] : GET /api/v1/scan/history
+2026-04-23 13:52:20 [info] : OPTIONS /api/v1/scan/analyze
+2026-04-23 13:52:20 [info] : POST /api/v1/scan/analyze
+2026-04-23 13:52:21 [info] : 🚀 Selenium WebDriver initialized
+2026-04-23 13:52:23 [info] : 🔍 Analyzed https://neetesh26.github.io/Portfolio-updated/
+    Title: "Neetesh Prajapati | Portfolio"
+    SSL: true
+    Scripts: 4
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 13:52:26 [info] : 🔍 Analyzed https://neetesh26.github.io/Portfolio-updated/#about
+    Title: "Neetesh Prajapati | Portfolio"
+    SSL: true
+    Scripts: 4
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 13:52:30 [info] : 🔍 Analyzed https://neetesh26.github.io/Portfolio-updated/#experience
+    Title: "Neetesh Prajapati | Portfolio"
+    SSL: true
+    Scripts: 4
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 13:52:33 [info] : 🔍 Analyzed https://neetesh26.github.io/Portfolio-updated/#projects
+    Title: "Neetesh Prajapati | Portfolio"
+    SSL: true
+    Scripts: 4
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 13:52:36 [info] : 🔍 Analyzed https://neetesh26.github.io/Portfolio-updated/#contact
+    Title: "Neetesh Prajapati | Portfolio"
+    SSL: true
+    Scripts: 4
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 13:52:39 [info] : ✅ Completed crawl. Visited 5 pages starting from https://neetesh26.github.io/Portfolio-updated/
+2026-04-23 13:52:49 [info] : OPTIONS /api/v1/scan/history
+2026-04-23 13:52:49 [info] : GET /api/v1/scan/history
+2026-04-23 13:53:01 [info] : OPTIONS /api/v1/scan/history
+2026-04-23 13:53:01 [info] : GET /api/v1/scan/history
+2026-04-23 13:53:25 [info] : OPTIONS /api/v1/scan/history
+2026-04-23 13:53:25 [info] : GET /api/v1/scan/history
+2026-04-23 13:57:32 [info] : OPTIONS /api/v1/scan/history
+2026-04-23 13:57:32 [info] : GET /api/v1/scan/history
+2026-04-23 13:57:59 [info] : OPTIONS /api/v1/scan/analyze
+2026-04-23 13:57:59 [info] : POST /api/v1/scan/analyze
+2026-04-23 13:58:00 [info] : 🚀 Selenium WebDriver initialized
+2026-04-23 13:58:03 [info] : 🔍 Analyzed https://sheryians.com/
+    Title: "Sheryians Coding School | Learn, Build, Get Placed"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 13:58:08 [info] : 🔍 Analyzed https://sheryians.com/courses
+    Title: "Courses | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 13:58:12 [info] : 🔍 Analyzed https://sheryians.com/
+    Title: "Sheryians Coding School | Learn, Build, Get Placed"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 13:58:16 [info] : 🔍 Analyzed https://sheryians.com/about
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 13:58:20 [info] : 🔍 Analyzed https://sheryians.com/support
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 13:58:25 [info] : 🔍 Analyzed https://sheryians.com/pdf/Terms_and_Conditions.pdf
+    Title: ""
+    SSL: true
+    Scripts: 0
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 13:58:42 [info] : 🔍 Analyzed https://sheryians.com/pdf/Privacy_Policy.pdf
+    Title: ""
+    SSL: true
+    Scripts: 0
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 13:58:58 [info] : 🔍 Analyzed https://sheryians.com/auth/signin?redirect=%2Fsubmit-projects
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 4
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 13:59:02 [info] : 🔍 Analyzed https://sheryians.com/hire
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 13:59:06 [info] : 🔍 Analyzed https://sheryians.com/pdf/Pricing-and-Refund_policy.pdf
+    Title: ""
+    SSL: true
+    Scripts: 0
+    Trackers: 0
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 13:59:23 [info] : 🔍 Analyzed https://sheryians.com/jobs
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 13:59:26 [info] : 🔍 Analyzed https://sheryians.com/courses/69aaf85ed2c69a507ba793ad
+    Title: "3.0 Job Ready AI Powered Cohort | Sheryians Coding School"
+    SSL: true
+    Scripts: 5
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 13:59:31 [info] : 🔍 Analyzed https://sheryians.com/courses/68da779296b89547293c7a26
+    Title: "Data Science and Analytics with GenAI | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 13:59:35 [info] : 🔍 Analyzed https://sheryians.com/courses/6867e4147574bb008a1b3040
+    Title: "2.0 Job Ready AI Powered Cohort | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 13:59:38 [info] : 🔍 Analyzed https://sheryians.com/courses/68470b75165226c4889001e8
+    Title: "DSA Domination Cohort | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 13:59:43 [info] : 🔍 Analyzed https://sheryians.com/courses/6775253edb7d074fe7a88b85
+    Title: "Job Ready AI Powered Cohort: Web + DSA + Aptitude | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 13:59:47 [info] : 🔍 Analyzed https://sheryians.com/courses/66ffae739b0234ad8d15ea87
+    Title: "Three.JS Domination | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 13:59:51 [info] : 🔍 Analyzed https://sheryians.com/courses/66bd174049ff6f892bacdd47
+    Title: "Java & DSA Domination | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 13:59:55 [info] : 🔍 Analyzed https://sheryians.com/courses/6686990a672568d40bfbac7b
+    Title: "Aptitude & Reasoning for Campus Placements | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 13:59:59 [info] : 🔍 Analyzed https://sheryians.com/courses/6536a79daa4702e3ac0b465e
+    Title: "Front-End Domination: Create Anything with Code | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 14:00:03 [info] : 🔍 Analyzed https://sheryians.com/courses
+    Title: "Courses | Sheryians Coding School"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 14:00:07 [info] : 🔍 Analyzed https://sheryians.com/aboutus
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 3
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 0
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 14:00:24 [info] : 🔍 Analyzed https://sheryians.com/auth/signin?redirect=%2Fcheckout%3FcourseId%3D69aaf85ed2c69a507ba793ad%26batchId%3D69b2c629d92ec16308d1a4c8
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 4
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 14:00:28 [info] : 🔍 Analyzed https://sheryians.com/auth/signin?redirect=%2Fcheckout%3FcourseId%3D68da779296b89547293c7a26%26batchId%3D691dd880a4074343af9c23db
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 4
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 14:00:32 [info] : 🔍 Analyzed https://sheryians.com/auth/signin?redirect=%2Fcheckout%3FcourseId%3D6867e4147574bb008a1b3040%26batchId%3D691dd880a4074343af9c23b5
+    Title: "Sheryians Coding School | Learn Coding in India"
+    SSL: true
+    Scripts: 4
+    Trackers: 1
+    Suspicious JS: 0
+    Password Form: false
+    Iframes: 1
+    Hidden Elements: 0
+    Phishing Risk: false
+    Clickjacking Risk: false
+2026-04-23 14:00:35 [info] : ✅ Completed crawl. Visited 25 pages starting from https://sheryians.com
+2026-04-23 15:59:47 [info] : OPTIONS /api/v1/scan/history
+2026-04-23 15:59:47 [info] : GET /api/v1/scan/history
+2026-04-23 15:59:50 [info] : GET /api/v1/scan/history
+2026-04-23 16:00:20 [info] : OPTIONS /api/v1/scan/history
+2026-04-23 16:00:57 [info] : OPTIONS /api/v1/scan/history
+2026-04-23 16:00:57 [info] : GET /api/v1/scan/history
+2026-04-23 16:01:10 [info] : OPTIONS /api/v1/scan/history
+2026-04-23 16:01:10 [info] : GET /api/v1/scan/history
+2026-04-23 16:01:43 [info] : OPTIONS /api/v1/scan/history
+2026-04-23 16:01:43 [info] : GET /api/v1/scan/history
+2026-04-23 16:02:21 [info] : OPTIONS /api/v1/scan/history
+2026-04-23 16:02:21 [info] : GET /api/v1/scan/history
+2026-04-23 16:02:23 [info] : GET /api/v1/scan/history
+2026-04-23 16:02:24 [info] : GET /api/v1/scan/history
+2026-04-23 16:02:33 [info] : OPTIONS /api/v1/scan/history
+2026-04-23 16:02:33 [info] : GET /api/v1/scan/history
+2026-04-23 16:05:05 [info] : OPTIONS /api/v1/scan/history
+2026-04-23 16:05:05 [info] : GET /api/v1/scan/history
